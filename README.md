@@ -1,22 +1,52 @@
-# Karan Alves Pereira :man_technologist:
+<h1 align="center">
+<img src=https://github.com/eduardodsr/mypage/blob/master/dev.gif?raw=true" alt="dev" width="150px" /></h1>
 
-[![Site Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://karanalpe.com.br/)](https://karanalpe.com.br/)
+<h1 align="center"> Hi, I'm Eduardo </h1>
 
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/karanalpe)](https://github.com/karanalpe)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/karanalpe/)](https://www.linkedin.com/in/karanalpe/)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:karanalpe@gmail.com)](mailto:karanalpe@gmail.com)
-Site
-Youtube...
-Stackoverflow
-Medium...
 
-https://img.shields.io/website?label=site&logo=medium&up_color=blue&url=https%3A%2F%2Fkaranalpe.com.br%2F
+### Programação Front-end:
 
-### Hello! <img style="margin: 0 auto" src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" height="50"> Welcome to my profile :octocat:
+✔️ HTML
 
-- 🔭 I’m currently working on mobile development
-- 🌱 I’m currently learning Dart, 💙 Flutter, IoT and Deno
-- 👯 I currently try to contribute with the organization and structure of Flutter projects that use [**GetX**](https://pub.dev/packages/get) as a state manager, with a pattern proposed by me called [**getx_pattern**](https://kauemurakami.github.io/getx_pattern), and accelerate the development with an extension made for vs code, [**GetX Snippets**](https://marketplace.visualstudio.com/items?itemName=get-snippets.get-snippets), both projects can be found in **this github**, in addition starting to contribute directly to the package.
-- 💬 Ask me about them, open an **issue**
-- 📫 How to reach me : [Telegram](https://t.me/kauemurakami)
-- ⚡ Passionate about new mobile technologies.
+✔️ CSS
+
+✔️ JavaScript (Node)
+
+✔️ Java (cursando)
+
+✔️ Python (cursando)
+
+
+### Projetos em andamento:
+
+✔️ IFRN – Instituto Federal do Rio Grande do Norte (2020) – Cursando – EaD
+
+✔️ IGTI – Bootcamp Online – Programador de Software Iniciante – Cursando – EaD (148h)
+
+✔️ DIO – Bootcamp Online – Fullstack Developer Banco Carrefour – Cursando – EaD (96h)
+
+✔️ SANTANDER CODERS MOBILE BY DIGITAL HOUSE
+
+✔️ Cursos da NAVE DO CONHECIMENTO (2020)
+
+✔️ Cursos do Professor Gustavo Guanabara, Cursos em Vídeo. Também apoiador da plataforma BETA TESTER DO ESTUDONAUTA
+
+✔️ ALURA / ORACLE NEXT EDUCATION (2020) – Formação Oracle One – Lógica de Programação (JavaScript); Front-end; Java; Empreendedorismo
+
+
+### Projetos concluídos:
+
+✔️ CISCO Networking Academy (2020) - CCNA v7 (70h); IT Essentials: PC Hardware and Software (70h).
+
+✔️ NAVE DO CONHECIMENTO – Lógica de Programação; JavaScript; HTML5 e CSS3; Helpdesk; VBA; Word; Excel.
+
+...
+
+## Sobre mim 
+
+: 💻: Estudante de Programação. Análise e Desenvolvimento de Sistemas. 
+
+
+## Contatos:mailbox_with_no_mail:
+
+:email: : eduardodsr@gmail.com
