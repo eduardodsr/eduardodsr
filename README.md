@@ -4,6 +4,11 @@
 <h1 align="center"> Hi, I'm Eduardo </h1>
 
 
+### Sobre mim 
+
+💻: Estudante de Programação. Análise e Desenvolvimento de Sistemas. 
+
+
 ### Programação Front-end:
 
 ✔️ HTML
@@ -19,32 +24,20 @@
 
 ### Projetos em andamento:
 
-✔️ IFRN – Instituto Federal do Rio Grande do Norte (2020) – Cursando – EaD
+✔️ IFRN – Instituto Federal do Rio Grande do Norte (2020) – Cursando – EaD.
 
-✔️ IGTI – Bootcamp Online – Programador de Software Iniciante – Cursando – EaD (148h)
+✔️ IGTI – Bootcamp Online – Programador de Software Iniciante – Cursando – EaD (148h).
 
-✔️ DIO – Bootcamp Online – Fullstack Developer Banco Carrefour – Cursando – EaD (96h)
+✔️ DIO – Bootcamp Online – Fullstack Developer Banco Carrefour – Cursando – EaD (96h).
 
-✔️ SANTANDER CODERS MOBILE BY DIGITAL HOUSE
+✔️ SANTANDER CODERS MOBILE BY DIGITAL HOUSE.
 
-✔️ Cursos da NAVE DO CONHECIMENTO (2020)
+✔️ Cursos da NAVE DO CONHECIMENTO (2020).
 
-✔️ Cursos do Professor Gustavo Guanabara, Cursos em Vídeo. Também apoiador da plataforma BETA TESTER DO ESTUDONAUTA
+✔️ Cursos do Professor Gustavo Guanabara, Cursos em Vídeo. Projeto BETA TESTER DO ESTUDONAUTA.
 
-✔️ ALURA / ORACLE NEXT EDUCATION (2020) – Formação Oracle One – Lógica de Programação (JavaScript); Front-end; Java; Empreendedorismo
+✔️ ALURA / ORACLE NEXT EDUCATION (2020) – Formação Oracle One – Lógica de Programação (JavaScript); Front-end; Java; Empreendedorismo.
 
-
-### Projetos concluídos:
-
-✔️ CISCO Networking Academy (2020) - CCNA v7 (70h); IT Essentials: PC Hardware and Software (70h).
-
-✔️ NAVE DO CONHECIMENTO – Lógica de Programação; JavaScript; HTML5 e CSS3; Helpdesk; VBA; Word; Excel.
-
-...
-
-## Sobre mim 
-
-: 💻: Estudante de Programação. Análise e Desenvolvimento de Sistemas. 
 
 
 ## Contatos:mailbox_with_no_mail:
