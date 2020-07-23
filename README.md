@@ -1,7 +1,8 @@
-<h1 align="center">
-<img src=https://github.com/eduardodsr/mypage/blob/master/dev.gif?raw=true" alt="dev" width="150px" /></h1>
-
-<h1 align="center"> Hi, I'm Eduardo </h1>
+<p align="center">
+  <img src=https://github.com/eduardodsr/mypage/blob/master/dev2.gif?raw=true" alt="dev2" width="150px" />
+  <img src=https://github.com/eduardodsr/mypage/blob/master/dev.gif?raw=true" alt="dev" width="150px" />
+</p>
+<h1 align="center"> Hi, I'm Eduardo</h1>
 
 
 ### Sobre mim 
