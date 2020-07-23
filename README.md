@@ -4,6 +4,7 @@
 </p>
 <h1 align="center"> Hi, I'm Eduardo</h1>
 
+### Hello! <img style="margin: 0 auto" src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" height="50"> Welcome to my profile :octocat:
 
 ### Sobre mim 
 
