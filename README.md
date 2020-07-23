@@ -9,7 +9,7 @@
 
 💻: Estudante de Programação. Análise e Desenvolvimento de Sistemas. 
 
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/eduardodsr/)](https://https://github.com/eduardodsr/)
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/eduardodsr/)](https://github.com/eduardodsr/)
 
 ### Programação Front-end:
 
