@@ -44,7 +44,7 @@
 
 ### Site - Projeto em andamento:
 
-:computer: <https://eduardosr.netlify.app/>
+:computer: <https://eduardodsr.netlify.app/>
 
 
 
