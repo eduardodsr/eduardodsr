@@ -42,6 +42,11 @@
 ✔️ ALURA / ORACLE NEXT EDUCATION (2020) – Formação Oracle One – Lógica de Programação (JavaScript); Front-end; Java; Empreendedorismo.
 
 
+### Site - Projeto em andamento:
+
+:computer: <https://eduardosr.netlify.app/>
+
+
 
 ## Contatos:mailbox_with_no_mail:
 
