@@ -10,6 +10,8 @@
 
 💻: Estudante de Programação. Análise e Desenvolvimento de Sistemas. 
 
+💻: Bacharel de Sistemas de Informação (Nível Superior Completo - 4 anos). 
+
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/eduardodsr/)](https://github.com/eduardodsr/)
 
 ### Programação Front-end:
