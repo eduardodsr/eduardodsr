@@ -31,17 +31,19 @@
 
 ✔️ IGTI – Bootcamp Online – Programador de Software Iniciante – Cursando – EaD (2020).
 
-✔️ Digital Innovation One (DIO) – Cursando os Bootcamp Online – Node JS. Fullstack Developer & Backend Developer (2020). 
+✔️ Digital Innovation One (DIO) – Cursando os Bootcamp Online – Node JS. Fullstack Developer & Backend Developer – EaD (2020). 
 
-✔️ Digital Innovation One (DIO) – Cursando os Bootcamp Online – Desenvolvimento Front-end, Desenvolvimento Back-end & Desenvolvimento Fullstack (2020).
+✔️ Digital Innovation One (DIO) – Cursando os Bootcamp Online – Desenvolvimento Front-end, Desenvolvimento Back-end & Desenvolvimento Fullstack – EaD (2020).
 
-✔️ SANTANDER CODERS MOBILE BY DIGITAL HOUSE (2020).
+✔️ SANTANDER CODERS MOBILE BY DIGITAL HOUSE - Introdução a programação - EaD (2020).
 
 ✔️ Cursos da NAVE DO CONHECIMENTO (2020).
 
 ✔️ Cursos do Professor Gustavo Guanabara – Aluno do site Cursos em Vídeo. Apoiador do Projeto Beta Tester do Estudonauta (2020).
 
 ✔️ ALURA / ORACLE NEXT EDUCATION (2020) – Formação Oracle One – Lógica de Programação, JavaScript (2020). 
+
+✔️ CISCO Networking Academy (2020) – CCNAv7: Introduction to Networks (80h); IT Essentials: PC Hardware and Software (70h); Get Connected (30h). 
 
 
 ### Site - Projeto em andamento:
@@ -52,5 +54,6 @@
 
 ## Contatos:mailbox_with_no_mail:
 
-:email: : eduardodsr@gmail.com
+:email: : eduardodsr@gmail.com (E-mail Pessoal)
+
 :email: : eduardo.rodrigues1@academico.ifrn.edu.br	(E-mail Acadêmico)
