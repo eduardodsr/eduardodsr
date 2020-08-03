@@ -27,27 +27,30 @@
 
 ### Projetos em andamento:
 
-✔️ IFRN – Instituto Federal do Rio Grande do Norte (2020) – Cursando – EaD.
+✔️ IFRN – Instituto Federal do Rio Grande do Norte (2020) – Programador Web – Cursando – EaD (2020).
 
-✔️ IGTI – Bootcamp Online – Programador de Software Iniciante – Cursando – EaD (148h).
+✔️ IGTI – Bootcamp Online – Programador de Software Iniciante – Cursando – EaD (2020).
 
-✔️ DIO – Bootcamp Online – Fullstack Developer Banco Carrefour – Cursando – EaD (96h).
+✔️ Digital Innovation One (DIO) – Cursando os Bootcamp Online – Node JS. Fullstack Developer & Backend Developer (2020). 
 
-✔️ SANTANDER CODERS MOBILE BY DIGITAL HOUSE.
+✔️ Digital Innovation One (DIO) – Cursando os Bootcamp Online – Desenvolvimento Front-end, Desenvolvimento Back-end & Desenvolvimento Fullstack (2020).
+
+✔️ SANTANDER CODERS MOBILE BY DIGITAL HOUSE (2020).
 
 ✔️ Cursos da NAVE DO CONHECIMENTO (2020).
 
-✔️ Cursos do Professor Gustavo Guanabara, Cursos em Vídeo. Projeto BETA TESTER DO ESTUDONAUTA.
+✔️ Cursos do Professor Gustavo Guanabara – Aluno do site Cursos em Vídeo. Apoiador do Projeto Beta Tester do Estudonauta (2020).
 
-✔️ ALURA / ORACLE NEXT EDUCATION (2020) – Formação Oracle One – Lógica de Programação (JavaScript); Front-end; Java; Empreendedorismo.
+✔️ ALURA / ORACLE NEXT EDUCATION (2020) – Formação Oracle One – Lógica de Programação, JavaScript (2020). 
 
 
 ### Site - Projeto em andamento:
 
 :computer: <https://eduardodsr.netlify.app/>
 
-
+:computer: Criação de uma Loja Virtual. O projeto de Comercio Eletrônico está em desenvolvimento. (Target: 30/Set/2020)
 
 ## Contatos:mailbox_with_no_mail:
 
 :email: : eduardodsr@gmail.com
+:email: : eduardo.rodrigues1@academico.ifrn.edu.br	(E-mail Acadêmico)
