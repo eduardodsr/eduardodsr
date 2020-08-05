@@ -8,7 +8,7 @@
 
 ### Sobre mim 
 
-🇧🇷
+:brazil:
 
 💻: Estudante de Programação Web e Programação de Sistemas. 
 
