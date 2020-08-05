@@ -8,7 +8,7 @@
 
 ### Sobre mim 
 
-🇰🇷 :kr:
+🇧🇷 Bandeira: Brasil (Bandeira)
 
 💻: Estudante de Programação Web e Programação de Sistemas. 
 
