@@ -8,7 +8,7 @@
 
 ### Hello! <img style="margin: 0 auto" src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" height="25"> Bem vindo ao meu portfólio!
 
-### Sobre mim 
+### Sobre mim:
 
 💻: Estudante de Programação Web e Programação de Sistemas. 
 
