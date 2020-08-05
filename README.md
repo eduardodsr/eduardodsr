@@ -6,7 +6,7 @@
 
 <img style="margin: 0 auto" src="https://github.com/eduardodsr/mypage/blob/master/brazil.gif" height="25"> :brazil:
 
-### Hello! <img style="margin: 0 auto" src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" height="30"> Bem vindo ao meu portfólio!
+### Hello! <img style="margin: 0 auto" src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" height="25"> Bem vindo ao meu portfólio!
 
 ### Sobre mim 
 
