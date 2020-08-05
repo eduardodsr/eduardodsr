@@ -8,9 +8,11 @@
 
 ### Sobre mim 
 
-💻: Estudante de Programação. Análise e Desenvolvimento de Sistemas. 
+💻: Estudante de Programação Web e Programação de Sistemas. 
 
-💻: Bacharel em Sistemas de Informação (Nível Superior Completo). 
+:bookmark: Analista de Sistemas. Desenvolvedor Front End. 
+
+:ballot_box_with_check: Bacharel em Sistemas de Informação. 
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/eduardodsr/)](https://github.com/eduardodsr/)
 
@@ -28,6 +30,8 @@
 
 
 ### Projetos em andamento:
+
+✔️ ALURA - Projeto de Imersão React – Create React App - Intrutor Mario Souto.
 
 ✔️ IFRN – Instituto Federal do Rio Grande do Norte (2020) – Programador Web – Cursando – EaD (2020).
 
