@@ -8,7 +8,7 @@
 
 ### Sobre mim 
 
-[![Github Badge](https://images.emojiterra.com/google/android-10/128px/1f1e7-1f1f7.png)
+🇧🇷
 
 💻: Estudante de Programação Web e Programação de Sistemas. 
 
