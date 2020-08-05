@@ -4,9 +4,11 @@
 </p>
 <h1 align="center"> Hi, I'm Eduardo</h1>
 
-:br: ### Hello! <img style="margin: 0 auto" src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" height="50"> Welcome to my profile!
+### Hello! <img style="margin: 0 auto" src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" height="50"> Welcome to my profile!
 
 ### Sobre mim 
+
+🇰🇷 :kr:
 
 💻: Estudante de Programação Web e Programação de Sistemas. 
 
