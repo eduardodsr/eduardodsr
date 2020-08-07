@@ -4,6 +4,37 @@
 </p>
 <h1 align="center"> Eduardo da Silva Rodrigues</h1>
 
+<p align="center">
+  <a
+    href="https://www.edsr.com.br"
+    alt="EDSR - Tecnologia da Informação"
+    target="blank"
+  >
+    <img src="https://img.shields.io/badge/-edsr.com.br-0e2c54?style=flat-square&logo=chrome&logoColor=white" />
+  </a>
+  <a
+    href="mailto:eduardodsr@gmail.com" 
+    alt="Email"
+    target="blank"
+  >
+    <img src="https://img.shields.io/badge/-Email-B23121?style=flat-square&logo=gmail&logoColor=white" />
+  </a>
+  <a
+    href="https://www.linkedin.com/in/edsr/" 
+    alt="LinkedIn"
+    target="blank"
+  >
+    <img src="https://img.shields.io/badge/-LinkedIn-0E76A8?style=flat-square&logo=Linkedin&logoColor=white" />
+  </a>
+   <a
+    href="https://www.instagram.com/edsr.dev/?hl=pt-br" 
+    alt="Instagram"
+    target="blank"
+  >
+    <img src="https://img.shields.io/badge/-Instagram-C13584?style=flat-square&logo=Instagram&logoColor=white" />
+  </a>
+</p>
+
 <img style="margin: 0 auto" src="https://github.com/eduardodsr/mypage/blob/master/brazil.gif" height="25"> :brazil:
 
 ### Hello! <img style="margin: 0 auto" src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" height="25"> Bem vindo ao meu portfólio!
