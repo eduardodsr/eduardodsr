@@ -1,4 +1,4 @@
-JavaScript <code> <img style="margin: 0 auto" src="https://github.com/eduardodsr/mypage/blob/master/JS.png" height="25"> </code>
+JavaScript <code> <img style="margin: 2 auto" src="https://github.com/eduardodsr/mypage/blob/master/JS.png" height="40"> </code>
 
 <p align="center">
   <img src=https://github.com/eduardodsr/mypage/blob/master/dev2.gif?raw=true" alt="dev2" width="150px" />
