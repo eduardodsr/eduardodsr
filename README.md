@@ -2,18 +2,18 @@
   <img src=https://github.com/eduardodsr/mypage/blob/master/dev2.gif?raw=true" alt="dev2" width="150px" />
   <img src=https://github.com/eduardodsr/mypage/blob/master/dev.gif?raw=true" alt="dev" width="150px" />
 </p>
-<h1 align="center"> Eduardo da Silva Rodrigues</h1>
+<h1 align="center"> Eduardo da Silva Rodrigues | edsr.dev </h1>
 
 <p align="center">
   <a
     href="https://eduardodsr.netlify.app/"
-    alt="Eduardo Rodrigues | eduardodsr | edsr.dev"
+    alt="Eduardo Rodrigues"
     target="blank"
   >
     <img src="https://img.shields.io/badge/-eduardodsr.netlify.app-0e2c54?style=flat-square&logo=chrome&logoColor=white" />
   </a>
   <a
-    href="mailto:eduardodsr@gmail.com" 
+    href="mailto:edsr.dev@gmail.com" 
     alt="Email"
     target="blank"
   >
@@ -87,10 +87,10 @@
 
 ### Site - Projeto em andamento:
 
-:computer: <https://eduardodsr.netlify.app/>
+:computer: Criação do meu site: <https://eduardodsr.netlify.app/>
 
-:computer: Criação de uma Loja Virtual. O projeto de Comercio Eletrônico está em desenvolvimento. (Target: 30/Set/2020)
+:computer: Criação de uma Loja Virtual. <https://eduardodsr.lojaintegrada.com.br/>
 
 ## Contatos:mailbox_with_no_mail:
 
-:email: : eduardodsr@gmail.com (E-mail Pessoal)
+:email: : edsr.dev@gmail.com
