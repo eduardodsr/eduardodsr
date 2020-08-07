@@ -41,27 +41,27 @@
 
 ### Sobre mim:
 
-💻: Estudante de Programação Web e Programação de Sistemas. 
+💻: dev: Desenvolvedor Front End (HTML, CSS e JavaScript).
 
 :heart: Paixão pela área TI. Busco sempre aperfeiçoar minhas habilidades e conhecimentos em Tecnologias.
 
-:bookmark: Analista de Sistemas. Desenvolvedor Front End. 
+:bookmark: Analista de Sistemas.  
 
 :ballot_box_with_check: Bacharel em Sistemas de Informação. 
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/eduardodsr/)](https://github.com/eduardodsr/)
 
-### Programação Front-end:
+### Programação:
 
 ✔️ HTML
 
 ✔️ CSS
 
-✔️ JavaScript (Node)
+✔️ JavaScript (Node JS)
 
-✔️ Java (cursando)
+✔️ Java (cursando) - IGTI & Curso em Vídeo
 
-✔️ Python (cursando)
+✔️ Python (cursando) - IGTI & Curso em Vídeo
 
 
 ### Projetos em andamento:
@@ -72,7 +72,7 @@
 
 ✔️ Digital Innovation One (DIO) – Cursando os Bootcamp Online – Node JS. Fullstack Developer & Backend Developer – EaD (2020). 
 
-✔️ Digital Innovation One (DIO) – Cursando os Bootcamp Online – Desenvolvimento Front-end, Desenvolvimento Back-end & Desenvolvimento Fullstack – EaD (2020).
+✔️ Digital Innovation One (DIO) – Cursando os Bootcamp Online – Desenvolvimento Front-end, Back-end – EaD (2020).
 
 ✔️ SANTANDER CODERS MOBILE BY DIGITAL HOUSE - Introdução a programação - EaD (2020).
 
