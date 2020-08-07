@@ -41,7 +41,7 @@
 
 ### Sobre mim:
 
-💻: dev: Desenvolvedor Front End (HTML, CSS e JavaScript). </code><img style="margin: 0 auto" src="https://github.com/eduardodsr/mypage/blob/master/FrontEnd.jpg" height="40"></code> 
+💻: dev: Desenvolvedor Front End (CSS, HTML e JavaScript). </code><img style="margin: 0 auto" src="https://github.com/eduardodsr/mypage/blob/master/FrontEnd.jpg" height="40"></code> 
 
 :heart: Paixão pela área TI. Busco sempre aperfeiçoar minhas habilidades e conhecimentos em Tecnologias.
 
