@@ -10,7 +10,7 @@
     alt="Eduardo Rodrigues | eduardodsr | edsr.dev"
     target="blank"
   >
-    <img src="https://img.shields.io/badge/-edsr.com.br-0e2c54?style=flat-square&logo=chrome&logoColor=white" />
+    <img src="https://img.shields.io/badge/-eduardodsr.netlify.app-0e2c54?style=flat-square&logo=chrome&logoColor=white" />
   </a>
   <a
     href="mailto:eduardodsr@gmail.com" 
