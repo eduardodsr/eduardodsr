@@ -2,7 +2,7 @@
   <img src=https://github.com/eduardodsr/mypage/blob/master/dev2.gif?raw=true" alt="dev2" width="150px" />
   <img src=https://github.com/eduardodsr/mypage/blob/master/dev.gif?raw=true" alt="dev" width="150px" />
 </p>
-<h1 align="center"> Eduardo da Silva Rodrigues (eduardodsr) </h1>
+<h1 align="center"> Eduardo da Silva Rodrigues</h1>
 
 <img style="margin: 0 auto" src="https://github.com/eduardodsr/mypage/blob/master/brazil.gif" height="25"> :brazil:
 
