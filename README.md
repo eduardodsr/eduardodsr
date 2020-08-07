@@ -1,5 +1,3 @@
-JavaScript <code> <img style="margin: 0 auto" src="https://github.com/eduardodsr/mypage/blob/master/JS.png" height="25"> </code>
-
 <p align="center">
   <img src=https://github.com/eduardodsr/mypage/blob/master/dev2.gif?raw=true" alt="dev2" width="150px" />
   <img src=https://github.com/eduardodsr/mypage/blob/master/dev.gif?raw=true" alt="dev" width="150px" />
@@ -43,7 +41,9 @@ JavaScript <code> <img style="margin: 0 auto" src="https://github.com/eduardodsr
 
 ### Sobre mim:
 
-💻: dev: Desenvolvedor Front End (HTML, CSS e JavaScript).
+💻: dev: Desenvolvedor Front End (HTML, CSS e JavaScript). 
+
+<img style="margin: 0 auto" src="https://github.com/eduardodsr/mypage/blob/master/JS.png" height="25"> </code>
 
 :heart: Paixão pela área TI. Busco sempre aperfeiçoar minhas habilidades e conhecimentos em Tecnologias.
 
