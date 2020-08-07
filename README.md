@@ -35,8 +35,6 @@
 
 ### Projetos em andamento:
 
-✔️ ALURA - Projeto de Imersão React – Create React App - Intrutor Mario Souto.
-
 ✔️ IFRN – Instituto Federal do Rio Grande do Norte (2020) – Programador Web – Cursando – EaD (2020).
 
 ✔️ IGTI – Bootcamp Online – Programador de Software Iniciante – Cursando – EaD (2020).
@@ -65,5 +63,3 @@
 ## Contatos:mailbox_with_no_mail:
 
 :email: : eduardodsr@gmail.com (E-mail Pessoal)
-
-:email: : eduardo.rodrigues1@academico.ifrn.edu.br	(E-mail Acadêmico)
