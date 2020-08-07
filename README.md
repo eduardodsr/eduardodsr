@@ -1,10 +1,3 @@
-```
-js
-function stayHello(){
- return 'hi';
-}
-```
-
 <p align="center">
   <img src=https://github.com/eduardodsr/mypage/blob/master/dev2.gif?raw=true" alt="dev2" width="150px" />
   <img src=https://github.com/eduardodsr/mypage/blob/master/dev.gif?raw=true" alt="dev" width="150px" />
