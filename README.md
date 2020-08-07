@@ -94,3 +94,5 @@
 ## Contatos:mailbox_with_no_mail:
 
 :email: : edsr.dev@gmail.com
+
+![github stats](https://github-readme-stats.vercel.app/api?username=eduardodsr&show_icons=true)
