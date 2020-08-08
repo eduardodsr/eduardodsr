@@ -89,7 +89,7 @@
 
 :computer: Criação do meu site: <https://eduardodsr.netlify.app/>
 
-:computer: Criação de uma Loja Virtual. <https://eduardodsr.lojaintegrada.com.br/>
+:computer: Criação de uma Loja Virtual.
 
 ## Contatos:mailbox_with_no_mail:
 
