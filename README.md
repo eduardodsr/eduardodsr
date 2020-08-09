@@ -41,7 +41,7 @@
 
 ### Sobre mim:
 
-💻: dev: Desenvolvedor Front End (CSS, HTML e JavaScript). </code><img style="margin: 0 auto" src="https://github.com/eduardodsr/mypage/blob/master/FrontEnd.jpg" height="40"></code> 
+💻: dev: Desenvolvedor Front End (CSS, HTML e JavaScript). </code><img style="margin: 0 auto" src="https://github.com/eduardodsr/mypage/blob/master/FrontEnd.jpg" height="30"></code> 
 
 :heart: Paixão pela área TI. Busco sempre aperfeiçoar minhas habilidades e conhecimentos em Tecnologias.
 
@@ -66,7 +66,7 @@
 
 ### Projetos em andamento:
 
-✔️ IFRN – Instituto Federal do Rio Grande do Norte (2020) – Programador Web – Cursando – EaD (2020).
+✔️ IFRN – Instituto Federal do Rio Grande do Norte (2020) – Formação Inicial e Continuada em Programador Web – EaD (2020).
 
 ✔️ IGTI – Bootcamp Online – Programador de Software Iniciante – Cursando – EaD (2020).
 
