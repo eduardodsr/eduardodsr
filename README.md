@@ -14,7 +14,7 @@
   </a>
   <a
     href="mailto:edsr.dev@gmail.com" 
-    alt="Email: edsr.dev@gmail.com"
+    alt="E-mail
     target="blank"
   >
     <img src="https://img.shields.io/badge/-Email-B23121?style=flat-square&logo=gmail&logoColor=white" />
