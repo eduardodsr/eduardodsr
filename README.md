@@ -57,9 +57,9 @@
 
 ✔️ IGTI – Bootcamp Online – Programador de Software Iniciante – Cursando – EaD (2020).
 
-✔️ Digital Innovation One (DIO) – Cursando os Bootcamp Online – Node JS. Fullstack Developer & Backend Developer – EaD (2020). 
+✔️ Digital Innovation One (DIO) – Cursando os Bootcamp Online – Fullstack Developer e Backend Developer – EaD (2020). 
 
-✔️ Digital Innovation One (DIO) – Cursando os Bootcamp Online – Desenvolvimento Front-end, Back-end – EaD (2020).
+✔️ Digital Innovation One (DIO) – Cursando os Bootcamp Online – Node JS. Desenvolvimento Front-end e Back-end – EaD (2020).
 
 ✔️ SANTANDER CODERS MOBILE BY DIGITAL HOUSE - Introdução a programação - EaD (2020).
 
