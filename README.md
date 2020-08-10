@@ -72,15 +72,11 @@
 ✔️ CISCO Networking Academy (2020) – CCNAv7: Introduction to Networks (80h); IT Essentials: PC Hardware and Software (70h); Get Connected (30h). 
 
 
-### Site - Projeto em andamento:
-
-:computer: Criação do meu site: <https://eduardodsr.netlify.app/>
-
-:computer: Criação de uma Loja Virtual.
-
 ## Contatos:mailbox_with_no_mail:
 
 :email: : edsr.dev@gmail.com
+
+:email: : eduardodsr@gmail.com
 
 ## GitHub Status:
 
