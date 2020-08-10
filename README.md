@@ -6,8 +6,8 @@
 
 <p align="center">
   <a
-    href="https://eduardodsr.netlify.app/"
-    alt="Eduardo Rodrigues"
+    href="https://www.edsr.dev"
+    alt="edsr.dev"
     target="blank"
   >
     <img src="https://img.shields.io/badge/-eduardodsr.netlify.app-0e2c54?style=flat-square&logo=chrome&logoColor=white" />
