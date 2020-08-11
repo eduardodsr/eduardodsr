@@ -46,14 +46,16 @@
 
 ✔️ JavaScript (Node JS)
 
-✔️ Java (cursando) - IGTI & Curso em Vídeo
+✔️ Java (cursando) - IGTI, DIO & Curso em Vídeo
 
-✔️ Python (cursando) - IGTI & Curso em Vídeo
+✔️ Python (cursando) - Python Pro, IGTI & Curso em Vídeo
 
 
 ### Projetos em andamento:
 
-✔️ IFRN – Instituto Federal do Rio Grande do Norte (2020) – Formação Inicial e Continuada em Programador Web – EaD (2020).
+✔️ Projeto para Ensino de Programação Orientadas a Objetos em Python – Prof. Renzo - Curso Python Pro (2020).
+
+✔️ IFRN – Instituto Federal do Rio Grande do Norte – Formação Inicial e Continuada em Programador Web – EaD (2020).
 
 ✔️ IGTI – Bootcamp Online – Programador de Software Iniciante – Cursando – EaD (2020).
 
