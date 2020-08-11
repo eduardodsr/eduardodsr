@@ -53,7 +53,7 @@
 
 ### Projetos em andamento:
 
-✔️ Projeto para Ensino de Programação Orientadas a Objetos em Python – Prof. Renzo - Curso Python Pro (2020).
+✔️ Curso de Python – Prof. Renzo - Curso Python Pro (2020).
 
 ✔️ IFRN – Instituto Federal do Rio Grande do Norte – Formação Inicial e Continuada em Programador Web – EaD (2020).
 
