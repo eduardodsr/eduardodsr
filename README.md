@@ -46,9 +46,9 @@
 
 ✔️ JavaScript (Node JS)
 
-✔️ Java (cursando) - IGTI, DIO & Curso em Vídeo
+✔️ Java (cursando) - Bootcamp do IGTI
 
-✔️ Python (cursando) - Python Pro, IGTI & Curso em Vídeo
+✔️ Python (cursando) - Python Pro, Bootcamp do IGTI & Curso em Vídeo
 
 
 ### Projetos em andamento:
