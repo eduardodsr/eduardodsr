@@ -5,32 +5,18 @@
 <h1 align="center"> Eduardo da Silva Rodrigues </h1>
 
 <p align="center">
-  <a
-    href="https://www.edsr.dev"
-    alt="edsr.dev"
-    target="blank"
-  >
+  
+  <a href="https://www.edsr.dev" alt="edsr.dev" target="blank">
     <img src="https://img.shields.io/badge/-edsr.dev-0e2c54?style=flat-square&logo=chrome&logoColor=white" />
   </a>
   
-  <a
-    href="edsr.dev@gmail.com" 
-    alt="E-mail
-    target="blank"
-  >
-    <img src="https://img.shields.io/badge/-Email-B23121?style=flat-square&logo=gmail&logoColor=white" />
+  <a href="edsr.dev@gmail.com" alt="E-mail target="blank">
+    <img src="https://img.shields.io/badge/-edsr.dev@gmail.com-0e2c54?style=flat-square&logo=chrome&logoColor=white" />
+  </a>                                                                                                     
                                                                                                       
-                                                                                                      
-                                                                                                      
- <img src="https://img.shields.io/badge/-edsr.com.br-0e2c54?style=flat-square&logo=chrome&logoColor=white" />
-  </a>
-  <a
-    href="https://api.whatsapp.com/send?phone=5521972728313&text=Hello%20i%20came%20from%20your%20site" 
-    alt="WhatsApp"
-    target="blank"
-  >
+ <a href="https://api.whatsapp.com/send?phone=5521972728313&text=Hello%20i%20came%20from%20your%20site" alt="WhatsApp" target="blank">
     <img src="https://img.shields.io/badge/-WhatsApp-25D366?style=flat-square&logo=WhatsApp&logoColor=white" />
-  </a>
+ </a>
  
  <a
     href="mailto:eduardodsr@gmail.com" 
