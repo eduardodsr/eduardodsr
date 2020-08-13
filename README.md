@@ -46,7 +46,7 @@
 
 ✔️ JavaScript (Node JS)
 
-✔️ Python - Conhecimento intermediário
+✔️ Python
 
 ✔️ Java - Conhecimento básico
 
