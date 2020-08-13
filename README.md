@@ -6,11 +6,11 @@
 
 <p align="center">
   
-  <a href="https://www.edsr.dev" alt="edsr.dev" target="blank">
+  <a href="https://www.edsr.dev" alt="edsr.dev" target="_blank">
     <img src="https://img.shields.io/badge/-edsr.dev-0e2c54?style=flat-square&logo=chrome&logoColor=white" />
   </a>
   
-  <a href="mailto:edsr.dev@gmail.com" alt="Email" target="blank">
+  <a href="mailto:edsr.dev@gmail.com" alt="Email" target="_blank">
     <img src="https://img.shields.io/badge/-Email-B23121?style=flat-square&logo=gmail&logoColor=white" />
   </a>                                                                                            
                                                                                                       
@@ -18,11 +18,11 @@
     <img src="https://img.shields.io/badge/-WhatsApp-25D366?style=flat-square&logo=WhatsApp&logoColor=white" />
   </a>
 
-  <a href="https://www.linkedin.com/in/edsr/" alt="LinkedIn" target="blank">
+  <a href="https://www.linkedin.com/in/edsr/" alt="LinkedIn" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0E76A8?style=flat-square&logo=Linkedin&logoColor=white" />
   </a>
    
-   <a href="https://www.instagram.com/edsr.dev/?hl=pt-br" alt="Instagram" target="blank">
+   <a href="https://www.instagram.com/edsr.dev/?hl=pt-br" alt="Instagram" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-C13584?style=flat-square&logo=Instagram&logoColor=white" />
   </a>                                                                               
                                                                                                    
