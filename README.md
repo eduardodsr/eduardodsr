@@ -32,6 +32,8 @@
 
 💻: dev: Desenvolvedor Front End (CSS, HTML e JavaScript). </code><img style="margin: 0 auto" src="https://github.com/eduardodsr/mypage/blob/master/FrontEnd.jpg" height="30"></code> 
 
+💻: dev: Desenvolvo em HTML e CSS. Programo em JavaScript (JS).
+
 :heart: Paixão pela área TI. Busco sempre aperfeiçoar minhas habilidades e conhecimentos em Tecnologias.
 
 :bookmark: Analista de Sistemas.  
@@ -40,17 +42,15 @@
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/eduardodsr/)](https://github.com/eduardodsr/)
 
-### Programação:
+### Desenvolvedor e Programador:
 
-✔️ HTML
-
-✔️ CSS
+✔️ HTML + CSS
 
 ✔️ JavaScript (Node JS)
 
-✔️ Java (cursando) - Bootcamp do IGTI
+✔️ Python - Conhecimento intermediário
 
-✔️ Python (cursando) - Python Pro, Bootcamp do IGTI & Curso em Vídeo
+✔️ Java - Conhecimento básico
 
 
 ### Projetos em andamento:
