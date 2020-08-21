@@ -53,25 +53,21 @@
 
 ### Projetos em andamento:
 
-✔️ Curso de Python – Prof. Renzo - Curso Python Pro (2020).
+✔️ Curso de Python – Aluno do Prof. Renzo - Curso Python Pro - Módulo de Python Birds - EaD (2020).
 
-✔️ IFRN – Instituto Federal do Rio Grande do Norte – Formação Inicial e Continuada em Programador Web – EaD (2020).
+✔️ IFRN – Instituto Federal do Rio Grande do Norte – Programador Web – EaD (2020).
 
 ✔️ IGTI – Bootcamp Online – Programador de Software Iniciante – Cursando – EaD (2020).
 
 ✔️ Digital Innovation One (DIO) – Cursando os Bootcamp Online – Fullstack Developer e Backend Developer – EaD (2020). 
 
-✔️ Digital Innovation One (DIO) – Cursando os Bootcamp Online – Node JS. Desenvolvimento Front-end e Back-end – EaD (2020).
+✔️ Aluno do site Cursos em Vídeo do Professor Gustavo Guanabara – EaD (2020).
 
-✔️ SANTANDER CODERS MOBILE BY DIGITAL HOUSE - Introdução a programação - EaD (2020).
+✔️ Aluno do site Estudonauta do Professor Gustavo Guanabara. Apoiador do Projeto Beta Tester do Estudonauta – EaD (2020).
 
-✔️ Cursos da NAVE DO CONHECIMENTO (2020).
+✔️ ALURA – Aluno dos Cursos de Programação (2020). Estudante das principais linguagens e plataformas 
+(HTML, CSS, JavaScript, Python, Node.JS, PHP, Java, .NET , C/C++, etc.). 
 
-✔️ Cursos do Professor Gustavo Guanabara – Aluno do site Cursos em Vídeo. Apoiador do Projeto Beta Tester do Estudonauta (2020).
-
-✔️ ALURA / ORACLE NEXT EDUCATION (2020) – Formação Oracle One – Lógica de Programação, JavaScript (2020). 
-
-✔️ CISCO Networking Academy (2020) – CCNAv7: Introduction to Networks (80h); IT Essentials: PC Hardware and Software (70h); Get Connected (30h). 
 
 
 ## Contatos:mailbox_with_no_mail:
