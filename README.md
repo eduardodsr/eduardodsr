@@ -34,7 +34,7 @@
 
 :heart: Paixão pela área TI. Busco sempre aperfeiçoar minhas habilidades e conhecimentos em Tecnologias.
 
-:bookmark: Analista de Sistemas.  
+:bookmark: Analista de Sistemas.  Estudante da linguagem Python.
 
 :ballot_box_with_check: Bacharel em Sistemas de Informação. 
 
