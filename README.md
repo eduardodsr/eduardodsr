@@ -45,7 +45,7 @@
 
 ### Projetos em andamento:
 
-''' link: ''' https://github.com/users/eduardodsr/projects/1
+:bookmark_tabs:  ``` link: ```  https://github.com/users/eduardodsr/projects/1
 
 ✔️ Curso de Python – Aluno do Prof. Renzo - Curso Python Pro - Módulo de Python Birds - EaD (2020).
 
