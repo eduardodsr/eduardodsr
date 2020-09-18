@@ -45,6 +45,8 @@
 
 ### Projetos em andamento:
 
+''' link: ''' https://github.com/users/eduardodsr/projects/1
+
 ✔️ Curso de Python – Aluno do Prof. Renzo - Curso Python Pro - Módulo de Python Birds - EaD (2020).
 
 ✔️ IFRN – Instituto Federal do Rio Grande do Norte – Programador Web – EaD (2020).
