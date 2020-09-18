@@ -26,7 +26,7 @@
 
 :heart: Paixão pela área TI. Busco sempre aperfeiçoar minhas habilidades e conhecimentos em Tecnologias.
 
-:bookmark: Analista de Sistemas.  Estudante da linguagem Python.
+:bookmark: Analista de Sistemas.  Estudante da linguagem Python. Estudando os Frameworks – Angular, React e Vue;
 
 :ballot_box_with_check: Bacharel em Sistemas de Informação. 
 
