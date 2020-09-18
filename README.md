@@ -28,7 +28,7 @@
 
 :bookmark: Analista de Sistemas.  Estudante da linguagem Python. Estudando os Frameworks – Angular, React e Vue;
 
-:ballot_box_with_check: Bacharel em Sistemas de Informação. 
+:ballot_box_with_check: Bacharel em Sistemas de Informação. Estou cursando vários cursos na área de Desenvolvimento.
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/eduardodsr/)](https://github.com/eduardodsr/)
 
