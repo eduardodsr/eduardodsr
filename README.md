@@ -40,7 +40,7 @@
 
 ✔️ Python
 
-✔️ Java - Conhecimento básico
+✔️ Java
 
 
 ### Projetos em andamento:
