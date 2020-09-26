@@ -97,8 +97,6 @@
 📊 **HARD SKILLS | SOFT SKILLS
 
 ```text
-⌚︎ fuseau horaire: Brazil/Sao Paulo
-
 💬 HARD SKILLS (Habilidades Técnicas): 
 -	Linux; Windows 7/8/10 e Server; 
 -	Microsoft Office (Office 365); Outlook; Libre Office;
