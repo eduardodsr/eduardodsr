@@ -34,15 +34,15 @@
 
 ### Desenvolvedor e Programador:
 
-✔️ HTML + CSS (Conhecimento Intermediário)           
+✔️ HTML + CSS (Intermediário)           
 
-✔️ JavaScript (Node JS) (Conhecimento Intermediário)   
+✔️ JavaScript (Node JS) (Intermediário)   
 
-✔️ Python (Conhecimento Intermediário)                 
+✔️ Python (Básico/Intermediário)                 
 
-✔️ Java (Conhecimento Básico)
+✔️ Java (Básico)
 
-✔️ Frameworks – Angular, React e Vue (Conhecimento Básico)
+✔️ Frameworks – Angular, React e Vue (Básico)
 
 
 ### Projetos em andamento:
