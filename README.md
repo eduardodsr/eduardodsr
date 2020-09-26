@@ -94,7 +94,7 @@
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-175-blue)
 
-📊 ** HARD SKILLS (Habilidades Técnicas) | SOFT SKILLS (Habilidades Comportamentais)
+📊 **HARD SKILLS (Habilidades Técnicas) | SOFT SKILLS (Habilidades Comportamentais)
 
 ```text
 💬 HARD SKILLS (Habilidades Técnicas): 
