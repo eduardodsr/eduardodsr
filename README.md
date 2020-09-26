@@ -90,3 +90,7 @@
 <a href="https://github.com/eduardodsr/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=eduardodsr&repo=convoychat" />
 </a>
+
+## TEST
+
+ [![eduardodsr github stats](https://github-readme-stats.vercel.app/api?username=eduardodsr)](https://github.com/eduardodsr/github-readme-stats)
