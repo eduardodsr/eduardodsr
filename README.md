@@ -91,9 +91,30 @@
 ### ⚒&nbsp;&nbsp;&nbsp;My Development Tools:
 <br><img alt="JavaScript" title="JavaScript" src="https://user-images.githubusercontent.com/1680157/87443764-4af82c80-c5cc-11ea-82c2-c368ee12cf6d.png" height="24">&nbsp;&nbsp;&nbsp;&nbsp;<img alt="CSS" title="CSS" src="https://user-images.githubusercontent.com/1680157/87443759-4a5f9600-c5cc-11ea-8ae0-715433c1f781.png" height="24">&nbsp;&nbsp;&nbsp;&nbsp;<img alt="HTML" title="HTML" src="https://user-images.githubusercontent.com/1680157/87443762-4af82c80-c5cc-11ea-85cf-57be0e83c169.png" height="24">&nbsp;&nbsp;&nbsp;&nbsp;<img alt=" title=" title="Node.js" src="https://user-images.githubusercontent.com/1680157/87443758-4a5f9600-c5cc-11ea-8f63-92e126a1145b.png" height="24">&nbsp;&nbsp;&nbsp;&nbsp;<img alt="VS Code" title="VS Code" src="https://user-images.githubusercontent.com/1680157/87443751-492e6900-c5cc-11ea-9854-f82d4d921133.png" height="24">&nbsp;&nbsp;&nbsp;&nbsp;<img alt="Git" title="Git" src="https://user-images.githubusercontent.com/1680157/87443755-49c6ff80-c5cc-11ea-954a-579f7c72873a.png" height="24">&nbsp;&nbsp;&nbsp;&nbsp;<img alt="Google Chrome" title="Google Chrome" src="https://user-images.githubusercontent.com/1680157/87443745-47fd3c00-c5cc-11ea-878f-44f34572775e.png" height="24"><br><br>
 
-### SHOW_PROFILE_VIEWS flag can be set to False to hide the Profile views:
-
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Views%20uu%20preview-1376-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1376-blue)
 
-![Lines of code](https://img.shields.io/badge/De%20Hello%20World%2C%20j%27ai%20%C3%A9crit-2.8%20million%20Lignes%20de%20code-blue)
+📊 **HARD SKILLS | SOFT SKILLS
+
+```text
+⌚︎ fuseau horaire: Brazil/Sao Paulo
+
+💬 HARD SKILLS (Habilidades Técnicas): 
+-	Linux; Windows 7/8/10 e Server; 
+-	Microsoft Office (Office 365); Outlook; Libre Office;
+-	Redes e Infraestrutura de TI; CISCO CCNA e ITE;
+-	ITIL e Cobit; Gestão de Projetos; Virtualização; 
+-	Banco de Dados - SQL Server;
+-	Desenvolvedor Front End (HTML, CSS e JavaScript). 
+-	Estudando a linguagem de programação Python; 
+-	Estudando os Frameworks – Angular, React e Vue;
+- Montagem e Manutenção de Computadores;
+- Controle de Versão (GitHub); Ágil (Scrum).
+
+💬 SOFT SKILLS (Habilidades Comportamentais):
+-	Liderança; Comunicação; Trabalho em equipe; 
+-	Proatividade; Planejamento Estratégico;
+-	Ética; Organização; Otimização de Processos;
+-	Comprometimento; Autoconfiança; Empatia;
+-	Criatividade; Inovação; Negociação de conflitos.
+
