@@ -105,7 +105,7 @@
     -	Desenvolvedor Front End (HTML, CSS e JavaScript).
     -	Estudando a linguagem de programação Python (I love you Python)
     -	Estudando JS e os Frameworks, Angular, React e Vue
-    -     Controle de Versão (GitHub); Ágil (Scrum)
+    -   Controle de Versão (GitHub); Ágil (Scrum)
 ```
 
 ### 📊 SOFT SKILLS (Habilidades Comportamentais)  💬:
