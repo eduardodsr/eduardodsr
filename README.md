@@ -82,3 +82,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eduardodsr)](https://github.com/eduardodsr/github-readme-stats)
 
+## Wakatime Week Stats:
+
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=eduardodsr)](https://github.com/eduardodsr/github-readme-stats)
+
