@@ -34,13 +34,13 @@
 
 ### Desenvolvedor e Programador:
 
-✔️ HTML + CSS
+✔️ HTML + CSS           ████████████░░░░░░░░░░░░░  50%
 
-✔️ JavaScript (Node JS)
+✔️ JavaScript (Node JS) ████████████░░░░░░░░░░░░░  50%
 
-✔️ Python
+✔️ Python               ████████████░░░░░░░░░░░░░  50%
 
-✔️ Java
+✔️ Java                 ████████████░░░░░░░░░░░░░  50%
 
 
 ### Projetos em andamento:
