@@ -97,22 +97,22 @@
 ### 📊 HARD SKILLS (Habilidades Técnicas)  💬:
 
 ```text
-    -	Linux; Windows 7/8/10 e Server 
-    -	Microsoft Office (Office 365); Outlook; Libre Office
-    -	Redes e Infraestrutura de TI; CISCO CCNA e ITE
-    -	ITIL e Cobit; Gestão de Projetos; Virtualização
-    -	Banco de Dados - SQL Server
-    -	Desenvolvedor Front End (HTML, CSS e JavaScript).
-    -	Estudando a linguagem de programação Python (I love you Python)
-    -	Estudando JS e os Frameworks, Angular, React e Vue
-    -   Controle de Versão (GitHub); Ágil (Scrum)
+    -	Linux; Windows 7/8/10 e Server;
+    -	Microsoft Office (Office 365); Outlook; Libre Office;
+    -	Redes e Infraestrutura de TI; CISCO CCNA e ITE;
+    -	ITIL e Cobit; Gestão de Projetos; Virtualização;
+    -	Banco de Dados - SQL Server;
+    -	Desenvolvedor Front End (HTML, CSS e JavaScript);
+    -	Estudando a linguagem de programação Python;
+    -	Estudando JS e os Frameworks, Angular, React e Vue;
+    -   Controle de Versão (GitHub); Ágil (Scrum).
 ```
 
 ### 📊 SOFT SKILLS (Habilidades Comportamentais)  💬:
 
 ```text
 -	Liderança; Comunicação; Trabalho em equipe; 
--	Proatividade; Planejamento Estratégico;
+-	Proatividade; Planejamento Estratégico; Autodidata;
 -	Ética; Organização; Otimização de Processos;
 -	Comprometimento; Autoconfiança; Empatia;
 -	Criatividade; Inovação; Negociação de conflitos.
