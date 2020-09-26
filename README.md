@@ -64,7 +64,7 @@
 
 
  <p align="center">
-  <img src=https://i.imgur.com/eP8QQc8.png?raw=true" alt="imagem" width="200px" />                                                                            
+  <img src=https://i.imgur.com/eP8QQc8.png?raw=true" alt="imagem" width="100px" />                                                                            
  </p>
 
 
