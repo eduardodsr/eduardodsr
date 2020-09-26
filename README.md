@@ -96,6 +96,32 @@
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-175-blue)
 
+![Github stats](https://github-readme-stats.vercel.app/api?username=eduardodsr&count_private=true)
+
+![Github stats](https://github-readme-stats.vercel.app/api?username=eduardodsr&show_icons=true)
+
+![Github stats](https://github-readme-stats.vercel.app/api?username=eduardodsr&show_icons=true&theme=radical)
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=eduardodsr&repo=github-readme-stats)](https://github.com/eduardodsr/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eduardodsr)](https://github.com/eduardodsr/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide=python,html)](https://github.com/eduardodsr/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eduardodsr&langs_count=8)](https://github.com/eduardodsr/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eduardodsr&layout=compact)](https://github.com/eduardodsr/github-readme-stats)
+
+[![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=eduardodsr)](https://github.com/eduardodsr/github-readme-stats)
+
+<a href="https://github.com/eduardodsr/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=eduardodsr&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/eduardodsr/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=eduardodsr&repo=convoychat" />
+</a>
+
+
 ### 📊 HARD SKILLS (Habilidades Técnicas)  💬:
 
 ```text
