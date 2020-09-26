@@ -104,9 +104,8 @@
 -	ITIL e Cobit; Gestão de Projetos; Virtualização; 
 -	Banco de Dados - SQL Server;
 -	Desenvolvedor Front End (HTML, CSS e JavaScript). 
--	Estudando a linguagem de programação Python; 
--	Estudando os Frameworks, Angular, React e Vue;
-- GitHub; Ágil; Scrum;
+-	Estudando a linguagem de programação Python (I love you Python); 
+-	Estudando JS e os Frameworks, Angular, React e Vue;
 
 💬 SOFT SKILLS (Habilidades Comportamentais):
 -	Liderança; Comunicação; Trabalho em equipe; 
