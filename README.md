@@ -94,20 +94,27 @@
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-175-blue)
 
-### 📊 HARD SKILLS (Habilidades Técnicas) | SOFT SKILLS (Habilidades Comportamentais)
+### 📊 HARD SKILLS (Habilidades Técnicas)  💬:
 
 ```text
- 💬 ### HARD SKILLS (Habilidades Técnicas) ###: 
--	Linux; Windows 7/8/10 e Server; 
--	Microsoft Office (Office 365); Outlook; Libre Office;
--	Redes e Infraestrutura de TI; CISCO CCNA e ITE;
--	ITIL e Cobit; Gestão de Projetos; Virtualização; 
--	Banco de Dados - SQL Server;
--	Desenvolvedor Front End (HTML, CSS e JavaScript). 
--	Estudando a linguagem de programação Python (I love you Python); 
--	Estudando JS e os Frameworks, Angular, React e Vue;
+  def HARD_SKILLS(skills):
+    -	Linux; Windows 7/8/10 e Server 
+    -	Microsoft Office (Office 365); Outlook; Libre Office
+    -	Redes e Infraestrutura de TI; CISCO CCNA e ITE
+    -	ITIL e Cobit; Gestão de Projetos; Virtualização
+    -	Banco de Dados - SQL Server
+    -	Desenvolvedor Front End (HTML, CSS e JavaScript).
+    -	Estudando a linguagem de programação Python (I love you Python)
+    -	Estudando JS e os Frameworks, Angular, React e Vue
+    - Controle de Versão (GitHub); Ágil (Scrum)
+  return skills
+```
 
-💬 ### SOFT SKILLS (Habilidades Comportamentais) ###:
+
+
+### 📊 SOFT SKILLS (Habilidades Comportamentais)  💬:
+
+```text
 -	Liderança; Comunicação; Trabalho em equipe; 
 -	Proatividade; Planejamento Estratégico;
 -	Ética; Organização; Otimização de Processos;
