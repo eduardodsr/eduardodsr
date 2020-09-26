@@ -105,8 +105,7 @@
 -	Banco de Dados - SQL Server;
 -	Desenvolvedor Front End (HTML, CSS e JavaScript). 
 -	Estudando a linguagem de programação Python; 
--	Estudando os Frameworks – Angular, React e Vue;
-- Montagem e Manutenção de Computadores;
+-	Estudando os Frameworks, Angular, React e Vue;
 - Controle de Versão (GitHub); Ágil (Scrum).
 
 💬 SOFT SKILLS (Habilidades Comportamentais):
@@ -115,4 +114,3 @@
 -	Ética; Organização; Otimização de Processos;
 -	Comprometimento; Autoconfiança; Empatia;
 -	Criatividade; Inovação; Negociação de conflitos.
-
