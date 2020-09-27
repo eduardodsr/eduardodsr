@@ -125,7 +125,7 @@ npx eduardodsr
 const eduardodsr = 
 {
     pronouns: "He" | "Him",
-    code: ["Javascript", "HTML/CSS", "Python", "Java"],
+    code: ["Javascript", "HTML", "Python", "Java"],
     askMeAbout: ["web dev", "front end", "Student in Computer Programming"],
     technologies: {
         mobileApp: ["Android App"],
@@ -138,7 +138,7 @@ const eduardodsr =
             python: ["flask"]
         },
        databases: {
-            sql: [SQL Server]
+            sql: [SQL]
        },     
        currentFocus: {
             target: ["Dev"]
