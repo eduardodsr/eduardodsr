@@ -95,18 +95,18 @@
 ```javascript
    const eduardodsr = {
       code: ["JS", "Python", "Java"],
-      askMeAbout: ["web dev", "Dev Front End"],
+      askMeAbout: ["Web Dev", "Dev Front End"],
       technologies: {
           frontEnd: {
               js: [ "Node", "Angular", "React", "Vue"], 
               css: ["Bootstrap"]
           },
           backEnd: {
-              js: ["Node", "Angular", "React", "Vue"],
+              js: ["Node"],
               python: ["A Student of Python"],
               java: ["A Student of Java"],
           },
-         databases: ["SQL", "SQL Server"],      
+         databases: ["SQL"],      
       },
       currentFocus: ["Dev", "Front End", "Dev Back End", "Dev FullStack"]
    };
