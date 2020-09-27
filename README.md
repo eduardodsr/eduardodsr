@@ -19,7 +19,7 @@
 
 ![focus](https://img.shields.io/badge/focus-Front_End%20%7C%20Back_End%20%7C%20FullStacker-brightgreen)
 ![living](https://img.shields.io/badge/living-Rio%20de%20Janeiro-3c9)
-![visitors](https://windard-visitor-badge.glitch.me/badge?page_id=windard.github.profile)
+![visitors](https://eduardodsr-visitor-badge.glitch.me/badge?page_id=eduardodsr.github.profile)
 
 <br />
 
