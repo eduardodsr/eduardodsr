@@ -39,6 +39,9 @@
 [✔️] Frameworks – Angular, React e Vue
 
 
+<details>
+<summary>HARD SKILLS (Habilidades Técnicas) | SOFT SKILLS (Habilidades Comportamentais):  </summary>
+
 ### HARD SKILLS (Habilidades Técnicas):  💬
 
 -	Linux; Windows 7/8/10 e Server; 
@@ -73,6 +76,10 @@
 -	Comprometimento; Autoconfiança; Empatia;
 
 -	Criatividade; Inovação; Negociação de conflitos.
+
+</details>
+
+
 
 
 ### PROJECTS (Projetos em andamento) (To Do | In Progress | Done) :
