@@ -40,7 +40,7 @@
 
 
 <details>
-<summary>HARD SKILLS (Habilidades Técnicas) | SOFT SKILLS (Habilidades Comportamentais):  </summary>
+<summary><strong> HARD SKILLS (Habilidades Técnicas) </strong>  </summary>
 
 ### HARD SKILLS (Habilidades Técnicas):  💬
 
@@ -64,6 +64,10 @@
 
 - Controle de Versão (GitHub); Ágil (Scrum).
 
+</details>
+
+<details>
+<summary> <strong>SOFT SKILLS (Habilidades Comportamentais):</strong>  💬 </summary>
 
 ### SOFT SKILLS (Habilidades Comportamentais):  💬
 
