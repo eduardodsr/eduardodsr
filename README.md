@@ -4,22 +4,11 @@
 </p>
 <h1 align="center"> Eduardo da Silva Rodrigues </h1>
 
-<p align="center">
-  
-  [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/eduardodsr/)](https://github.com/eduardodsr/)
-  
-  <a href="https://www.edsr.dev" alt="edsr.dev" target="_blank">
-    <img src="https://img.shields.io/badge/-edsr.dev-0e2c54?style=flat-square&logo=chrome&logoColor=black" />
-  </a>
-  
-  <a href="https://www.edsr.dev" alt="edsr.dev" target="_blank">
-    <img src="https://img.shields.io/badge/-edsr.dev-0e2c54?style=flat-square&logo=chrome&logoColor=white" />
-  </a>
-  
-  <a href="mailto:edsr.dev@gmail.com" alt="Email" target="_blank">
-    <img src="https://img.shields.io/badge/-Email-B23121?style=flat-square&logo=gmail&logoColor=white" />
-  </a>                                                                      
-                                                                                                   
+<p align="center">     
+  <a href="https://www.edsr.dev" alt="edsr.dev" target="_blank"><img src="https://img.shields.io/badge/-edsr.dev-0e2c54?style=flat-square&logo=chrome&logoColor=black" /></a>
+  <a href="https://www.edsr.dev" alt="edsr.dev" target="_blank"><img src="https://img.shields.io/badge/-edsr.dev-0e2c54?style=flat-square&logo=chrome&logoColor=white" /></a>
+  <a href="mailto:edsr.dev@gmail.com" alt="Email" target="_blank"><img src="https://img.shields.io/badge/-Email-B23121?style=flat-square&logo=gmail&logoColor=white" />
+  </a>                                                                                         
 </p>
 
 <img style="margin: 0 auto" src="https://github.com/eduardodsr/mypage/blob/master/brazil.gif" height="25"> :brazil:
@@ -127,7 +116,6 @@
 [![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=eduardodsr)](https://github.com/eduardodsr/github-readme-stats)
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/eduardodsr/)](https://github.com/eduardodsr/)
-
 [![Website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://edsr.dev/)](https://edsr.dev/)
 ![Visitor](https://visitor-badge.glitch.me/badge?page_id=eduardodsr.eduardodsr)
 ![GitHub followers](https://img.shields.io/github/followers/eduardodsr?label=Follow&style=social)
@@ -135,6 +123,7 @@
 ![Github Projects](http://img.shields.io/badge/Projects-2-blue)
 ![Github Repositories](http://img.shields.io/badge/Repositories-31-blue)
 ![Github Stars](http://img.shields.io/badge/Stars-187-blue)
+
 
 ## My Development Tools:  ⚒
 
