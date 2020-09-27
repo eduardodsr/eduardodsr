@@ -34,15 +34,15 @@
 
 ### Desenvolvedor e Programador:
 
-✔️ HTML + CSS (Intermediário)           
+✔️ HTML + CSS        
 
-✔️ JavaScript (Node JS) (Intermediário)   
+✔️ JavaScript (Node JS) 
 
-✔️ Python (Básico/Intermediário)                 
+✔️ Python              
 
-✔️ Java (Básico)
+✔️ Java 
 
-✔️ Frameworks – Angular, React e Vue (Básico)
+✔️ Frameworks – Angular, React e Vue
 
 
 ### Projetos em andamento:
@@ -72,9 +72,8 @@
 
 ## Contatos:mailbox_with_no_mail:
 
-:email: : edsr.dev@gmail.com
-
 :email: : eduardodsr@gmail.com
+
 
 ## GitHub Status:
 
@@ -104,6 +103,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eduardodsr&layout=compact)](https://github.com/eduardodsr/github-readme-stats)
 
+
 ## Wakatime Week Stats:
 
 [![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=eduardodsr)](https://github.com/eduardodsr/github-readme-stats)
@@ -112,25 +112,31 @@
 
 [![eduardodsr's github stats](https://github-readme-stats.vercel.app/api?username=eduardodsr)](https://github.com/eduardodsr/github-readme-stats)
 
-### ⚒&nbsp;&nbsp;&nbsp;My Development Tools:
-<br><img alt="JavaScript" title="JavaScript" src="https://user-images.githubusercontent.com/1680157/87443764-4af82c80-c5cc-11ea-82c2-c368ee12cf6d.png" height="24">&nbsp;&nbsp;&nbsp;&nbsp;<img alt="CSS" title="CSS" src="https://user-images.githubusercontent.com/1680157/87443759-4a5f9600-c5cc-11ea-8ae0-715433c1f781.png" height="24">&nbsp;&nbsp;&nbsp;&nbsp;<img alt="HTML" title="HTML" src="https://user-images.githubusercontent.com/1680157/87443762-4af82c80-c5cc-11ea-85cf-57be0e83c169.png" height="24">&nbsp;&nbsp;&nbsp;&nbsp;<img alt=" title=" title="Node.js" src="https://user-images.githubusercontent.com/1680157/87443758-4a5f9600-c5cc-11ea-8f63-92e126a1145b.png" height="24">&nbsp;&nbsp;&nbsp;&nbsp;<img alt="VS Code" title="VS Code" src="https://user-images.githubusercontent.com/1680157/87443751-492e6900-c5cc-11ea-9854-f82d4d921133.png" height="24">&nbsp;&nbsp;&nbsp;&nbsp;<img alt="Git" title="Git" src="https://user-images.githubusercontent.com/1680157/87443755-49c6ff80-c5cc-11ea-954a-579f7c72873a.png" height="24">&nbsp;&nbsp;&nbsp;&nbsp;<img alt="Google Chrome" title="Google Chrome" src="https://user-images.githubusercontent.com/1680157/87443745-47fd3c00-c5cc-11ea-878f-44f34572775e.png" height="24"><br><br>
+
+### HARD SKILLS (Habilidades Técnicas):  💬
+
+-	Linux; Windows 7/8/10 e Server; 
+
+-	Microsoft Office (Office 365); Outlook; Libre Office;
+
+-	Redes e Infraestrutura de TI; CISCO CCNA e ITE;
+
+-	ITIL e Cobit; Gestão de Projetos; Virtualização; 
+
+-	Banco de Dados - SQL Server;
+
+-	Desenvolvedor Front End (HTML, CSS e JavaScript). 
+
+-	Estudando a linguagem de programação Python; 
+
+-	Estudando os Frameworks – Angular, React e Vue;
+
+- Montagem e Manutenção de Computadores;
+
+- Controle de Versão (GitHub); Ágil (Scrum).
 
 
-### 📊 HARD SKILLS (Habilidades Técnicas)  💬:
-
-```text
-    -	Linux; Windows 7/8/10 e Server;
-    -	Microsoft Office (Office 365); Outlook; Libre Office;
-    -	Redes e Infraestrutura de TI; CISCO CCNA e ITE;
-    -	ITIL e Cobit; Gestão de Projetos; Virtualização;
-    -	Banco de Dados - SQL Server;
-    -	Desenvolvedor Front End (HTML, CSS e JavaScript);
-    -	Estudando a linguagem de programação Python;
-    -	Estudando JS e os Frameworks, Angular, React e Vue;
-    -   Controle de Versão (GitHub); Ágil (Scrum).
-```
-
-### SOFT SKILLS (Habilidades Comportamentais)  💬:
+### SOFT SKILLS (Habilidades Comportamentais):  💬
 
 -	Liderança; Comunicação; Trabalho em equipe; 
 
@@ -141,3 +147,7 @@
 -	Comprometimento; Autoconfiança; Empatia;
 
 -	Criatividade; Inovação; Negociação de conflitos.
+
+
+### ⚒&nbsp;&nbsp;&nbsp;My Development Tools:
+<br><img alt="JavaScript" title="JavaScript" src="https://user-images.githubusercontent.com/1680157/87443764-4af82c80-c5cc-11ea-82c2-c368ee12cf6d.png" height="24">&nbsp;&nbsp;&nbsp;&nbsp;<img alt="CSS" title="CSS" src="https://user-images.githubusercontent.com/1680157/87443759-4a5f9600-c5cc-11ea-8ae0-715433c1f781.png" height="24">&nbsp;&nbsp;&nbsp;&nbsp;<img alt="HTML" title="HTML" src="https://user-images.githubusercontent.com/1680157/87443762-4af82c80-c5cc-11ea-85cf-57be0e83c169.png" height="24">&nbsp;&nbsp;&nbsp;&nbsp;<img alt=" title=" title="Node.js" src="https://user-images.githubusercontent.com/1680157/87443758-4a5f9600-c5cc-11ea-8f63-92e126a1145b.png" height="24">&nbsp;&nbsp;&nbsp;&nbsp;<img alt="VS Code" title="VS Code" src="https://user-images.githubusercontent.com/1680157/87443751-492e6900-c5cc-11ea-9854-f82d4d921133.png" height="24">&nbsp;&nbsp;&nbsp;&nbsp;<img alt="Git" title="Git" src="https://user-images.githubusercontent.com/1680157/87443755-49c6ff80-c5cc-11ea-954a-579f7c72873a.png" height="24">&nbsp;&nbsp;&nbsp;&nbsp;<img alt="Google Chrome" title="Google Chrome" src="https://user-images.githubusercontent.com/1680157/87443745-47fd3c00-c5cc-11ea-878f-44f34572775e.png" height="24"><br><br>
