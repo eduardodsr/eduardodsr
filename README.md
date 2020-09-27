@@ -111,12 +111,15 @@
 
 ![GitHub followers](https://img.shields.io/github/followers/eduardodsr?label=Follow&style=social)
 
-Repology - Repositories:	Repology - Repositories badge	/repology/repositories/:projectName
 
+![GitHub forks](https://img.shields.io/github/forks/eduardodsr/eduardodsr?label=Fork)
 
-GitHub followers:	GitHub followers badge	/github/followers/eduardodsr?label=Follow
-GitHub forks:	GitHub forks badge	/github/forks/eduardodsr/eduardodsr?label=Fork
-GitHub Repo stars:	GitHub Repo stars badge	/github/stars/:eduardodsr/:repo?style=social
-GitHub User's stars:	GitHub User's stars badge	/github/stars/:eduardodsr?affiliations=OWNER%2CCOLLABORATOR
-GitHub Org's stars:	GitHub Org's stars badge	/github/stars/:org
-GitHub watchers:	GitHub watchers badge	/github/watchers/eduardodsr/eduardodsr?label=Watch
+![GitHub Repo stars](https://img.shields.io/github/stars/:eduardodsr/eduardodsr?style=social)
+
+![GitHub User's stars](https://img.shields.io/github/stars/:eduardodsr?affiliations=OWNER%2CCOLLABORATOR)
+
+![GitHub Org's stars](https://img.shields.io/github/stars/:org)
+
+![GitHub watchers](https://img.shields.io//github/watchers/eduardodsr/eduardodsr?label=Watch)
+
+![GitHub watchers](https://img.shields.io//github/watchers/eduardodsr/eduardodsr?label=social)
