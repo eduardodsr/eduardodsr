@@ -32,17 +32,18 @@
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/eduardodsr/)](https://github.com/eduardodsr/)
 
+
 ### Desenvolvedor e Programador:
 
-✔️ HTML + CSS        
+[✔️] HTML + CSS        
 
-✔️ JavaScript (Node JS) 
+[✔️] JavaScript (Node JS) 
 
-✔️ Python              
+[✔️] Python              
 
-✔️ Java 
+[✔️] Java 
 
-✔️ Frameworks – Angular, React e Vue
+[✔️] Frameworks – Angular, React e Vue
 
 
 ### HARD SKILLS (Habilidades Técnicas):  💬
@@ -81,11 +82,9 @@
 -	Criatividade; Inovação; Negociação de conflitos.
 
 
-### Projetos em andamento:
+### Projetos em andamento (To Do | In Progress | Done) :
 
 :bookmark_tabs:  ``` link: ```  https://github.com/users/eduardodsr/projects/1
-
-
 
 
 ## Contatos:mailbox_with_no_mail:
