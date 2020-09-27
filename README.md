@@ -133,8 +133,18 @@
 ### 📊 SOFT SKILLS (Habilidades Comportamentais)  💬:
 
 ```text
--	Liderança; Comunicação; Trabalho em equipe; 
--	Proatividade; Planejamento Estratégico; Autodidata;
--	Ética; Organização; Otimização de Processos;
--	Comprometimento; Autoconfiança; Empatia;
--	Criatividade; Inovação; Negociação de conflitos.
+Liderança; 
+Comunicação; 
+Trabalho em equipe; 
+Proatividade; 
+Planejamento Estratégico; 
+Autodidata;
+Ética; 
+Organização; 
+Otimização de Processos;
+Comprometimento; 
+Autoconfiança; 
+Empatia;
+Negociação de conflitos;
+Criatividade e Inovação.
+```
