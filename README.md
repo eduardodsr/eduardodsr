@@ -118,8 +118,6 @@
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/eduardodsr/)](https://github.com/eduardodsr/)
 [![Website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://edsr.dev/)](https://edsr.dev/)
 ![Visitor](https://visitor-badge.glitch.me/badge?page_id=eduardodsr.eduardodsr)
-![GitHub followers](https://img.shields.io/github/followers/eduardodsr?label=Follow&style=social)
-
 ![Github Projects](http://img.shields.io/badge/Projects-2-blue)
 ![Github Repositories](http://img.shields.io/badge/Repositories-31-blue)
 ![Github Stars](http://img.shields.io/badge/Stars-187-blue)
