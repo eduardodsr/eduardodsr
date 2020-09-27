@@ -92,15 +92,13 @@
 
 ## GitHub Status | Top Languages Card:
 
-![github stats](https://github-readme-stats.vercel.app/api?username=eduardodsr&show_icons=true)
+![Github stats](https://github-readme-stats.vercel.app/api?username=eduardodsr&show_icons=true)
 
-![Github stats Color](https://github-readme-stats.vercel.app/api?username=eduardodsr&show_icons=true&theme=radical)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eduardodsr)](https://github.com/eduardodsr/github-readme-stats)
+[![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=eduardodsr)](https://github.com/eduardodsr/github-readme-stats)
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/eduardodsr/)](https://github.com/eduardodsr/)
 
-![Github Profile Views](http://img.shields.io/badge/Profile%20Views-868-blue)(https://github.com/eduardodsr/)
+![Github Profile Views](http://img.shields.io/badge/Profile%20Views-868-blue)
 
 ### My Development Tools:  ⚒
 
