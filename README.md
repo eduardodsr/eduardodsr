@@ -132,16 +132,13 @@ const eduardodsr =
         frontEnd: {
             js: [ "Node", "Angular", "React", "Vue"], 
             css: ["bootstrap"]
-    },
+        },
         backEnd: {
             js: ["Node", "Angular", "React", "Vue"],
             python: ["flask"]
+            },
+           databases: ["SQL"],
+           currentFocus: ["Dev"],
         },
-       databases: {
-            sql: [SQL]
-       },     
-       currentFocus: {
-            target: ["Dev"]
-       },
 };
 ```
