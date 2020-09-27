@@ -89,6 +89,8 @@
 
 :email: : eduardodsr@gmail.com
 
+:email: : edsr.dev@gmail.com
+
 
 ###  A little more about me...  👇
 
