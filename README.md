@@ -17,7 +17,7 @@
 
 ### Sobre mim:
 
-![focus](https://img.shields.io/badge/focus-Front_End%20%7C%20Back_End%20%7C%20FullStacker-brightgreen)
+![focus](https://img.shields.io/badge/focus-Front_End%20%7C%20Back_End%20%7C%20FullStack-brightgreen)
 ![living](https://img.shields.io/badge/living-Rio%20de%20Janeiro-3c9)
 <div class="shields" align="left">
     <img src="https://img.shields.io/badge/-Python-333.svg?logo=python&style=flat">
