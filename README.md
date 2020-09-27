@@ -22,8 +22,6 @@
 
 <br />
 
-[![Windard's github stats](https://github-readme-stats.vercel.app/api?username=windard&show_icons=true)](https://github.com/windard)
-
 💻 Desenvolvedor em HTML e CSS. Programador em JavaScript (JS). </code><img style="margin: 0 auto" src="https://github.com/eduardodsr/mypage/blob/master/FrontEnd.jpg" height="30"></code> 
 
 :heart: Paixão pela área TI. Busco sempre aperfeiçoar minhas habilidades e conhecimentos em Tecnologias.
