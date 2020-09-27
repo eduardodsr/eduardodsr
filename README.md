@@ -17,6 +17,14 @@
 
 ### Sobre mim:
 
+![focus](https://img.shields.io/badge/focus-Front_End%20%7C%20Back_End%20%7C%20FullStacker-brightgreen)
+![living](https://img.shields.io/badge/living-Rio%20de%20Janeiro-3c9)
+![visitors](https://windard-visitor-badge.glitch.me/badge?page_id=windard.github.profile)
+
+<br />
+
+[![Windard's github stats](https://github-readme-stats.vercel.app/api?username=windard&show_icons=true)](https://github.com/windard)
+
 💻 Desenvolvedor em HTML e CSS. Programador em JavaScript (JS). </code><img style="margin: 0 auto" src="https://github.com/eduardodsr/mypage/blob/master/FrontEnd.jpg" height="30"></code> 
 
 :heart: Paixão pela área TI. Busco sempre aperfeiçoar minhas habilidades e conhecimentos em Tecnologias.
@@ -39,8 +47,8 @@
 [✔️] Frameworks – Angular, React e Vue
 
 
-<details>
-<summary><h3> HARD SKILLS (Habilidades Técnicas) </h3>  </summary>
+<details class="HARD_SKILLS">
+<summary>HARD SKILLS (Habilidades Técnicas) </summary>
 
 ### HARD SKILLS (Habilidades Técnicas):  💬
 
@@ -66,8 +74,8 @@
 
 </details>
 
-<details>
-<summary> <h3> SOFT SKILLS (Habilidades Comportamentais) </h3>  💬 </summary>
+<details class="SOFT_SKILLS">  
+<summary> SOFT SKILLS (Habilidades Comportamentais) </summary>
 
 ### SOFT SKILLS (Habilidades Comportamentais):  💬
 
