@@ -107,3 +107,7 @@
 ![GitHub followers](https://img.shields.io/github/followers/eduardodsr?label=Follow&style=social)
 [![Website edsr.dev](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://edsr.dev/)](https://edsr.dev/)
 ![Visitor](https://visitor-badge.glitch.me/badge?page_id=eduardodsr.eduardodsr)
+
+![Steam Collection Files](https://img.shields.io/github/followers/eduardodsr?label=Follow&style=social)
+![GitHub followers](https://img.shields.io/github/followers/eduardodsr?label=Follow&style=social)
+![GitHub followers](https://img.shields.io/github/followers/eduardodsr?label=eduardodsr)
