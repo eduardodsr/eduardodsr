@@ -40,7 +40,7 @@
 
 
 <details>
-<summary><strong> HARD SKILLS (Habilidades Técnicas) </strong>  </summary>
+<summary><h1> HARD SKILLS (Habilidades Técnicas) </h1>  </summary>
 
 ### HARD SKILLS (Habilidades Técnicas):  💬
 
