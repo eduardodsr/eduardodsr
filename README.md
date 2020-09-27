@@ -124,7 +124,7 @@
 ![Visitor](https://visitor-badge.glitch.me/badge?page_id=eduardodsr.eduardodsr)
 ![GitHub followers](https://img.shields.io/github/followers/eduardodsr?label=Follow&style=social)
 
-![Github Profile Views](http://img.shields.io/badge/Profile%20Views-868-blue)
+![Github Repositories](http://img.shields.io/badge/Repositories%20Views-31-blue)
 ![Github Stars](http://img.shields.io/badge/Stars-187-blue)
 ![Github Projects](http://img.shields.io/badge/Projects-2-blue)
 
