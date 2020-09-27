@@ -19,6 +19,17 @@
 
 ![focus](https://img.shields.io/badge/focus-Front_End%20%7C%20Back_End%20%7C%20FullStacker-brightgreen)
 ![living](https://img.shields.io/badge/living-Rio%20de%20Janeiro-3c9)
+<div class="shields" align="left">
+    <img src="https://img.shields.io/badge/-Python-333.svg?logo=python&style=flat">
+    <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC.svg?logo=visual-studio-code&style=flat">
+    <img src="https://img.shields.io/badge/-GitHub-181717.svg?logo=github&style=flat">
+    <img src="https://img.shields.io/badge/-Jupyter-2F1711.svg?logo=jupyter&style=flat">
+    <!--<img src="https://img.shields.io/badge/-Django-092E20.svg?logo=django&style=flat">-->  
+    <!--<img src="https://img.shields.io/badge/-Flask-000000.svg?logo=flask&style=flat">-->  
+    <img src="https://img.shields.io/badge/-HTML5-333.svg?logo=html5&style=flat">
+    <img src="https://img.shields.io/badge/-CSS3-1572B6.svg?logo=css3&style=flat">
+     <!--<img src="https://img.shields.io/badge/-Vue.js-214263.svg?logo=Vue.js&style=flat">--> 
+</div>
 
 <br />
 
@@ -147,16 +158,4 @@
 <code><a href="https://www.json.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/json/json-ar21.svg"></a></code>
 <code><a href="https://www.javascript.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></a></code>
 <code><a href="https://reactjs.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></a></code>
-</div>
-
-<div class="shields" align="left">
-    <img src="https://img.shields.io/badge/-Python-333.svg?logo=python&style=flat">
-    <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC.svg?logo=visual-studio-code&style=flat">
-    <img src="https://img.shields.io/badge/-GitHub-181717.svg?logo=github&style=flat">
-    <img src="https://img.shields.io/badge/-Jupyter-2F1711.svg?logo=jupyter&style=flat">
-    <!--<img src="https://img.shields.io/badge/-Django-092E20.svg?logo=django&style=flat">-->  
-    <!--<img src="https://img.shields.io/badge/-Flask-000000.svg?logo=flask&style=flat">-->  
-    <img src="https://img.shields.io/badge/-HTML5-333.svg?logo=html5&style=flat">
-    <img src="https://img.shields.io/badge/-CSS3-1572B6.svg?logo=css3&style=flat">
-     <!--<img src="https://img.shields.io/badge/-Vue.js-214263.svg?logo=Vue.js&style=flat">--> 
 </div>
