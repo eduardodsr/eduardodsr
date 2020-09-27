@@ -37,18 +37,14 @@
 ### Desenvolvedor e Programador:
 
 [✔️] HTML + CSS        
-
 [✔️] JavaScript (Node JS) 
-
 [✔️] Python              
-
 [✔️] Java 
-
 [✔️] Frameworks – Angular, React e Vue
 
 
 <details class="HARD_SKILLS">
-  <summary><strong>HARD SKILLS (Habilidades Técnicas)</strong></summary>
+<summary><strong>HARD SKILLS (Habilidades Técnicas)</strong></summary>
 
 ### HARD SKILLS (Habilidades Técnicas):  💬
 
@@ -75,7 +71,7 @@
 </details>
 
 <details class="SOFT_SKILLS">  
-  <summary><strongSOFT SKILLS (Habilidades Comportamentais)</strong></summary>
+<summary><strong>SOFT SKILLS (Habilidades Comportamentais)</strong></summary>
 
 ### SOFT SKILLS (Habilidades Comportamentais):  💬
 
