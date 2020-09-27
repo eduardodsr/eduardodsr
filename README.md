@@ -30,8 +30,6 @@
 
 :ballot_box_with_check: Bacharel em Sistemas de Informação. Estou cursando vários cursos na área de Desenvolvimento.
 
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/eduardodsr/)](https://github.com/eduardodsr/)
-
 
 ### Desenvolvedor e Programador:
 
@@ -100,7 +98,9 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eduardodsr)](https://github.com/eduardodsr/github-readme-stats)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-868-blue)
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/eduardodsr/)](https://github.com/eduardodsr/)
+
+![Github Profile Views](http://img.shields.io/badge/Profile%20Views-868-blue)(https://github.com/eduardodsr/)
 
 ### My Development Tools:  ⚒
 
