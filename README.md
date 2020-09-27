@@ -19,15 +19,12 @@
 
 
 <div class="shields" align="left">
-    <img src="https://img.shields.io/badge/-Python-333.svg?logo=python&style=flat">
-    <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC.svg?logo=visual-studio-code&style=flat">
-    <img src="https://img.shields.io/badge/-GitHub-181717.svg?logo=github&style=flat">
-    <img src="https://img.shields.io/badge/-Jupyter-2F1711.svg?logo=jupyter&style=flat">
-    <!--<img src="https://img.shields.io/badge/-Django-092E20.svg?logo=django&style=flat">-->  
-    <!--<img src="https://img.shields.io/badge/-Flask-000000.svg?logo=flask&style=flat">-->  
-    <img src="https://img.shields.io/badge/-HTML5-333.svg?logo=html5&style=flat">
-    <img src="https://img.shields.io/badge/-CSS3-1572B6.svg?logo=css3&style=flat">
-     <!--<img src="https://img.shields.io/badge/-Vue.js-214263.svg?logo=Vue.js&style=flat">--> 
+    ![Python-]<img src="https://img.shields.io/badge/-Python-333.svg?logo=python&style=flat">
+    ![VSCode]<img src="https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC.svg?logo=visual-studio-code&style=flat">
+    ![GitHub]<img src="https://img.shields.io/badge/-GitHub-181717.svg?logo=github&style=flat">
+    ![Jupyter]<img src="https://img.shields.io/badge/-Jupyter-2F1711.svg?logo=jupyter&style=flat">
+    ![HTML5]<img src="https://img.shields.io/badge/-HTML5-333.svg?logo=html5&style=flat">
+    ![CSS3]<img src="https://img.shields.io/badge/-CSS3-1572B6.svg?logo=css3&style=flat">
 </div>
 
 <div class="shields2" align="left">
