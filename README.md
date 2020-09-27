@@ -108,7 +108,7 @@
           },
          databases: ["SQL"],      
       },
-      currentFocus: ["Dev", "Front End", "Dev Back End", "Dev FullStack"]
+      currentFocus: ["Dev", "Front End", "Back End", "FullStack"]
    };
 ```
 
