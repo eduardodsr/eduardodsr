@@ -110,4 +110,5 @@
 
 ![Steam Collection Files](https://img.shields.io/github/followers/eduardodsr?label=Follow&style=social)
 ![GitHub followers](https://img.shields.io/github/followers/eduardodsr?label=Follow&style=social)
-![GitHub followers](https://img.shields.io/github/followers/eduardodsr?label=eduardodsr)
+
+Repology - Repositories:	Repology - Repositories badge	/repology/repositories/:projectName
