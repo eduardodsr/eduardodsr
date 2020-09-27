@@ -103,8 +103,8 @@
           },
           backEnd: {
               js: ["Node", "Angular", "React", "Vue"],
-              python: ["A Student of Python"]
-              java: ["A Student of Java"]
+              python: ["A Student of Python"],
+              java: ["A Student of Java"],
           },
          databases: ["SQL", "SQL Server"],      
       },
