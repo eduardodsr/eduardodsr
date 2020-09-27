@@ -95,22 +95,10 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eduardodsr)](https://github.com/eduardodsr/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eduardodsr)](https://github.com/eduardodsr/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eduardodsr&hide=python,html)](https://github.com/eduardodsr/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eduardodsr&langs_count=8)](https://github.com/eduardodsr/github-readme-stats)
+[![Top 10 Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eduardodsr&langs_count=10)](https://github.com/eduardodsr/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eduardodsr&layout=compact)](https://github.com/eduardodsr/github-readme-stats)
 
-
-## Wakatime Week Stats:
-
-[![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=eduardodsr)](https://github.com/eduardodsr/github-readme-stats)
-
-[![eduardodsr's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=eduardodsr)](https://github.com/eduardodsr/github-readme-stats)
-
-[![eduardodsr's github stats](https://github-readme-stats.vercel.app/api?username=eduardodsr)](https://github.com/eduardodsr/github-readme-stats)
 
 
 ### HARD SKILLS (Habilidades Técnicas):  💬
