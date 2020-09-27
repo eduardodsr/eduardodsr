@@ -17,12 +17,7 @@
 
 ### Sobre mim:
 
-<img src="https://img.shields.io/badge/-Python-333.svg?logo=python&style=flat">
-<img src="https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC.svg?logo=visual-studio-code&style=flat">
-<img src="https://img.shields.io/badge/-GitHub-181717.svg?logo=github&style=flat">
-<img src="https://img.shields.io/badge/-Jupyter-2F1711.svg?logo=jupyter&style=flat">
-<img src="https://img.shields.io/badge/-HTML5-333.svg?logo=html5&style=flat">
-<img src="https://img.shields.io/badge/-CSS3-1572B6.svg?logo=css3&style=flat">
+<img src="https://img.shields.io/badge/-Python-333.svg?logo=python&style=flat"> <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC.svg?logo=visual-studio-code&style=flat"> <img src="https://img.shields.io/badge/-GitHub-181717.svg?logo=github&style=flat"> <img src="https://img.shields.io/badge/-Jupyter-2F1711.svg?logo=jupyter&style=flat"> <img src="https://img.shields.io/badge/-HTML5-333.svg?logo=html5&style=flat"> <img src="https://img.shields.io/badge/-CSS3-1572B6.svg?logo=css3&style=flat">
 
 💻 Desenvolvedor em HTML e CSS. Programador em JavaScript (JS). </code><img style="margin: 0 auto" src="https://github.com/eduardodsr/mypage/blob/master/FrontEnd.jpg" height="30"></code> 
 
