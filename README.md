@@ -130,30 +130,14 @@
     -   Controle de Versão (GitHub); Ágil (Scrum).
 ```
 
-### 📊 SOFT SKILLS (Habilidades Comportamentais)  💬:
+### SOFT SKILLS (Habilidades Comportamentais)  💬:
 
-*Liderança;*
-**
-**
-*
-*
-*
-*
-*Organização;
-*Otimização de Processos
-*Comprometimento;
-*Autoconfiança;
-*Empatia;
-*Negociação de conflitos;
-*Criatividade e Inovação.
+-	Liderança; Comunicação; Trabalho em equipe; 
 
-1. :white_check_mark: Liderança;
-2. :white_check_mark: Comunicação;
-3. :white_check_mark: Trabalho em equipe;
-4. :white_check_mark: Proatividade;
-5. :white_check_mark: Planejamento Estratégico;
-6. :white_check_mark: Autodidata;
-7. :white_check_mark: Ética;
-8. :white_check_mark: [aula 3.3] Strings
-9. :white_check_mark: [aula 3.4] Strings
-10. :white_check_mark: [aula 4] Números
+-	Proatividade; Planejamento Estratégico;
+
+-	Ética; Organização; Otimização de Processos;
+
+-	Comprometimento; Autoconfiança; Empatia;
+
+-	Criatividade; Inovação; Negociação de conflitos.
