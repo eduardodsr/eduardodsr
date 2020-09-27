@@ -87,12 +87,19 @@
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=eduardodsr&show_icons=true&theme=radical)
 
+
+## Bootcamp Cards:
+
+[![Desenvolverdor Python](https://github-readme-stats.vercel.app/api/pin/?username=eduardodsr&repo=github-readme-stats)](https://github.com/eduardodsr/Desenvolvedor-Python)
+
+[![Desenvolvedor Front End](https://github-readme-stats.vercel.app/api/pin/?username=eduardodsr&repo=github-readme-stats)](https://github.com/eduardodsr/Desenvolvedor-Front-End)
+
+[![Programador Iniciantes](https://github-readme-stats.vercel.app/api/pin/?username=eduardodsr&repo=github-readme-stats)](https://github.com/eduardodsr/bootcamp-IGTI)
+
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=eduardodsr&repo=github-readme-stats)](https://github.com/eduardodsr/github-readme-stats)
 
 
-## Top Languages Card:
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eduardodsr)](https://github.com/eduardodsr/github-readme-stats)
+## Top 10 Languages Card:
 
 [![Top 10 Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eduardodsr&langs_count=10)](https://github.com/eduardodsr/github-readme-stats)
 
