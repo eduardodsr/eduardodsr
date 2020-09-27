@@ -6,6 +6,12 @@
 
 <p align="center">
   
+  <img alt="JavaScript" title="JavaScript" src="https://user-images.githubusercontent.com/1680157/87443764-4af82c80-c5cc-11ea-82c2-c368ee12cf6d.png" height="24">
+  
+   <a href="https://www.edsr.dev" alt="edsr.dev" target="_blank">
+    <img src="https://img.shields.io/badge/-edsr.dev-0e2c54?style=flat-square&logo=chrome&logoColor=black" />
+  </a>
+  
   <a href="https://www.edsr.dev" alt="edsr.dev" target="_blank">
     <img src="https://img.shields.io/badge/-edsr.dev-0e2c54?style=flat-square&logo=chrome&logoColor=white" />
   </a>
