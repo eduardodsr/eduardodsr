@@ -94,9 +94,8 @@
 
 ```javascript
    const eduardodsr = {
-      pronouns: "He" | "Him",
       code: ["JS", "Python", "Java"],
-      askMeAbout: ["web dev", "Dev Front end"],
+      askMeAbout: ["web dev", "Dev Front End"],
       technologies: {
           frontEnd: {
               js: [ "Node", "Angular", "React", "Vue"], 
@@ -105,6 +104,7 @@
           backEnd: {
               js: ["Node", "Angular", "React", "Vue"],
               python: ["A Student of Python"]
+              java: ["A Student of Java"]
           },
          databases: ["SQL", "SQL Server"],      
       },
