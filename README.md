@@ -5,7 +5,7 @@
 <h1 align="center"> Eduardo da Silva Rodrigues </h1>
 
 <p align="center">     
-  <a href="https://www.edsr.dev" alt="edsr.dev" target="_blank"><img src="https://img.shields.io/badge/-edsr.dev-0e2c54?style=flat-square&logo=chrome&logoColor=black" /></a>
+  <a href="https://github.com/eduardodsr" alt="github.com/eduardodsr" target="_blank"><img src="https://img.shields.io/badge/-github.com/eduardodsr-0e2c54?style=flat-square&logo=chrome&logoColor=black" /></a>
   <a href="https://www.edsr.dev" alt="edsr.dev" target="_blank"><img src="https://img.shields.io/badge/-edsr.dev-0e2c54?style=flat-square&logo=chrome&logoColor=white" /></a>
   <a href="mailto:edsr.dev@gmail.com" alt="Email" target="_blank"><img src="https://img.shields.io/badge/-Email-B23121?style=flat-square&logo=gmail&logoColor=white" />
   </a>                                                                                         
