@@ -99,7 +99,7 @@
 ![Github Profile Views](http://img.shields.io/badge/Profile%20Views-868-blue)
 ![GitHub followers](https://img.shields.io/github/followers/eduardodsr?label=Follow&style=social)
 [![Website edsr.dev](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://edsr.dev/)](https://edsr.dev/)
-![Visitor](https://visitor-badge.glitch.me/badge?page_id=eduardodsr.eduardodsr)
+![Visitor OnLine](https://visitor-badge.glitch.me/badge?page_id=eduardodsr.eduardodsr)
 
 ### My Development Tools:  ⚒
 
