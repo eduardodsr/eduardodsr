@@ -90,15 +90,11 @@
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=eduardodsr&repo=github-readme-stats)](https://github.com/eduardodsr/github-readme-stats)
 
 
-
 ## Top Languages Card:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eduardodsr)](https://github.com/eduardodsr/github-readme-stats)
 
 [![Top 10 Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eduardodsr&langs_count=10)](https://github.com/eduardodsr/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eduardodsr&layout=compact)](https://github.com/eduardodsr/github-readme-stats)
-
 
 
 ### HARD SKILLS (Habilidades Técnicas):  💬
