@@ -92,18 +92,15 @@
 :email: : eduardodsr@gmail.com
 
 
-## GitHub Status:
+## GitHub Status | Top Languages Card:
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=eduardodsr&show_icons=true)
 
 ![Github stats Color](https://github-readme-stats.vercel.app/api?username=eduardodsr&show_icons=true&theme=radical)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-175-blue)
-
-## Top Languages Card:
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eduardodsr)](https://github.com/eduardodsr/github-readme-stats)
 
+![Profile Views](http://img.shields.io/badge/Profile%20Views-175-blue)
 
 ### My Development Tools:  ⚒
 
