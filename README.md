@@ -105,14 +105,9 @@
 ![Github stats](https://github-readme-stats.vercel.app/api?username=eduardodsr&show_icons=true&theme=radical)
 
 
-## ReadMe Card:
+## Top Languages Card:
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=eduardodsr&repo=github-readme-stats)](https://github.com/eduardodsr/github-readme-stats)
-
-
-## Top 10 Languages Card:
-
-[![Top 10 Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eduardodsr&langs_count=10)](https://github.com/eduardodsr/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eduardodsr)](https://github.com/eduardodsr/github-readme-stats)
 
 
 ### My Development Tools:  ⚒
