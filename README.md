@@ -33,14 +33,22 @@
 
 :ballot_box_with_check: Bacharel em Sistemas de Informação. Estou cursando vários cursos na área de Desenvolvimento.
 
+<details class="Dev">
+<summary><strong>Desenvolvedor e Programador</strong></summary>
 
 ### Desenvolvedor e Programador:
 
-[✔️] HTML + CSS        
-[✔️] JavaScript (Node JS) 
-[✔️] Python              
+[✔️] HTML + CSS
+
+[✔️] JavaScript (Node JS)
+
+[✔️] Python
+
 [✔️] Java 
+
 [✔️] Frameworks – Angular, React e Vue
+
+</details>
 
 
 <details class="HARD_SKILLS">
