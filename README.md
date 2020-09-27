@@ -90,11 +90,11 @@
 
 ## Bootcamp Cards:
 
-[![Desenvolverdor Python](https://github-readme-stats.vercel.app/api/pin/?username=eduardodsr&repo=github-readme-stats)](https://github.com/eduardodsr/Desenvolvedor-Python)
+[![Desenvolverdor Python](https://github-readme-stats.vercel.app/api/pin/?username=eduardodsr&repo=https://github.com/eduardodsr/Desenvolvedor-Python)](https://github.com/eduardodsr/Desenvolvedor-Python)
 
-[![Desenvolvedor Front End](https://github-readme-stats.vercel.app/api/pin/?username=eduardodsr&repo=github-readme-stats)](https://github.com/eduardodsr/Desenvolvedor-Front-End)
+[![Desenvolvedor Front End](https://github-readme-stats.vercel.app/api/pin/?username=eduardodsr&repo=https://github.com/eduardodsr/Desenvolvedor-Front-Ends)](https://github.com/eduardodsr/Desenvolvedor-Front-End)
 
-[![Programador Iniciantes](https://github-readme-stats.vercel.app/api/pin/?username=eduardodsr&repo=github-readme-stats)](https://github.com/eduardodsr/bootcamp-IGTI)
+[![Programador Iniciantes](https://github-readme-stats.vercel.app/api/pin/?username=eduardodsr&repo=https://github.com/eduardodsr/bootcamp-IGTI)](https://github.com/eduardodsr/bootcamp-IGTI)
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=eduardodsr&repo=github-readme-stats)](https://github.com/eduardodsr/github-readme-stats)
 
