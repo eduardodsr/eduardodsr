@@ -23,6 +23,8 @@
 <img src="https://img.shields.io/badge/-Jupyter-2F1711.svg?logo=jupyter&style=flat">
 <img src="https://img.shields.io/badge/-HTML5-333.svg?logo=html5&style=flat">
 <img src="https://img.shields.io/badge/-CSS3-1572B6.svg?logo=css3&style=flat">
+
+<div>
 ![focus](https://img.shields.io/badge/focus-Front_End%20%7C%20Back_End%20%7C%20FullStack-brightgreen)
 ![living](https://img.shields.io/badge/living-Rio%20de%20Janeiro-3c9)
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/eduardodsr/)](https://github.com/eduardodsr/)
@@ -31,7 +33,7 @@
 ![Github Projects](http://img.shields.io/badge/Projects-2-blue)
 ![Github Repositories](http://img.shields.io/badge/Repositories-31-blue)
 ![Github Stars](http://img.shields.io/badge/Stars-187-blue)
-
+</div>
 
 
 💻 Desenvolvedor em HTML e CSS. Programador em JavaScript (JS). </code><img style="margin: 0 auto" src="https://github.com/eduardodsr/mypage/blob/master/FrontEnd.jpg" height="30"></code> 
