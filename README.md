@@ -48,7 +48,7 @@
 
 
 <details class="HARD_SKILLS">
-<summary>HARD SKILLS (Habilidades Técnicas) </summary>
+  <summary><strong>HARD SKILLS (Habilidades Técnicas)</strong></summary>
 
 ### HARD SKILLS (Habilidades Técnicas):  💬
 
@@ -75,7 +75,7 @@
 </details>
 
 <details class="SOFT_SKILLS">  
-<summary> SOFT SKILLS (Habilidades Comportamentais) </summary>
+  <summary><strongSOFT SKILLS (Habilidades Comportamentais)</strong></summary>
 
 ### SOFT SKILLS (Habilidades Comportamentais):  💬
 
