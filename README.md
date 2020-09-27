@@ -80,7 +80,7 @@
 -	Criatividade; Inovação; Negociação de conflitos.
 
 
-### Projetos em andamento (To Do | In Progress | Done) :
+### PROJECTS (Projetos em andamento) (To Do | In Progress | Done) :
 
 :bookmark_tabs:  ``` link: ```  https://github.com/users/eduardodsr/projects/1
 
