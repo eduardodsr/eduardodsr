@@ -100,7 +100,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eduardodsr)](https://github.com/eduardodsr/github-readme-stats)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-175-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-868-blue)
 
 ### My Development Tools:  ⚒
 
