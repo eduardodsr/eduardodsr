@@ -107,19 +107,9 @@
 ![GitHub followers](https://img.shields.io/github/followers/eduardodsr?label=Follow&style=social)
 [![Website edsr.dev](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://edsr.dev/)](https://edsr.dev/)
 ![Visitor](https://visitor-badge.glitch.me/badge?page_id=eduardodsr.eduardodsr)
-
-
 ![GitHub followers](https://img.shields.io/github/followers/eduardodsr?label=Follow&style=social)
-
-
 ![GitHub forks](https://img.shields.io/github/forks/eduardodsr/eduardodsr?label=Fork)
-
-![GitHub Repo stars](https://img.shields.io/github/stars/:eduardodsr/eduardodsr?style=social)
-
-![GitHub User's stars](https://img.shields.io/github/stars/:eduardodsr?affiliations=OWNER%2CCOLLABORATOR)
-
-![GitHub Org's stars](https://img.shields.io/github/stars/:org)
-
+![GitHub Repo stars](https://img.shields.io/github/stars/eduardodsr/eduardodsr?style=social)
+![GitHub User's stars](https://img.shields.io/github/stars/eduardodsr?affiliations=OWNER%2CCOLLABORATOR)
 ![GitHub watchers](https://img.shields.io//github/watchers/eduardodsr/eduardodsr?label=Watch)
-
 ![GitHub watchers](https://img.shields.io//github/watchers/eduardodsr/eduardodsr?label=social)
