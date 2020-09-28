@@ -1,15 +1,14 @@
 <p align="center">
   <img src=https://github.com/eduardodsr/mypage/blob/master/dev2.gif?raw=true" alt="dev2" width="150px" />
   <img src=https://github.com/eduardodsr/mypage/blob/master/dev.gif?raw=true" alt="dev" width="150px" />
-  [![Website edsr.dev](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://edsr.dev/)](https://edsr.dev/)
 </p>
 <h1 align="center"> Eduardo da Silva Rodrigues </h1>
 
 <p align="center">     
   <a href="https://github.com/eduardodsr" alt="github.com/eduardodsr" target="_blank"><img src="https://img.shields.io/badge/-github.com/eduardodsr-0e2c54?style=flat-square&logo=chrome&logoColor=black" /></a>
   <a href="https://www.edsr.dev" alt="edsr.dev" target="_blank"><img src="https://img.shields.io/badge/-edsr.dev-0e2c54?style=flat-square&logo=chrome&logoColor=white" /></a>
-  <a href="mailto:edsr.dev@gmail.com" alt="Email" target="_blank"><img src="https://img.shields.io/badge/-Email-B23121?style=flat-square&logo=gmail&logoColor=white" />
-  </a>                                                                                         
+  <a href="mailto:edsr.dev@gmail.com" alt="Email" target="_blank"><img src="https://img.shields.io/badge/-Email-B23121?style=flat-square&logo=gmail&logoColor=white" /></a>   
+  [![Website edsr.dev](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://edsr.dev/)](https://edsr.dev/)
 </p>
 
 <img style="margin: 0 auto" src="https://github.com/eduardodsr/mypage/blob/master/brazil.gif" height="25"> :brazil:
