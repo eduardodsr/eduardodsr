@@ -27,13 +27,19 @@
 
 ### :star: Desenvolvedor e Programador: :star:
 
-:bow_and_arrow: :dart: Desenvolvedor HTML5 + CSS3 (Bootstrap); :ballot_box_with_check:
+:bow_and_arrow: :dart: Desenvolvedor HTML5 + CSS3 (Bootstrap); :ballot_box_with_check: 
+[![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript)
 
 :bow_and_arrow: :dart: Programador JavaScript e Node JS; :ballot_box_with_check: 
+[![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+[![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3) 
+[![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap)
 
-:bow_and_arrow: :dart: Python; 🐍 :ballot_box_with_check:
+:bow_and_arrow: :dart: Python; 🐍 :ballot_box_with_check: 
+[![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python)
 
-:bow_and_arrow: :dart: Java; :ballot_box_with_check:
+:bow_and_arrow: :dart: Java; :ballot_box_with_check: 
+[![Java](https://img.shields.io/badge/Java-orange?style=flat&logo=java&logoColor=white)](https://github.com/hritik5102)
 
 :bow_and_arrow: :dart: Frameworks – Angular, React e Vue; :ballot_box_with_check:
 
