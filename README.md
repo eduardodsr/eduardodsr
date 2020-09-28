@@ -31,7 +31,7 @@
 
 :bow_and_arrow: :dart: Programador JavaScript e Node JS; :ballot_box_with_check: 
 
-:bow_and_arrow: :dart: Python; :ballot_box_with_check:
+:bow_and_arrow: :dart: Python; 🐍 :ballot_box_with_check:
 
 :bow_and_arrow: :dart: Java; :ballot_box_with_check:
 
@@ -99,10 +99,9 @@
 :email: : edsr.dev@gmail.com
 
 
-###  A little more about me...  👇
+###  🐍 A little more about me...  👇
 
 ![Python application](https://github.com/eduardodsr/eduardodsr/workflows/Python%20application/badge.svg?branch=master&event=schedule) 
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=reduardodsr.eduardodsr)
 
 ```python
 class eduardodsr:
