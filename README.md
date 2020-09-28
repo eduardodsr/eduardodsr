@@ -15,33 +15,27 @@
 
 ### Hello! <img style="margin: 0 auto" src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" height="25"> Bem vindo ao meu portfólio!
 
-### Sobre mim: :open_book:
+### ⚡ Sobre mim: :open_book:
 
+![bacharel](https://img.shields.io/badge/Bacharel_em_Sistemas_de_Informacao-brightgreen)
+![job](https://img.shields.io/badge/Job-Analista_de_Sistemas-brightgreen)
+![love](https://img.shields.io/badge/love-Development-brightgreen)
 ![focus](https://img.shields.io/badge/focus-Front_End%20%7C%20Back_End%20%7C%20FullStacker-brightgreen)
 ![living](https://img.shields.io/badge/living-Rio%20de%20Janeiro-3c9)
 ![Visitor](https://visitor-badge.glitch.me/badge?page_id=eduardodsr.eduardodsr)
 <!--[GitHub followers](https://img.shields.io/github/followers/eduardodsr?label=Follow&style=social)-->
 
+### :star: Desenvolvedor e Programador: :star:
 
-💻 Desenvolvedor em HTML e CSS. Programador em JavaScript (JS). </code><img style="margin: 0 auto" src="https://github.com/eduardodsr/eduardodsr/blob/master/FrontEnd.jpg" height="30"></code> 
+ - Desenvolvedor HTML5 + CSS3 (Bootstrap);
 
-:heart: Paixão pela área TI. Busco sempre aperfeiçoar minhas habilidades e conhecimentos em Tecnologias.
+:ballot_box_with_check:- Programador JavaScript e Node JS;
 
-:bookmark: Analista de Sistemas.  Estudante da linguagem Python. Estudando os Frameworks – Angular, React e Vue;
+:ballot_box_with_check:- Python. Estudante da linhagem Python.
 
-:ballot_box_with_check: Bacharel em Sistemas de Informação. Estou cursando vários cursos na área de Desenvolvimento.
+:ballot_box_with_check:- Java;
 
-### Desenvolvedor e Programador: :computer: :desktop_computer:
-
-- HTML5 + CSS3 (Bootstrap);
-
-- JavaScript e Node JS;
-
-- Python;
-
-- Java;
-
-- Frameworks – Angular, React e Vue;
+:ballot_box_with_check:- Frameworks – Angular, React e Vue;
 
 <details class="HARD_SKILLS">
 <summary><strong>HARD SKILLS (Habilidades Técnicas)</strong></summary>
