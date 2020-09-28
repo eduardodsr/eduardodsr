@@ -127,7 +127,7 @@
 [![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=eduardodsr)](https://github.com/eduardodsr/github-readme-stats)
 
 
-## My Development Tools:  ⚒
+## Languages and Tools:  ⚒
 
 <div class="code" align="left">
 <code><a href="https://www.python.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></a></code>
@@ -139,7 +139,7 @@
 <code><a href="https://reactjs.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></a></code>
 <code><a href="https://www.java.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></a></code>
 <code><a href="https://html.spec.whatwg.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></a></code>
-<code><a href="https://getbootstrap.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-ar21.svg "></a></code>
+<code><a href="https://getbootstrap.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-ar21.svg"></a></code>
 <code><a href="https://nodejs.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg"></a></code> 
 <code><a href="https://angularjs.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/angular/angular-ar21.svg"></a></code>  
 <code><a href="https://www.jetbrains.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/jetbrains/index.html"></a></code>  
