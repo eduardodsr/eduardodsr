@@ -103,7 +103,7 @@
       askMeAbout: ["Bacharel em Sistemas de Informação", "Analista de Sistemas"],
       currentFocus: ["Dev", "Front End", "Back End", "FullStack"],
       technologies: {
-          backEnd: ["nodejs", "python", "java"]
+          backEnd: ["Nodejs", "Python", "Java"],
           frontEnd: [ "JS", "Node JS", "Angular", "React", "Vue"],
           mobileApp: [],
           serverless: [],
