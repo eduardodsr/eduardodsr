@@ -100,23 +100,19 @@
 ```javascript
    const eduardodsr = {
       code: ["JS", "Python", "Java"],
-      askMeAbout: ["Web Dev", "Dev Front End"],
+      askMeAbout: ["Bacharel em Sistemas de Informação", "Analista de Sistemas"],
+      currentFocus: ["Dev", "Front End", "Back End", "FullStack"],
       technologies: {
-          frontEnd: {
-              js: [ "Node", "Angular", "React", "Vue"], 
-              css: ["Bootstrap"]
-          },
-          backEnd: {
-              js: ["Node"],
-              python: ["Python"],
-              java: ["Java"],
-          },
-         databases: ["SQL"],      
+          backEnd: ["nodejs", "python", "java"]
+          frontEnd: [ "JS", "Node JS", "Angular", "React", "Vue"],
+          mobileApp: [],
+          serverless: [],
+          database: ["mongo","mySql", "SQL"],
+          devOps:[],
       },
-      currentFocus: ["Dev", "Front End", "Back End", "FullStack"]
+      architecture: [],
    };
 ```
-
 
 ## GitHub Status | Top Languages Card: :star:
 
