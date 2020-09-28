@@ -28,22 +28,22 @@
 ### :star: Desenvolvedor e Programador: :star:
 
 :bow_and_arrow: :dart: Desenvolvedor HTML5 + CSS3 (Bootstrap); :ballot_box_with_check: 
-[![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)])
-[![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)])
-[![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap)])
+[![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+[![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
+[![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap)
 
 :bow_and_arrow: :dart: Programador JavaScript e Node JS; :ballot_box_with_check: 
-[![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript)])
-[![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat&logo=Node.js)])
+[![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript)
+[![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat&logo=Node.js)
 
 :bow_and_arrow: :dart: Python; 🐍 :ballot_box_with_check: 
-[![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python)])
+[![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python)
 
 :bow_and_arrow: :dart: Java; :ballot_box_with_check: 
-[![Java](https://img.shields.io/badge/Java-orange?style=flat&logo=java&logoColor=white)](https://github.com/hritik5102)])
+[![Java](https://img.shields.io/badge/Java-orange?style=flat&logo=java&logoColor=white)])
 
 :bow_and_arrow: :dart: Frameworks – Angular, React e Vue; :ballot_box_with_check:
-[![React](https://img.shields.io/badge/-React-black?style=flat&logo=react&link=https://github.com/hritik5102)])
+[![React](https://img.shields.io/badge/-React-black?style=flat&logo=react&link=)])
 
 <br>
 
