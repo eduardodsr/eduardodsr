@@ -33,16 +33,15 @@
 
 ### Desenvolvedor e Programador: :computer: :desktop_computer:
 
-[✔️] HTML + CSS
+[✔️] HTML + CSS ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5)
 
-[✔️] JavaScript (Node JS)
+[✔️] JavaScript (Node JS) ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript) ![Node.js](https://img.shields.io/badge/-Node.js-222222?style=flat&logo=node.js&logoColor=339933)
 
-[✔️] Python
+[✔️] Python ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
 
-[✔️] Java 
+[✔️] Java   ![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=java)
 
-[✔️] Frameworks – Angular, React e Vue
-
+[✔️] Frameworks – Angular, React e Vue  ![React](https://img.shields.io/badge/-React-222222?style=flat&logo=React&logoColor=61DAFB)
 
 <details class="HARD_SKILLS">
 <summary><strong>HARD SKILLS (Habilidades Técnicas)</strong></summary>
