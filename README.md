@@ -27,7 +27,7 @@
 
 :ballot_box_with_check: Bacharel em Sistemas de Informação. Estou cursando vários cursos na área de Desenvolvimento.
 
-### Desenvolvedor e Programador: :hammer_and_wrench: :axe:
+### Desenvolvedor e Programador: :computer: :desktop_computer: :keyboard:
 
 [✔️] HTML + CSS
 
