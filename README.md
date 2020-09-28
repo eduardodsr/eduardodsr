@@ -17,11 +17,11 @@
 
 ### ⚡ Sobre mim: :open_book:
 
-![bacharel](https://img.shields.io/badge/bacharel-Sistemas_de_Informação-brightgreen)
-![job](https://img.shields.io/badge/Job-Analista_de_Sistemas-brightgreen)
-![love](https://img.shields.io/badge/love-Development-brightgreen)
-![focus](https://img.shields.io/badge/focus-Front_End%20%7C%20Back_End%20%7C%20FullStacker-brightgreen)
-![living](https://img.shields.io/badge/living-Rio%20de%20Janeiro-3c9)
+![Bacharel](https://img.shields.io/badge/bacharel-Sistemas_de_Informação-brightgreen)
+![Job](https://img.shields.io/badge/Job-Analista_de_Sistemas-brightgreen)
+![Love](https://img.shields.io/badge/love-Development-brightgreen)
+![Focus](https://img.shields.io/badge/focus-Front_End%20%7C%20Back_End%20%7C%20FullStacker-brightgreen)
+![Living](https://img.shields.io/badge/living-Rio%20de%20Janeiro-3c9)
 ![Visitor](https://visitor-badge.glitch.me/badge?page_id=eduardodsr.eduardodsr)
 <!--[GitHub followers](https://img.shields.io/github/followers/eduardodsr?label=Follow&style=social)-->
 
