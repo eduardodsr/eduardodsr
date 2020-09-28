@@ -101,21 +101,32 @@
 
 ###  A little more about me...  👇
 
-```javascript
-   const eduardodsr = {
-      code: ["JS", "Python", "Java"],
-      askMeAbout: ["Bacharel em Sistemas de Informação", "Analista de Sistemas"],
-      currentFocus: ["Dev", "Front End", "Back End", "FullStack"],
-      technologies: {
-          backEnd: ["Nodejs", "Python", "Java"],
-          frontEnd: [ "JS", "Node JS", "Angular", "React", "Vue"],
-          mobileApp: [],
-          serverless: [],
-          database: ["mongo","mySql", "SQL"],
-          devOps:[],
-      },
-      architecture: [],
-   };
+![Python application](https://github.com/eduardodsr/eduardodsr/workflows/Python%20application/badge.svg?branch=master&event=schedule) 
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=reduardodsr.eduardodsr)
+
+```python
+class eduardodsr:
+
+    def __init__(self):
+        self.username = 'eduardodsr'
+        self.name = 'Eduardo da Silva Rodrigues'
+        self.web = 'https://eduardodsr.dev'
+        self.code = {
+            'frontend': ['HTML', 'CSS', 'JavaScript', 'React JS', 'Boostrap'],
+            'backend': ['Python', 'Node JS', 'Java'],
+            'database': ['PostgreSQL', 'MySQL', 'SQL', 'Mongo DB'],
+            'devops': ['Docker', 'Heroku'],
+            'tools': ['GitHub', 'Jupyter Notebook'],
+            'misc': ['SCRUM', 'GNU/Linux']
+        }
+        self.architecture = ['']
+
+    def __str__(self):
+        return self.name
+
+if __name__ == '__main__':
+    me = eduardodsr()
+
 ```
 
 ## GitHub Status | Top Languages Card: :star:
