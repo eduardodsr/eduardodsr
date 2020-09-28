@@ -17,6 +17,13 @@
 
 ### Sobre mim: :open_book:
 
+![focus](https://img.shields.io/badge/focus-Front_End%20%7C%20Back_End%20%7C%20FullStacker-brightgreen)
+![living](https://img.shields.io/badge/living-Rio%20de%20Janeiro-3c9)
+![Visitor](https://visitor-badge.glitch.me/badge?page_id=eduardodsr.eduardodsr)
+![GitHub followers](https://img.shields.io/github/followers/eduardodsr?label=Follow&style=social)
+[![Website edsr.dev](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://edsr.dev/)](https://edsr.dev/)
+
+<br />
 <img src="https://img.shields.io/badge/-Python-333.svg?logo=python&style=flat"> <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC.svg?logo=visual-studio-code&style=flat"> <img src="https://img.shields.io/badge/-GitHub-181717.svg?logo=github&style=flat"> <img src="https://img.shields.io/badge/-Jupyter-2F1711.svg?logo=jupyter&style=flat"> <img src="https://img.shields.io/badge/-HTML5-333.svg?logo=html5&style=flat"> <img src="https://img.shields.io/badge/-CSS3-1572B6.svg?logo=css3&style=flat">
 
 💻 Desenvolvedor em HTML e CSS. Programador em JavaScript (JS). </code><img style="margin: 0 auto" src="https://github.com/eduardodsr/mypage/blob/master/FrontEnd.jpg" height="30"></code> 
