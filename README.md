@@ -11,7 +11,7 @@
   <a href="mailto:edsr.dev@gmail.com" alt="Email" target="_blank"><img src="https://img.shields.io/badge/-Email-B23121?style=flat-square&logo=gmail&logoColor=white" /></a>   
   </p>
 
-<img style="margin: 0 auto" src="https://github.com/eduardodsr/mypage/blob/master/brazil.gif" height="25"> :brazil:
+<img style="margin: 0 auto" src="https://github.com/eduardodsr/eduardodsr/blob/master/brazil.gif" height="25"> :brazil:
 
 ### Hello! <img style="margin: 0 auto" src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" height="25"> Bem vindo ao meu portfólio!
 
