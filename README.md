@@ -27,7 +27,7 @@
 
 :ballot_box_with_check: Bacharel em Sistemas de Informação. Estou cursando vários cursos na área de Desenvolvimento.
 
-### Desenvolvedor e Programador:
+### Desenvolvedor e Programador: :hammer_and_wrench: :axe:
 
 [✔️] HTML + CSS
 
@@ -86,7 +86,7 @@
 
 
 
-### PROJECTS (Projetos em andamento) (To Do | In Progress | Done) :
+### PROJECTS (Projetos em andamento) (To Do | In Progress | Done) : :dart:
 
 :bookmark_tabs:  ``` link: ```  https://github.com/users/eduardodsr/projects/1
 
@@ -121,13 +121,13 @@
 ```
 
 
-## GitHub Status | Top Languages Card:
+## GitHub Status | Top Languages Card: :star:
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=eduardodsr&show_icons=true)
 [![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=eduardodsr)](https://github.com/eduardodsr/github-readme-stats)
 
 
-## Languages and Tools:  ⚒
+## Languages and Tools:  :hammer_and_wrench: :axe:
 
 <div class="code" align="left">
 <code><a href="https://www.w3.org/html/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></a></code>
