@@ -108,8 +108,8 @@
           },
           backEnd: {
               js: ["Node"],
-              python: ["A Student of Python"],
-              java: ["A Student of Java"],
+              python: ["Python"],
+              java: ["Java"],
           },
          databases: ["SQL"],      
       },
