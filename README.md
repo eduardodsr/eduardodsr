@@ -27,15 +27,15 @@
 
 ### :star: Desenvolvedor e Programador: :star:
 
-:ballot_box_with_check: - Desenvolvedor HTML5 + CSS3 (Bootstrap); :star:
+:ballot_box_with_check: Desenvolvedor HTML5 + CSS3 (Bootstrap);
 
-:ballot_box_with_check:- Programador JavaScript e Node JS; :star:
+:ballot_box_with_check: Programador JavaScript e Node JS;
 
-:ballot_box_with_check:- Python. Estudante da linhagem Python. :star:
+:ballot_box_with_check: Python. Estudante da linhagem Python;
 
-:ballot_box_with_check:- Java; :star:
+:ballot_box_with_check: Java; 
 
-:ballot_box_with_check:- Frameworks – Angular, React e Vue; :star:
+:ballot_box_with_check: Frameworks – Angular, React e Vue;
 
 <details class="HARD_SKILLS">
 <summary><strong>HARD SKILLS (Habilidades Técnicas)</strong></summary>
