@@ -36,9 +36,9 @@
 
 :bow_and_arrow: :dart: [![Java](https://img.shields.io/badge/Java-orange?style=flat&logo=java&logoColor=white&link=https://github.com/eduardodsr)](https://github.com/eduardodsr) 
 
-:bow_and_arrow: :dart: - Estou cursando Bootcamp Desenvolvedor Python; :dart:
+:bow_and_arrow: :dart: *Estou cursando Bootcamp Desenvolvedor Python;* 
 
-:bow_and_arrow: :dart: - Estou cursando Bootcamp Desenvolvedor Front End; Estudando os Frameworks – Angular, React e Vue. 
+:bow_and_arrow: :dart: *Estou cursando Bootcamp Desenvolvedor Front End; Estudando os Frameworks – Angular, React e Vue*. 
 
 <br>
 
