@@ -31,7 +31,7 @@
 
 :bow_and_arrow: :dart: Programador JavaScript e Node JS; :ballot_box_with_check: 
 
-:bow_and_arrow: :dart: Python. Estudante da linhagem Python; :ballot_box_with_check:
+:bow_and_arrow: :dart: Python; :ballot_box_with_check:
 
 :bow_and_arrow: :dart: Java; :ballot_box_with_check:
 
