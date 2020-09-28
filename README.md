@@ -17,7 +17,7 @@
 
 ### ⚡ Sobre mim: :open_book:
 
-![bacharel](https://img.shields.io/badge/Bacharel_em_Sistemas_de_Informacao-brightgreen)
+![bacharel](https://img.shields.io/badge/bacharel-Sistemas_de_Informação-brightgreen)
 ![job](https://img.shields.io/badge/Job-Analista_de_Sistemas-brightgreen)
 ![love](https://img.shields.io/badge/love-Development-brightgreen)
 ![focus](https://img.shields.io/badge/focus-Front_End%20%7C%20Back_End%20%7C%20FullStacker-brightgreen)
