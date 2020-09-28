@@ -104,7 +104,7 @@
 
 ###  [ Python 🐍] A little more about me...  👇
 
-[Link Code](https://colab.research.google.com/github/eduardodsr/Python-Google-Colab/blob/master/eduardodsr.ipynb "Link Code Python - Google Colab")
+[Link Code Python](https://github.com/eduardodsr/Python-Google-Colab/blob/master/eduardodsr.ipynb "Link Code Python - Google Colab")
 
 ```python
 class eduardodsr:
