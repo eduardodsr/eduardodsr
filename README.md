@@ -8,8 +8,7 @@
   <a href="https://github.com/eduardodsr" alt="github.com/eduardodsr" target="_blank"><img src="https://img.shields.io/badge/-github.com/eduardodsr-0e2c54?style=flat-square&logo=chrome&logoColor=black" /></a>
   <a href="https://www.edsr.dev" alt="edsr.dev" target="_blank"><img src="https://img.shields.io/badge/-edsr.dev-0e2c54?style=flat-square&logo=chrome&logoColor=white" /></a>
   <a href="mailto:edsr.dev@gmail.com" alt="Email" target="_blank"><img src="https://img.shields.io/badge/-Email-B23121?style=flat-square&logo=gmail&logoColor=white" /></a>   
-  (https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://edsr.dev/)](https://edsr.dev/)
-</p>
+  </p>
 
 <img style="margin: 0 auto" src="https://github.com/eduardodsr/mypage/blob/master/brazil.gif" height="25"> :brazil:
 
