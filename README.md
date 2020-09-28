@@ -37,6 +37,8 @@
 
 :bow_and_arrow: :dart: Frameworks – Angular, React e Vue; :ballot_box_with_check:
 
+<br>
+
 <details class="HARD_SKILLS">
 <summary><strong> ✔️ HARD SKILLS (Habilidades Técnicas) :point_left: </strong></summary>
 
@@ -64,6 +66,8 @@
 
 </details>
 
+<br>
+
 <details class="SOFT_SKILLS">  
 <summary><strong> ✔️ SOFT SKILLS (Habilidades Comportamentais) :point_left: </strong></summary>
 
@@ -81,7 +85,7 @@
 
 </details>
 
-
+<br>
 
 ### ✔️ PROJECTS (Projetos em andamento) (To Do | In Progress | Done) : :dart:
 
