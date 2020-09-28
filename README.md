@@ -43,16 +43,6 @@
 
 - Frameworks – Angular, React e Vue;
 
-*HTML5 + CSS3 (Bootstrap);
-
-*JavaScript e Node JS;
-
-*Python;
-
-*Java;
-
-*Frameworks – Angular, React e Vue;
-
 <details class="HARD_SKILLS">
 <summary><strong>HARD SKILLS (Habilidades Técnicas)</strong></summary>
 
