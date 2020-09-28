@@ -176,11 +176,4 @@ if __name__ == '__main__':
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=eduardodsr&repo=Python-Pro&theme=radical" />
 </a>    
-  </a>    
-  <a href="https://github.com/eduardodsr/comandos">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=eduardodsr&repo=comandos&theme=radical" />
-</a>   
-  
-</div>
-  
+</div> 
