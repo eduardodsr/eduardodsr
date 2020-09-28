@@ -25,24 +25,18 @@
 ![Visitor](https://visitor-badge.glitch.me/badge?page_id=eduardodsr.eduardodsr)
 <!--[GitHub followers](https://img.shields.io/github/followers/eduardodsr?label=Follow&style=social)-->
 
-### :star: Desenvolvedor e Programador: :star:
+### :star: Desenvolvedor e Programador: :ballot_box_with_check: 
 
-:bow_and_arrow: :dart: Desenvolvedor HTML5 + CSS3 (Bootstrap); :ballot_box_with_check: 
-[![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white&link=https://github.com/)](https://github.com/eduardodsr) 
-[![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&link=https://github.com/eduardodsr)](https://github.com/eduardodsr) 
-[![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&link=https://github.com/eduardodsr)](https://github.com/eduardodsr)
+:bow_and_arrow: :dart: [![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white&link=https://github.com/)](https://github.com/eduardodsr) 
+[![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&link=https://github.com/eduardodsr)](https://github.com/eduardodsr) [![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&link=https://github.com/eduardodsr)](https://github.com/eduardodsr)
 
-:bow_and_arrow: :dart: Programador JavaScript e Node JS; :ballot_box_with_check: 
-[![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript&link=https://github.com/eduardodsr)](https://github.com/eduardodsr)
-[![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat&logo=Node.js&link=https://github.com/eduardodsr)](https://github.com/eduardodsr)
+:bow_and_arrow: :dart: [![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript&link=https://github.com/eduardodsr)](https://github.com/eduardodsr) [![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat&logo=Node.js&link=https://github.com/eduardodsr)](https://github.com/eduardodsr)
 
-:bow_and_arrow: :dart: Python; 🐍 :ballot_box_with_check: 
-[![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python&link=https://github.com/eduardodsr)](https://github.com/eduardodsr)
+:bow_and_arrow: :dart:  [![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python&link=https://github.com/eduardodsr)](https://github.com/eduardodsr)
 
-:bow_and_arrow: :dart: Java; :ballot_box_with_check: 
-[![Java](https://img.shields.io/badge/Java-orange?style=flat&logo=java&logoColor=white&link=https://github.com/eduardodsr)](https://github.com/eduardodsr)
+:bow_and_arrow: :dart: [![Java](https://img.shields.io/badge/Java-orange?style=flat&logo=java&logoColor=white&link=https://github.com/eduardodsr)](https://github.com/eduardodsr)
 
-:bow_and_arrow: :dart: Frameworks – Angular, React e Vue; :ballot_box_with_check:
+:bow_and_arrow: :dart: Estudando os Frameworks – Angular, React e Vue; :ballot_box_with_check:
 
 <br>
 
@@ -106,7 +100,7 @@
 :email: : edsr.dev@gmail.com
 
 
-###  🐍 A little more about me...  👇
+###  [ Python 🐍] A little more about me...  👇
 
 [![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python&link=https://github.com/eduardodsr)](https://github.com/eduardodsr)
 
