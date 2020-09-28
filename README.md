@@ -27,18 +27,18 @@
 
 ### :star: Desenvolvedor e Programador: :star:
 
-:ballot_box_with_check: Desenvolvedor HTML5 + CSS3 (Bootstrap);
+:bow_and_arrow:  Desenvolvedor HTML5 + CSS3 (Bootstrap); :ballot_box_with_check:
 
-:ballot_box_with_check: Programador JavaScript e Node JS;
+:bow_and_arrow: Programador JavaScript e Node JS; :ballot_box_with_check: 
 
-:ballot_box_with_check: Python. Estudante da linhagem Python;
+:bow_and_arrow: Python. Estudante da linhagem Python; :ballot_box_with_check:
 
-:ballot_box_with_check: Java; 
+:bow_and_arrow: Java; :ballot_box_with_check:
 
-:ballot_box_with_check: Frameworks – Angular, React e Vue;
+:bow_and_arrow: Frameworks – Angular, React e Vue; :ballot_box_with_check:
 
 <details class="HARD_SKILLS">
-<summary><strong> ✔️ HARD SKILLS (Habilidades Técnicas) 👇 </strong></summary>
+<summary><strong> ✔️ HARD SKILLS (Habilidades Técnicas) :point_left: </strong></summary>
 
 ### HARD SKILLS (Habilidades Técnicas):  💬
 
@@ -65,7 +65,7 @@
 </details>
 
 <details class="SOFT_SKILLS">  
-<summary><strong> ✔️ SOFT SKILLS (Habilidades Comportamentais) 👇 </strong></summary>
+<summary><strong> ✔️ SOFT SKILLS (Habilidades Comportamentais) :point_left: </strong></summary>
 
 ### SOFT SKILLS (Habilidades Comportamentais):  💬
 
