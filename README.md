@@ -101,7 +101,8 @@
 
 ###  🐍 A little more about me...  👇
 
-![Python application](https://github.com/eduardodsr/eduardodsr/workflows/Python%20application/badge.svg?branch=master&event=schedule) 
+[![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python&link=https://github.com/eduardodsr)](https://github.com/eduardodsr)
+[![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python&link=https://github.com/hritik5102)](https://github.com/hritik5102)
 
 ```python
 class eduardodsr:
