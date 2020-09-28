@@ -157,3 +157,11 @@ if __name__ == '__main__':
 <code><a href="https://www.eclipse.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/eclipse/eclipse-ar21.svg"></a></code>
 <code><a href="https://www.jetbrains.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/jetbrains/jetbrains-ar21.svg"></a></code>  
 </div>
+
+
+<a href="https://github.com/eduardodsr/Desenvolvedor-Front-End">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ashwanisng&repo=Desenvolvedor-Front-End&theme=radical" />
+</a>    
+
+https://github.com/eduardodsr/Desenvolvedor-Front-End
