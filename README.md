@@ -104,7 +104,8 @@
 
 ###  [ Python 🐍] A little more about me...  👇
 
-[![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python&link=https://github.com/eduardodsr)](https://github.com/eduardodsr)
+``` link: ``` [![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python&link=https://colab.research.google.com/drive/1y8qIbhqE-oXHCFVqk7rzSy41_hqJ74dz?usp=sharing)](https://colab.research.google.com/drive/1y8qIbhqE-oXHCFVqk7rzSy41_hqJ74dz?usp=sharing
+
 
 ```python
 class eduardodsr:
