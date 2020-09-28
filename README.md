@@ -22,26 +22,6 @@
 ![Visitor](https://visitor-badge.glitch.me/badge?page_id=eduardodsr.eduardodsr)
 <!--[GitHub followers](https://img.shields.io/github/followers/eduardodsr?label=Follow&style=social)-->
 
-## :man_technologist: Knowledges
-
-### Frontend
-![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
-![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-
-### Frameworks
-![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
-![React](https://img.shields.io/badge/-React-%23282C34?style=flat-square&logo=react)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
-
-### Database
-![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
-![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
-
-### Deploy
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-<!--![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku)-->
-
 
 💻 Desenvolvedor em HTML e CSS. Programador em JavaScript (JS). </code><img style="margin: 0 auto" src="https://github.com/eduardodsr/eduardodsr/blob/master/FrontEnd.jpg" height="30"></code> 
 
@@ -151,7 +131,7 @@
 [![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=eduardodsr)](https://github.com/eduardodsr/github-readme-stats)
 
 
-## Languages and Tools:  :hammer_and_wrench: :axe:
+## Languages and Tools (Conhecimentos):  :hammer_and_wrench: :axe: :man_technologist:
 
 <div class="code" align="left">
 <code><a href="https://www.w3.org/html/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></a></code>
