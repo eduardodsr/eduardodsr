@@ -102,7 +102,6 @@
 ###  🐍 A little more about me...  👇
 
 [![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python&link=https://github.com/eduardodsr)](https://github.com/eduardodsr)
-[![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python&link=https://github.com/hritik5102)](https://github.com/hritik5102)
 
 ```python
 class eduardodsr:
@@ -110,16 +109,16 @@ class eduardodsr:
     def __init__(self):
         self.username = 'eduardodsr'
         self.name = 'Eduardo da Silva Rodrigues'
-        self.web = 'https://eduardodsr.dev'
+        self.web = 'https://edsr.dev'
         self.code = {
             'frontend': ['HTML', 'CSS', 'JavaScript', 'React JS', 'Boostrap'],
             'backend': ['Python', 'Node JS', 'Java'],
-            'database': ['PostgreSQL', 'MySQL', 'SQL', 'Mongo DB'],
-            'devops': ['Docker', 'Heroku'],
+            'database': ['SQL', 'Mongo DB', 'JSON'],
+            'devops': [' '],
             'tools': ['GitHub', 'Jupyter Notebook'],
             'misc': ['SCRUM', 'GNU/Linux']
         }
-        self.architecture = ['']
+        self.architecture = [' ']
 
     def __str__(self):
         return self.name
