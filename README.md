@@ -17,25 +17,25 @@
 
 ### ⚡ Sobre mim: :open_book:
 
-![Bacharel](https://img.shields.io/badge/bacharel-Sistemas_de_Informação-brightgreen)
+![Bacharel](https://img.shields.io/badge/Bacharel-Sistemas_de_Informação-brightgreen)
 ![Job](https://img.shields.io/badge/Job-Analista_de_Sistemas-brightgreen)
-![Love](https://img.shields.io/badge/love-Development-brightgreen)
-![Focus](https://img.shields.io/badge/focus-Front_End%20%7C%20Back_End%20%7C%20FullStacker-brightgreen)
-![Living](https://img.shields.io/badge/living-Rio%20de%20Janeiro-3c9)
+![Love](https://img.shields.io/badge/Love-Development-brightgreen)
+![Focus](https://img.shields.io/badge/Focus-Front_End%20%7C%20Back_End%20%7C%20FullStacker-brightgreen)
+![Living](https://img.shields.io/badge/Living-Rio%20de%20Janeiro-3c9)
 ![Visitor](https://visitor-badge.glitch.me/badge?page_id=eduardodsr.eduardodsr)
 <!--[GitHub followers](https://img.shields.io/github/followers/eduardodsr?label=Follow&style=social)-->
 
 ### :star: Desenvolvedor e Programador: :star:
 
- - Desenvolvedor HTML5 + CSS3 (Bootstrap);
+:ballot_box_with_check: - Desenvolvedor HTML5 + CSS3 (Bootstrap); :star:
 
-:ballot_box_with_check:- Programador JavaScript e Node JS;
+:ballot_box_with_check:- Programador JavaScript e Node JS; :star:
 
-:ballot_box_with_check:- Python. Estudante da linhagem Python.
+:ballot_box_with_check:- Python. Estudante da linhagem Python. :star:
 
-:ballot_box_with_check:- Java;
+:ballot_box_with_check:- Java; :star:
 
-:ballot_box_with_check:- Frameworks – Angular, React e Vue;
+:ballot_box_with_check:- Frameworks – Angular, React e Vue; :star:
 
 <details class="HARD_SKILLS">
 <summary><strong>HARD SKILLS (Habilidades Técnicas)</strong></summary>
