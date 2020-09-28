@@ -128,6 +128,10 @@ class eduardodsr:
 
 if __name__ == '__main__':
     me = eduardodsr()
+    
+print(me.name + ' - ' + me.username + ' - ' + me.web)
+print('Dev Front End: {}'.format(me.code['frontend']))
+print('Dev Back End: {}'.format(me.code['backend']))
 
 ```
 
