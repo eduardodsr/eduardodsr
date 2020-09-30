@@ -136,7 +136,7 @@ if __name__ == '__main__':
 [![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=eduardodsr)](https://github.com/eduardodsr/github-readme-stats)
 
 
-## Languages and Tools (Conhecimentos):  :hammer_and_wrench: :axe: :man_technologist:
+## Languages and Tools (Linguagens e Ferramentas):  :hammer_and_wrench: :man_technologist:
 
 <div class="code" align="left">
 <code><a href="https://www.w3.org/html/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></a></code>
