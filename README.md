@@ -40,6 +40,8 @@
 
 :bow_and_arrow: :dart: *Estou cursando Bootcamp Desenvolvedor Front End; Estudando os Frameworks – Angular, React e Vue*. 
 
+:bow_and_arrow: :dart: *Aluno do IFRN – Instituto Federal do Rio Grande do Norte (2020) - Curso de Programador Web - EaD*. 
+
 <br>
 
 <details class="HARD_SKILLS">
