@@ -135,7 +135,7 @@ if __name__ == '__main__':
 ## GitHub Status | Top Languages Card: :star:
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=eduardodsr&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eduardodsr&layout=compact)](https://github.com/eduardodsr/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eduardodsr&layout=compact)](https://github.com/eduardodsr/eduardodsr)
 
 ## Languages and Tools (Linguagens e Ferramentas):  :hammer_and_wrench: :man_technologist:
 
