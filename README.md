@@ -34,13 +34,8 @@
 
 :bow_and_arrow: :dart: [![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python&link=https://github.com/eduardodsr)](https://github.com/eduardodsr)
 
-:bow_and_arrow: :dart: [![Java](https://img.shields.io/badge/Java-orange?style=flat&logo=java&logoColor=white&link=https://github.com/eduardodsr)](https://github.com/eduardodsr) 
+<!-- :bow_and_arrow: :dart: [![Java](https://img.shields.io/badge/Java-orange?style=flat&logo=java&logoColor=white&link=https://github.com/eduardodsr)](https://github.com/eduardodsr) -->
 
-:bow_and_arrow: :dart: *Estou cursando Bootcamp Desenvolvedor Python;* 
-
-:bow_and_arrow: :dart: *Estou cursando Bootcamp Desenvolvedor Front End; Estudando os Frameworks – Angular, React e Vue*. 
-
-:bow_and_arrow: :dart: *Aluno do IFRN – Instituto Federal do Rio Grande do Norte (2020) - Curso de Programador Web - EaD*. 
 
 <br>
 
@@ -49,25 +44,23 @@
 
 ### HARD SKILLS (Habilidades Técnicas):  💬
 
--	Linux; Windows 7/8/10 e Server; 
+-	macOS Big Sur - Apple; Linux; Microsoft Windows 10 e Server; 
 
 -	Microsoft Office (Office 365); Outlook; Libre Office;
 
 -	Redes e Infraestrutura de TI; CISCO CCNA e ITE;
 
--	ITIL e Cobit; Gestão de Projetos; Virtualização; 
+-	Gestão de Projetos; ITIL e Cobit;
 
 -	Banco de Dados - SQL Server;
 
 -	Desenvolvedor Front End (HTML, CSS e JavaScript). 
 
--	Estudando a linguagem de programação Python; 
+-	Linguagem de programação: JavaScript e Python; 
 
--	Estudando os Frameworks – Angular, React e Vue;
+-	Frameworks JS – Angular, React e Vue;
 
-- Montagem e Manutenção de Computadores;
-
-- Controle de Versão (GitHub); Ágil (Scrum).
+- Controle de Versão (Git e GitHub); Ágil (Scrum / Kanban).
 
 </details>
 
@@ -135,7 +128,7 @@ if __name__ == '__main__':
 ## GitHub Status | Top Languages Card: :star:
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=eduardodsr&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eduardodsr&layout=compact)
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eduardodsr&layout=compact) -->
 
 ## Languages and Tools (Linguagens e Ferramentas):  :hammer_and_wrench: :man_technologist:
 
@@ -153,8 +146,8 @@ if __name__ == '__main__':
 <code><a href="https://www.linux.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg"></a></code>
 <code><a href="https://www.microsoft.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/microsoft/microsoft-ar21.svg"></a></code>
 <code><a href="https://code.visualstudio.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg"></a></code>
-<code><a href="https://www.java.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></a></code>
-<code><a href="https://www.eclipse.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/eclipse/eclipse-ar21.svg"></a></code>
+<!-- <code><a href="https://www.java.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></a></code>
+<code><a href="https://www.eclipse.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/eclipse/eclipse-ar21.svg"></a></code> -->
 <code><a href="https://www.jetbrains.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/jetbrains/jetbrains-ar21.svg"></a></code>  
 </div>
 
