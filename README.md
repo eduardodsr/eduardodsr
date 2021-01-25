@@ -19,7 +19,7 @@
 
 ![Bacharel](https://img.shields.io/badge/Bacharel-Sistemas_de_Informação-brightgreen)
 ![Job](https://img.shields.io/badge/Job-Analista_de_Sistemas-brightgreen)
-![Love](https://img.shields.io/badge/Love-Development-brightgreen)
+<!-- ![Love](https://img.shields.io/badge/Love-Development-brightgreen) -->
 ![Focus](https://img.shields.io/badge/Focus-Front_End%20%7C%20Back_End%20%7C%20FullStacker-brightgreen)
 ![Living](https://img.shields.io/badge/Living-Rio%20de%20Janeiro-3c9)
 ![Visitor](https://visitor-badge.glitch.me/badge?page_id=eduardodsr.eduardodsr)
