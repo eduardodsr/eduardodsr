@@ -92,7 +92,7 @@
 
 ## Contatos:mailbox_with_no_mail:
 
-:email: : eduardodsr@gmail.com
+<!-- :email: : eduardodsr@gmail.com -->
 
 :email: : edsr.dev@gmail.com
 
