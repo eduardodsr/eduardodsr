@@ -130,6 +130,9 @@ if __name__ == '__main__':
 ![Github stats](https://github-readme-stats.vercel.app/api?username=eduardodsr&show_icons=true)
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eduardodsr&layout=compact) -->
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eduardodsr&show_icons=true&theme=radical)
+
+
 ## Languages and Tools (Linguagens e Ferramentas):  :hammer_and_wrench: :man_technologist:
 
 <div class="code" align="left">
