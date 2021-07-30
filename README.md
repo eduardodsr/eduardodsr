@@ -25,9 +25,7 @@ Bem vindo ao meu portfólio!
 ![Job](https://img.shields.io/badge/Job-Analista_de_Sistemas-brightgreen)
 <!-- ![Love](https://img.shields.io/badge/Love-Development-brightgreen) -->
 ![Focus](https://img.shields.io/badge/Focus-Front_End%20%7C%20Back_End%20%7C%20FullStacker-brightgreen)
-![Living](https://img.shields.io/badge/Living-Rio%20de%20Janeiro-3c9)
 ![Visitor](https://visitor-badge.glitch.me/badge?page_id=eduardodsr.eduardodsr)
-<!--[GitHub followers](https://img.shields.io/github/followers/eduardodsr?label=Follow&style=social)-->
 
 ### :star: Desenvolvedor e Programador: :ballot_box_with_check: 
 
