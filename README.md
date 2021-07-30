@@ -11,11 +11,15 @@
   <a href="mailto:eduardodsr@gmail.com" alt="Email" target="_blank"><img src="https://img.shields.io/badge/-Email-B23121?style=flat-square&logo=gmail&logoColor=white" /></a>   
   </p>
 
-<img style="margin: 0 auto" src="https://github.com/eduardodsr/eduardodsr/blob/master/brazil.gif" height="25"> :brazil:
+<img style="margin: 0 auto" src="https://github.com/eduardodsr/eduardodsr/blob/master/brazil.gif" height="25"> 
+<!-- :brazil: -->
 
-### :thumbsup: Hello! <img style="margin: 0 auto" src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" height="25"> Bem vindo ao meu portfólio!
+### :thumbsup: Hello! 
+<!-- <img style="margin: 0 auto" src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" height="25"> -->
+Bem vindo ao meu portfólio!
 
-### ⚡ Sobre mim: :open_book:
+### ⚡ Sobre mim: 
+<!-- :open_book: -->
 
 ![Bacharel](https://img.shields.io/badge/Bacharel-Sistemas_de_Informação-brightgreen)
 ![Job](https://img.shields.io/badge/Job-Analista_de_Sistemas-brightgreen)
@@ -27,14 +31,15 @@
 
 ### :star: Desenvolvedor e Programador: :ballot_box_with_check: 
 
-:bow_and_arrow: :dart: [![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white&link=https://github.com/)](https://github.com/eduardodsr) 
+<!-- :bow_and_arrow: -->
+:dart: [![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white&link=https://github.com/)](https://github.com/eduardodsr) 
 [![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&link=https://github.com/eduardodsr)](https://github.com/eduardodsr) [![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&link=https://github.com/eduardodsr)](https://github.com/eduardodsr) 
 
-:bow_and_arrow: :dart: [![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript&link=https://github.com/eduardodsr)](https://github.com/eduardodsr) [![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat&logo=Node.js&link=https://github.com/eduardodsr)](https://github.com/eduardodsr) 
+<!-- :bow_and_arrow: -->
+:dart: [![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript&link=https://github.com/eduardodsr)](https://github.com/eduardodsr) [![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat&logo=Node.js&link=https://github.com/eduardodsr)](https://github.com/eduardodsr) 
 
-:bow_and_arrow: :dart: [![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python&link=https://github.com/eduardodsr)](https://github.com/eduardodsr)
-
-<!-- :bow_and_arrow: :dart: [![Java](https://img.shields.io/badge/Java-orange?style=flat&logo=java&logoColor=white&link=https://github.com/eduardodsr)](https://github.com/eduardodsr) -->
+<!-- :bow_and_arrow: -->
+:dart: [![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python&link=https://github.com/eduardodsr)](https://github.com/eduardodsr)
 
 
 <br>
