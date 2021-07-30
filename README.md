@@ -21,7 +21,9 @@ Bem vindo ao meu portfólio!
 ### ⚡ Sobre mim: 
 <!-- :open_book: -->
 
-![Bacharel](https://img.shields.io/badge/Bacharel-Sistemas_de_Informação)
+![Bacharel](https://img.shields.io/badge/Bacharel-Sistemas_de_Informação-brightgreen)
+![Bacharel](https://img.shields.io/badge/Bacharel-Sistemas_de_Informação?style=for-the-badge&logo=intel&logoColor=white)
+
 ![Job](https://img.shields.io/badge/Job-Analista_de_Sistemas-brightgreen)
 <!-- ![Love](https://img.shields.io/badge/Love-Development-brightgreen) -->
 ![Focus](https://img.shields.io/badge/Focus-Front_End%20%7C%20Back_End%20%7C%20FullStacker-brightgreen)
