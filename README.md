@@ -23,10 +23,11 @@ Bem vindo ao meu portfólio!
 
 ![Bacharel - Sistemas de Informação](https://img.shields.io/badge/Bacharel-Sistemas%20de%20Informa%C3%A7%C3%A3o-blue)
 ![Job - Analista de Sistemas / Desenvolvedor](https://img.shields.io/badge/Job-Analista%20de%20Sistemas%20%2F%20Desenvolvedor-blue)
-![Focus - FulStack / Front-end / Back-end](https://img.shields.io/badge/Focus-FullStack%20%2F%20Front--end%20%2F%20Back--end-blue)
+![Focus - Ful-Stack / Front-end / Back-end](https://img.shields.io/badge/Focus-Full--Stack%20%2F%20Front--end%20%2F%20Back--end-blue)
 ![Visitor](https://visitor-badge.glitch.me/badge?page_id=eduardodsr.eduardodsr)
 
-### :star: Desenvolvedor e Programador: :ballot_box_with_check: 
+### :star: Desenvolvedor e Programador: 
+<!-- :ballot_box_with_check:  -->
 
 <!-- :bow_and_arrow: -->
 :dart: [![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white&link=https://github.com/)](https://github.com/eduardodsr) 
