@@ -22,13 +22,8 @@ Bem vindo ao meu portfólio!
 <!-- :open_book: -->
 
 ![Bacharel - Sistemas de Informação](https://img.shields.io/badge/Bacharel-Sistemas%20de%20Informa%C3%A7%C3%A3o-blue)
-
-![Bacharel](https://img.shields.io/badge/Bacharel-Sistemas_de_Informação-brightblue?style=logoColor=white&Color=blue)
-(https://img.shields.io/badge/Bacharel-Sistemas_de_Informação?style=for-the-badge&logo=intel&logoColor=white)
-
-![Job](https://img.shields.io/badge/Job-Analista_de_Sistemas-brightgreen)
-<!-- ![Love](https://img.shields.io/badge/Love-Development-brightgreen) -->
-![Focus](https://img.shields.io/badge/Focus-Front_End%20%7C%20Back_End%20%7C%20FullStacker-brightgreen)
+![Job - Analista de Sistemas / Desenvolvedor](https://img.shields.io/badge/Job-Analista%20de%20Sistemas%20%2F%20Desenvolvedor-blue)
+![Focus - FulStack / Front-end / Back-end](https://img.shields.io/badge/Focus-FullStack%20%2F%20Front--end%20%2F%20Back--end-blue)
 ![Visitor](https://visitor-badge.glitch.me/badge?page_id=eduardodsr.eduardodsr)
 
 ### :star: Desenvolvedor e Programador: :ballot_box_with_check: 
