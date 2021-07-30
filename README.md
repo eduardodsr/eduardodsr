@@ -57,13 +57,17 @@ Bem vindo ao meu portfólio!
 
 -	Banco de Dados - SQL Server;
 
--	Desenvolvedor Front End (HTML, CSS e JavaScript). 
+-	Desenvolvedor Front End (HTML5, CSS3 e JavaScript/ECMAScript6);
+
+- TypeScript;
 
 -	Linguagem de programação: JavaScript e Python; 
 
 -	Frameworks JS – Angular, React e Vue;
 
-- Controle de Versão (Git e GitHub); Ágil (Scrum / Kanban).
+- Controle de Versão (Git e GitHub); 
+  
+- Metodologia Ágil (Scrum / Kanban).
 
 </details>
 
@@ -74,15 +78,17 @@ Bem vindo ao meu portfólio!
 
 ### SOFT SKILLS (Habilidades Comportamentais):  💬
 
--	Liderança; Comunicação; Trabalho em equipe; 
+-	Liderança; Boa Comunicação; Bom planejamento; Trabalho em equipe; 
 
--	Proatividade; Planejamento Estratégico;
+-	Proatividade; Flexibilidade; Persitência; Autonomia;
+  
+- Adaptação a novos ambientes; Aprender com os erros;
 
--	Ética; Organização; Otimização de Processos;
+-	Ética; Organização; Gestão de tempo; Disciplina;
 
--	Comprometimento; Autoconfiança; Empatia;
+-	Comprometimento; Colaboração; Autoconfiança; Empatia;
 
--	Criatividade; Inovação; Negociação de conflitos.
+-	Ética; Criatividade; Inovação; Negociação de conflitos.
 
 </details>
 
