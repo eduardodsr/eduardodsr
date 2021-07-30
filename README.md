@@ -22,7 +22,7 @@ Bem vindo ao meu portfólio!
 <!-- :open_book: -->
 
 ![Bacharel](https://img.shields.io/badge/Bacharel-Sistemas_de_Informação-brightgreen)
-![Bacharel](https://img.shields.io/badge/Bacharel-Sistemas_de_Informação?style=for-the-badge&logo=intel&logoColor=white)
+(https://img.shields.io/badge/Bacharel-Sistemas_de_Informação?style=for-the-badge&logo=intel&logoColor=white)
 
 ![Job](https://img.shields.io/badge/Job-Analista_de_Sistemas-brightgreen)
 <!-- ![Love](https://img.shields.io/badge/Love-Development-brightgreen) -->
