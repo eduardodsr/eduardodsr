@@ -21,6 +21,8 @@ Bem vindo ao meu portfólio!
 ### ⚡ Sobre mim: 
 <!-- :open_book: -->
 
+![Bacharel - Sistemas de Informação](https://img.shields.io/badge/Bacharel-Sistemas%20de%20Informa%C3%A7%C3%A3o-blue)
+
 ![Bacharel](https://img.shields.io/badge/Bacharel-Sistemas_de_Informação-brightblue?style=logoColor=white&Color=blue)
 (https://img.shields.io/badge/Bacharel-Sistemas_de_Informação?style=for-the-badge&logo=intel&logoColor=white)
 
