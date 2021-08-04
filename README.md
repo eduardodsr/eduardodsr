@@ -171,6 +171,14 @@ if __name__ == '__main__':
 
 ## Bootcamp: :star:
 <div>
+<a href="https://github.com/eduardodsr/Bootcamp-Desenvolvimento-Full-Stack">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=eduardodsr&repo=Bootcamp-Desenvolvimento-Full-Stack&theme=radical" />
+</a> 
+<a href="https://github.com/eduardodsr/devreact">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=eduardodsr&repo=devreact&theme=radical" />
+</a>   
 <a href="https://github.com/eduardodsr/Desenvolvedor-Front-End">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=eduardodsr&repo=Desenvolvedor-Front-End&theme=radical" />
