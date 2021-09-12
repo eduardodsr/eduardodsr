@@ -1,0 +1,8 @@
+# Auto detect text files and perform LF normalization
+* text=auto
+*.jupyter notebook linguist-detectable=false
+*.jupyter linguist-detectable=false
+*.'jupyter' linguist-detectable=false
+*.'jupyter notebook' linguist-detectable=false
+*."jupyter" linguist-detectable=false
+*."jupyter notebook" linguist-detectable=false
