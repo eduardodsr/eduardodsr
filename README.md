@@ -130,8 +130,8 @@ if __name__ == '__main__':
 ## GitHub Status | Top Languages Card: :star:
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=eduardodsr&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eduardodsr&langs_count=8)](https://github.com/eduardodsr/github-readme-stats)
 
+<!-- Top Langs] Not ignore Jupyter Notebook -->
 
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eduardodsr&langs_count=8)](https://github.com/eduardodsr/github-readme-stats)
