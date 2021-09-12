@@ -1,14 +1,16 @@
+<!-- 
 <p align="center">
   <img src=https://github.com/eduardodsr/eduardodsr/blob/master/dev2.gif?raw=true" alt="dev2" width="150px" />
   <img src=https://github.com/eduardodsr/eduardodsr/blob/master/dev.gif?raw=true" alt="dev" width="150px" />
-  
+-->
+
 </p>
-<h1 align="center"> Eduardo da Silva Rodrigues </h1>
+<h1 align="center"> Eduardo D. S. R. </h1>
 
 <p align="center">     
   <a href="https://github.com/eduardodsr" alt="github.com/eduardodsr" target="_blank"><img src="https://img.shields.io/badge/-github.com/eduardodsr-0e2c54?style=flat-square&logo=chrome&logoColor=black" /></a>
   <a href="https://www.edsr.dev" alt="edsr.dev" target="_blank"><img src="https://img.shields.io/badge/-edsr.dev-0e2c54?style=flat-square&logo=chrome&logoColor=white" /></a>
-  <a href="mailto:eduardodsr@gmail.com" alt="Email" target="_blank"><img src="https://img.shields.io/badge/-Email-B23121?style=flat-square&logo=gmail&logoColor=white" /></a>   
+  <a href="mailto:edsr.dev@gmail.com" alt="Email" target="_blank"><img src="https://img.shields.io/badge/-Email-B23121?style=flat-square&logo=gmail&logoColor=white" /></a>   
   </p>
 
 <img style="margin: 0 auto" src="https://github.com/eduardodsr/eduardodsr/blob/master/brazil.gif" height="25"> 
@@ -21,9 +23,9 @@ Bem vindo ao meu portfólio!
 ### ⚡ Sobre mim: 
 <!-- :open_book: -->
 
-![Bacharel - Sistemas de Informação](https://img.shields.io/badge/Bacharel-Sistemas%20de%20Informa%C3%A7%C3%A3o-blue)
-![Job - Analista de Sistemas / Desenvolvedor](https://img.shields.io/badge/Job-Analista%20de%20Sistemas%20%2F%20Desenvolvedor-blue)
-![Focus - Ful-Stack / Front-end / Back-end](https://img.shields.io/badge/Focus-Full--Stack%20%2F%20Front--end%20%2F%20Back--end-blue)
+![Bacharel](https://img.shields.io/badge/Bacharel-Sistemas%20de%20Informa%C3%A7%C3%A3o-blue)
+![Job](https://img.shields.io/badge/Job-Analista%20de%20Sistemas%20%2F%20Desenvolvedor-blue)
+![Focus](https://img.shields.io/badge/Focus-FrontEnd%20%2F%20BackEnd%20%2F%20Full%20Cycle%20Development-blue)
 ![Visitor](https://visitor-badge.glitch.me/badge?page_id=eduardodsr.eduardodsr)
 
 ### :star: Desenvolvedor e Programador: 
@@ -46,28 +48,23 @@ Bem vindo ao meu portfólio!
 <summary><strong> ✔️ HARD SKILLS (Habilidades Técnicas) :point_left: </strong></summary>
 
 ### HARD SKILLS (Habilidades Técnicas):  💬
-
--	macOS Big Sur - Apple; Linux; Microsoft Windows 10 e Server; 
-
--	Microsoft Office (Office 365); Outlook; Libre Office;
-
--	Redes e Infraestrutura de TI; CISCO CCNA e ITE;
-
--	Gestão de Projetos; ITIL e Cobit;
-
--	Banco de Dados - SQL Server;
-
--	Desenvolvedor Front End (HTML5, CSS3 e JavaScript/ECMAScript6);
-
-- TypeScript;
-
--	Linguagem de programação: JavaScript e Python; 
-
--	Frameworks JS – Angular, React e Vue;
-
-- Controle de Versão (Git e GitHub); 
   
-- Metodologia Ágil (Scrum / Kanban).
+-	Desenvolvedor Front End (HTML, CSS e JavaScript); 
+  
+-	Desenvolvedor React, biblioteca JavaScript.
+  
+-	Controle de Versão (Git e GitHub); 
+  
+-	Metodologia Ágil (Scrum e Kanban);
+  
+-	OS – Microsoft Windows; MacOS e Linux;
+  
+-	Office – Microsoft Office, Office 365; Libre Office;
+  
+-	Redes – CISCO CCNA; Banco de Dados – SQL;
+  
+-	Gestão de Serviços de TI – Frameworks ITIL e Cobit;
+  
 
 </details>
 
@@ -77,19 +74,15 @@ Bem vindo ao meu portfólio!
 <summary><strong> ✔️ SOFT SKILLS (Habilidades Comportamentais) :point_left: </strong></summary>
 
 ### SOFT SKILLS (Habilidades Comportamentais):  💬
-
--	Liderança; Boa Comunicação; Bom planejamento; Trabalho em equipe; 
-
--	Proatividade; Flexibilidade; Persitência; Autonomia;
+ 
+-	Liderança; boa comunicação; bom planejamento;
   
-- Adaptação a novos ambientes; Aprender com os erros;
-
--	Ética; Organização; Gestão de tempo; Disciplina;
-
--	Comprometimento; Colaboração; Autoconfiança; Empatia;
-
--	Ética; Criatividade; Inovação; Negociação de conflitos.
-
+-	Trabalho em equipe; proatividade; persistência; 
+  
+-	Ética; comprometimento; colaboração; empatia; 
+  
+-	Criatividade; inovação; negociação de conflitos.
+  
 </details>
 
 <br>
@@ -103,7 +96,7 @@ Bem vindo ao meu portfólio!
 
 <!-- :email: : eduardodsr@gmail.com -->
 
-:email: : eduardodsr@gmail.com
+:email: : edsr.dev@gmail.com
 
 
 ###  [ Python 🐍] A little more about me...  👇
@@ -137,7 +130,8 @@ if __name__ == '__main__':
 ## GitHub Status | Top Languages Card: :star:
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=eduardodsr&show_icons=true)
-<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eduardodsr&layout=compact) -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eduardodsr&langs_count=8)](https://github.com/eduardodsr/github-readme-stats)
+
 
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eduardodsr&langs_count=8)](https://github.com/eduardodsr/github-readme-stats)
@@ -155,11 +149,8 @@ if __name__ == '__main__':
 <code><a href="https://getbootstrap.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-ar21.svg"></a></code> 
 <code><a href="https://www.javascript.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></a></code>
 <code><a href="https://nodejs.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg"></a></code> 
-<code><a href="https://angularjs.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/angular/angular-ar21.svg"></a></code> 
 <code><a href="https://reactjs.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></a></code>
 <code><a href="https://www.python.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></a></code>
-<code><a href="https://jupyter.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg"></a></code>
-<code><a href="https://www.mysql.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></a></code>
 <code><a href="https://www.json.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/json/json-ar21.svg"></a></code>
 <code><a href="https://www.linux.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg"></a></code>
 <code><a href="https://www.microsoft.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/microsoft/microsoft-ar21.svg"></a></code>
