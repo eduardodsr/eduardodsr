@@ -1,5 +1,5 @@
 # Auto detect text files and perform LF normalization
-* text=auto
 *.html linguist-detectable=false
 *.ipynb linguist-detectable=false
 *.* linguist-detectable=false
+*.Jupyter linguist-detectable=false
