@@ -87,7 +87,7 @@ Bem vindo ao meu portfólio!
 
 <br>
 
-### ✔️ PROJECTS (Projetos) (To Do | In Progress | Done) : :dart:
+### ✔️ PROJECTS (Projetos) : :dart:
 
 :bookmark_tabs:  ``` link: ```  https://github.com/users/eduardodsr/projects/1
 
