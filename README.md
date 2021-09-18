@@ -25,7 +25,7 @@ Bem vindo ao meu portfólio!
 
 ![Bacharel](https://img.shields.io/badge/Bacharel-Sistemas%20de%20Informa%C3%A7%C3%A3o-blue)
 ![Job](https://img.shields.io/badge/Job-Analista%20de%20Sistemas%20%2F%20Desenvolvedor-blue)
-![Focus](https://img.shields.io/badge/Focus-FrontEnd%20%2F%20BackEnd%20%2F%20Full%20Cycle%20Development-blue)
+![Focus](https://img.shields.io/badge/Focus-FrontEnd%20%2F%20BackEnd-blue)
 ![Visitor](https://visitor-badge.glitch.me/badge?page_id=eduardodsr.eduardodsr)
 
 ### :star: Desenvolvedor e Programador: 
