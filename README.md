@@ -50,7 +50,7 @@
 - [x] Estudando o framework React JS. 
 - [ ] Desenvolvedor BackEnd .NET. 
   - [x] Fundamentos a Lingaguem C#. [Link](https://github.com/eduardodsr/fundamentos-csharp)
-- [ ] Cursando no IGTI, Bootcamp de Desenvolvedor Node.JS e Bootcamp de Engenharia de Software. [Link](https://github.com/eduardodsr?tab=repositories#:~:text=bootcamp-eng-sw-agil)
+- [ ] Cursando no IGTI, Bootcamp de Desenvolvedor Node.JS e Bootcamp de Engenharia de Software. [Link](https://github.com/eduardodsr/bootcamp-eng-sw-agil)
 - [ ] Cursando Teste de Software & QA na Iterasys. [Link](https://github.com/eduardodsr/Teste-de-Software)
 - [ ] Cursando FullCycle Development na Code Edu & School of Net. Atualmente, estou no módulo de Arquitetura de Software. [Link](https://github.com/eduardodsr/ArquiteturaSoftware). Para maiores informações sobre o curso de FullCycle Development consultar o PDF no [Link PDF do Curso](http://lancamento.fullcycle.com.br/Brochura-FullCycle-2.0.pdf).
 
