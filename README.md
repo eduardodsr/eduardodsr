@@ -165,30 +165,34 @@ if __name__ == '__main__':
 <code><a href="https://www.jetbrains.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/jetbrains/jetbrains-ar21.svg"></a></code>  
 </div>
 
+<!--
+
 ## Bootcamp: :star:
 <div>
 <a href="https://github.com/eduardodsr/Bootcamp-Desenvolvimento-Full-Stack">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=eduardodsr&repo=Bootcamp-Desenvolvimento-Full-Stack&theme=radical" />
 </a> 
 <a href="https://github.com/eduardodsr/devreact">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=eduardodsr&repo=devreact&theme=radical" />
 </a>   
 <a href="https://github.com/eduardodsr/Desenvolvedor-Front-End">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app` 
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=eduardodsr&repo=Desenvolvedor-Front-End&theme=radical" />
 </a>   
   <a href="https://github.com/eduardodsr/Desenvolvedor-Python">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=eduardodsr&repo=Desenvolvedor-Python&theme=radical" />
 </a>    
   <a href="https://github.com/eduardodsr/bootcamp-IGTI">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=eduardodsr&repo=bootcamp-IGTI&theme=radical" />
 </a>    
   <a href="https://github.com/eduardodsr/Python-Pro">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=eduardodsr&repo=Python-Pro&theme=radical" />
 </a>    
 </div> 
+
+-->
