@@ -98,8 +98,9 @@ Bem vindo ao meu portfólio!
 
 <!-- :email: : eduardodsr@gmail.com -->
 
-:email: : edsr.dev@gmail.com
+:email: : eduardodsr@gmail.com
 
+<!--
 
 ###  [ Python 🐍] A little more about me...  👇
 
@@ -128,6 +129,8 @@ class eduardodsr:
 if __name__ == '__main__':
     me = eduardodsr()
 ```
+
+-->
 
 ## GitHub Status | Top Languages Card: :star:
 
