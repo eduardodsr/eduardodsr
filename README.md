@@ -32,12 +32,11 @@
 
 ![Bacharel](https://img.shields.io/badge/Bacharel-Sistemas%20de%20Informa%C3%A7%C3%A3o-blue)
 ![Job](https://img.shields.io/badge/Job-Analista%20de%20Sistemas%20%2F%20Desenvolvedor-blue)
-![Focus](https://img.shields.io/badge/Focus-FrontEnd%20%2F%20BackEnd-blue)
+![Focus](https://img.shields.io/badge/Focus-FrontEnd%20%2F%20BackEnd%20%2F%20FullCycle-blue)
 ![Visitor](https://visitor-badge.glitch.me/badge?page_id=eduardodsr.eduardodsr)
 
 ### :star: Desenvolvedor Web - Foco em JavaScript: 
 <!-- :ballot_box_with_check:  -->
-Estudando o framework React JS. Fazendo formação de BackEnd no Balta.io. Cursando no IGTI, Bootcamp de Engenharia de Software - Ágil e Bootcamp de Desenvolvedor Node.JS.  Cursando Teste de Software & QA na Iterasys. Estou terminando o último módulo, fazendo a parte prática de Teste de Software. Fazendo o curso FullCycle Development na Code Edu & School of Net. Atualmente, estou no módulo de Arquitetura de Software.
 
 <!-- :bow_and_arrow: -->
 :dart: [![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white&link=https://github.com/)](https://github.com/eduardodsr) 
@@ -45,6 +44,15 @@ Estudando o framework React JS. Fazendo formação de BackEnd no Balta.io. Cursa
 
 <!-- :bow_and_arrow: -->
 :dart: [![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript&link=https://github.com/eduardodsr)](https://github.com/eduardodsr) [![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat&logo=Node.js&link=https://github.com/eduardodsr)](https://github.com/eduardodsr) 
+
+### :star: O que estou fazendo: 
+<!-- :ballot_box_with_check:  -->
+- [x] Estudando o framework React JS. 
+- [ ] Fazendo formação de Desenvolvedor BackEnd .NET. Aprendendo a Lingaguem C#.
+- [ ] Cursando no IGTI, Bootcamp de Engenharia de Software - Ágil e Bootcamp de Desenvolvedor Node.JS.  
+- [ ] Cursando Teste de Software & QA na Iterasys. Estou terminando o último módulo, fazendo a parte prática de Teste de Software. 
+- [ ] Fazendo o curso de formação completa FullCycle Development na Code Edu & School of Net. Atualmente, estou no módulo de Arquitetura de Software. Para maiores informações consultar o [Link](http://lancamento.fullcycle.com.br/Brochura-FullCycle-2.0.pdf).
+
 
 <!-- :bow_and_arrow: -->
 <!--
