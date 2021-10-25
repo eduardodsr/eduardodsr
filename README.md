@@ -5,7 +5,10 @@
 -->
 
 </p>
-<h1 align="center"> Eduardo D. S. R. </h1>
+<h1 align="center"> <img style="margin: 0 auto" src="https://github.com/eduardodsr/eduardodsr/blob/master/brazil.gif" height="25"> 
+<!-- :brazil: --> 
+  Eduardo D. S. R.  
+</h1>
 
 <p align="center">     
   <a href="https://github.com/eduardodsr" alt="github.com/eduardodsr" target="_blank"><img src="https://img.shields.io/badge/-github.com/eduardodsr-0e2c54?style=flat-square&logo=chrome&logoColor=black" /></a>
@@ -15,12 +18,14 @@
   <a href="mailto:edsr.dev@gmail.com" alt="Email" target="_blank"><img src="https://img.shields.io/badge/-Email-B23121?style=flat-square&logo=gmail&logoColor=white" /></a>   
   </p>
 
+<!--
 <img style="margin: 0 auto" src="https://github.com/eduardodsr/eduardodsr/blob/master/brazil.gif" height="25"> 
+ -->
 <!-- :brazil: -->
 
 ### :thumbsup: Hello! 
 <!-- <img style="margin: 0 auto" src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" height="25"> -->
-Bem vindo ao meu portfólio!
+<!-- Bem vindo ao meu portfólio! -->
 
 ### ⚡ Sobre mim: 
 <!-- :open_book: -->
@@ -30,8 +35,9 @@ Bem vindo ao meu portfólio!
 ![Focus](https://img.shields.io/badge/Focus-FrontEnd%20%2F%20BackEnd-blue)
 ![Visitor](https://visitor-badge.glitch.me/badge?page_id=eduardodsr.eduardodsr)
 
-### :star: Desenvolvedor e Programador: 
+### :star: Desenvolvedor Web - Foco em JavaScript: 
 <!-- :ballot_box_with_check:  -->
+Estudando o framework React JS. Fazendo formação de BackEnd no Balta.io. Cursando no IGTI, Bootcamp de Engenharia de Software - Ágil e Bootcamp de Desenvolvedor Node.JS.  Cursando Teste de Software & QA na Iterasys. Estou terminando o último módulo, fazendo a parte prática de Teste de Software. Fazendo o curso FullCycle Development na Code Edu & School of Net. Atualmente, estou no módulo de Arquitetura de Software.
 
 <!-- :bow_and_arrow: -->
 :dart: [![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white&link=https://github.com/)](https://github.com/eduardodsr) 
@@ -41,15 +47,17 @@ Bem vindo ao meu portfólio!
 :dart: [![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript&link=https://github.com/eduardodsr)](https://github.com/eduardodsr) [![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat&logo=Node.js&link=https://github.com/eduardodsr)](https://github.com/eduardodsr) 
 
 <!-- :bow_and_arrow: -->
+<!--
 :dart: [![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python&link=https://github.com/eduardodsr)](https://github.com/eduardodsr)
+-->
 
 
-<br>
+<!--
 
 <details class="HARD_SKILLS">
-<summary><strong> ✔️ HARD SKILLS (Habilidades Técnicas) :point_left: </strong></summary>
+<summary><strong> ✔️ HARD SKILLS (Habilidades Técnicas)  </strong></summary>
 
-### HARD SKILLS (Habilidades Técnicas):  💬
+### HARD SKILLS:  💬
   
 -	Desenvolvedor Front End (HTML, CSS e JavaScript); 
   
@@ -73,9 +81,9 @@ Bem vindo ao meu portfólio!
 <br>
 
 <details class="SOFT_SKILLS">  
-<summary><strong> ✔️ SOFT SKILLS (Habilidades Comportamentais) :point_left: </strong></summary>
+<summary><strong> ✔️ SOFT SKILLS (Habilidades Comportamentais) </strong></summary>
 
-### SOFT SKILLS (Habilidades Comportamentais):  💬
+### SOFT SKILLS:  💬
  
 -	Liderança; boa comunicação; bom planejamento;
   
@@ -87,14 +95,15 @@ Bem vindo ao meu portfólio!
   
 </details>
 
-<br>
-
-### ✔️ PROJECTS (Projetos) : :dart:
-
-:bookmark_tabs:  ``` link: ```  https://github.com/users/eduardodsr/projects/1
+-->
 
 
-## Contatos:mailbox_with_no_mail:
+### :dart: Projects (Kanban): 
+
+ ``` link: ```  https://github.com/users/eduardodsr/projects/1
+
+
+### :mailbox_with_no_mail: Contato:  
 
 <!-- :email: : eduardodsr@gmail.com -->
 
@@ -132,14 +141,16 @@ if __name__ == '__main__':
 
 -->
 
+<!--
+
 ## GitHub Status | Top Languages Card: :star:
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=eduardodsr&show_icons=true)
 
-<!-- Top Langs] Not ignore Jupyter Notebook -->
-
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eduardodsr&langs_count=6)](https://github.com/eduardodsr/github-readme-stats)
+
+-->
 
 
 <!--
@@ -147,7 +158,8 @@ if __name__ == '__main__':
 -->
 
 
-## Languages and Tools (Linguagens e Ferramentas):  :hammer_and_wrench: :man_technologist:
+
+### 🛠️ 👨‍💻  Languages and Tools:  
 
 <div class="code" align="left">
 <code><a href="https://www.w3.org/html/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></a></code>
@@ -160,10 +172,12 @@ if __name__ == '__main__':
 <code><a href="https://www.linux.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg"></a></code>
 <code><a href="https://www.microsoft.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/microsoft/microsoft-ar21.svg"></a></code>
 <code><a href="https://code.visualstudio.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg"></a></code>
-<!-- <code><a href="https://www.java.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></a></code>
-<code><a href="https://www.eclipse.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/eclipse/eclipse-ar21.svg"></a></code> -->
+<code><a href="https://www.java.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></a></code>
+<code><a href="https://www.eclipse.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/eclipse/eclipse-ar21.svg"></a></code> 
 <code><a href="https://www.jetbrains.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/jetbrains/jetbrains-ar21.svg"></a></code>  
 </div>
+
+
 
 <!--
 
