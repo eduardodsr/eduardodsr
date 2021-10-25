@@ -48,7 +48,8 @@
 ### :star: O que estou fazendo: 
 <!-- :ballot_box_with_check:  -->
 - [x] Estudando o framework React JS. 
-- [ ] Fazendo formação de Desenvolvedor BackEnd .NET. Aprendendo a Lingaguem C#.
+- [ ] Desenvolvedor BackEnd .NET. Estou aprendendo a linguagem C#.
+  - [x] Fundamentos a Lingaguem C#.
 - [ ] Cursando no IGTI, Bootcamp de Engenharia de Software - Ágil e Bootcamp de Desenvolvedor Node.JS.  
 - [ ] Cursando Teste de Software & QA na Iterasys. Estou terminando o último módulo, fazendo a parte prática de Teste de Software. 
 - [ ] Fazendo o curso de formação completa FullCycle Development na Code Edu & School of Net. Atualmente, estou no módulo de Arquitetura de Software. Para maiores informações consultar o [Link](http://lancamento.fullcycle.com.br/Brochura-FullCycle-2.0.pdf).
