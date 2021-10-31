@@ -51,7 +51,7 @@
 
 ★ Estudando o framework React JS. Estudando e praticando pelo curso JavaScript Masterclass [Link](https://github.com/eduardodsr/javascript-masterclass)
 
-★ Desenvolvedor BackEnd .NET. Fazendo o curso de Fundamentos da Lingaguem C#. [Link](https://github.com/eduardodsr/fundamentos-csharp)
+★ Desenvolvedor BackEnd .NET. Fazendo o curso de Fundamentos da Linguagem C#. [Link](https://github.com/eduardodsr/fundamentos-csharp)
 
 ★ Cursando no IGTI, o Bootcamp de Desenvolvedor Node.JS [Link](https://github.com/eduardodsr/dev-node-js) e o Bootcamp de Engenharia de Software Ágil. [Link](https://github.com/eduardodsr/bootcamp-eng-sw-agil)
 
