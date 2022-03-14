@@ -46,19 +46,32 @@
 :dart: [![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript&link=https://github.com/eduardodsr)](https://github.com/eduardodsr) [![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat&logo=Node.js&link=https://github.com/eduardodsr)](https://github.com/eduardodsr) 
 
 ### :star: O que estou fazendo: 
+
 <!-- :ballot_box_with_check:  -->
 ★ Lendo os seguintes livros [Link](https://github.com/eduardodsr/MyBooks)
 
+★ Estou estudando atualmente PHP POO [Link](https://github.com/eduardodsr/cursoemvideo/tree/master/php-poo)
+
+★ Estou estudando atualmente na Alura, Oracle ONE | Oracle Next Education - 2022 [Link](https://github.com/eduardodsr/AluraOracleONE). Consultar o meu perfil na Alura [clique aqui](https://cursos.alura.com.br/user/edsr-dev)
+
+<!--
 ★ Estudando o framework React JS. Estudando e praticando pelo curso JavaScript Masterclass [Link](https://github.com/eduardodsr/javascript-masterclass)
+-->
 
+<!--
 ★ Desenvolvedor BackEnd .NET. Fazendo o curso de Fundamentos da Linguagem C#. [Link](https://github.com/eduardodsr/fundamentos-csharp)
+-->
 
+<!--
 ★ Cursando no IGTI, o Bootcamp de Desenvolvedor Node.JS [Link](https://github.com/eduardodsr/dev-node-js) e o Bootcamp de Engenharia de Software Ágil. [Link](https://github.com/eduardodsr/bootcamp-eng-sw-agil)
+-->
 
+<!--
 ★ Cursando Teste de Software & QA na Iterasys. [Link](https://github.com/eduardodsr/Teste-de-Software)
+-->
 
 ★ Cursando FullCycle Development na Code Edu & School of Net. Atualmente, estou no módulo de Arquitetura de Software. [Link](https://github.com/eduardodsr/ArquiteturaSoftware). Para maiores informações sobre o curso de FullCycle Development consultar o PDF no [Link PDF do Curso](http://lancamento.fullcycle.com.br/Brochura-FullCycle-2.0.pdf).
-
+-->
 
 <!-- :bow_and_arrow: -->
 <!--
