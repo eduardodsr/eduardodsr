@@ -50,7 +50,7 @@
 <!-- :ballot_box_with_check:  -->
 ★ Lendo os seguintes livros [Link](https://github.com/eduardodsr/MyBooks)
 
-★ Estou estudando atualmente estudando pelo Curso em Video [Link](https://github.com/eduardodsr/cursoemvideo)
+★ Estou estudando atualmente no Curso em Video, Prof. Gustavo Guanabara [Link](https://github.com/eduardodsr/cursoemvideo)
 
 ★ Estou estudando atualmente na Alura, Oracle ONE | Oracle Next Education - 2022 [Link](https://github.com/eduardodsr/AluraOracleONE). Consultar o meu perfil na Alura [clique aqui](https://cursos.alura.com.br/user/edsr-dev)
 
