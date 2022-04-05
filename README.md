@@ -27,11 +27,11 @@
 <!-- <img style="margin: 0 auto" src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" height="25"> -->
 <!-- Bem vindo ao meu portfólio! -->
 
-#### PT-BR 🇧🇷: Olá, eu sou o Eduardo, sou Desenvolvedor Full-Stack, busco sempre aprender e quando possível ensinar para ajudar o próximo.
+PT-BR 🇧🇷 &rarr; Olá, eu sou o Eduardo, sou Desenvolvedor Full-Stack, busco sempre aprender e quando possível ensinar para ajudar o próximo.
 
-#### EN-US 🇺🇸: Hello, I am Eduardo, I am a Full-Stack Developer, and I am always looking to learn and when possible to teach in order to help others.
+EN-US 🇺🇸 &rarr; Hello, I am Eduardo, I am a Full-Stack Developer, and I am always looking to learn and when possible to teach in order to help others.
 
-#### ES-ES 🇪🇸: Hola, soy Eduardo, soy Desarrollador Full-Stack, siempre intento aprender y cuando es posible enseñar para ayudar a los demás.
+ES-ES 🇪🇸 &rarr; Hola, soy Eduardo, soy Desarrollador Full-Stack, siempre intento aprender y cuando es posible enseñar para ayudar a los demás.
 
 ### ⚡ Sobre mim: 
 <!-- :open_book: -->
