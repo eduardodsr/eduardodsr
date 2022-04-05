@@ -27,6 +27,12 @@
 <!-- <img style="margin: 0 auto" src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" height="25"> -->
 <!-- Bem vindo ao meu portfólio! -->
 
+#### PT-BR 🇧🇷: Olá, eu sou o Eduardo, sou Desenvolvedor Full-Stack, busco sempre aprender e quando possível ensinar para ajudar o próximo.
+
+#### EN-US 🇺🇸: Hello, I am Eduardo, I am a Full-Stack Developer, and I am always looking to learn and when possible to teach in order to help others.
+
+#### ES-ES 🇪🇸: Hola, soy Eduardo, soy Desarrollador Full-Stack, siempre intento aprender y cuando es posible enseñar para ayudar a los demás.
+
 ### ⚡ Sobre mim: 
 <!-- :open_book: -->
 
@@ -35,15 +41,18 @@
 ![Focus](https://img.shields.io/badge/Focus-FrontEnd%20%2F%20BackEnd%20%2F%20FullCycle-blue)
 ![Visitor](https://visitor-badge.glitch.me/badge?page_id=eduardodsr.eduardodsr)
 
-### :star: Desenvolvedor Web - Foco em JavaScript: 
-<!-- :ballot_box_with_check:  -->
+### :star: Desenvolvedor Full Stack:   :dart:
+<!-- :ballot_box_with_check:  -->  
 
-<!-- :bow_and_arrow: -->
-:dart: [![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white&link=https://github.com/)](https://github.com/eduardodsr) 
-[![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&link=https://github.com/eduardodsr)](https://github.com/eduardodsr) [![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&link=https://github.com/eduardodsr)](https://github.com/eduardodsr) 
+- Front end &rarr; HTML, CSS e JS; Bootstrap; Framework React.JS;
+- Back end &rarr; Node.JS; PHP; Java; C# e .NET;
+- Controle de Versão &rarr; Git e GitHub;
+- Domínio em desenvolvimento de orientação a objetos (POO);
+- Conhecimento em Metodologia Ágeis &rarr; Scrum e Kanban;
+- Conhecimento em Banco de Dados &rarr; SQL e MySQL;
+- Noções de boas práticas de qualidade e testes de softwares.
+- Noções de Engenharia de Software e Arquitetura de Software.
 
-<!-- :bow_and_arrow: -->
-:dart: [![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript&link=https://github.com/eduardodsr)](https://github.com/eduardodsr) [![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat&logo=Node.js&link=https://github.com/eduardodsr)](https://github.com/eduardodsr) 
 
 ### :star: O que estou fazendo: 
 
@@ -59,18 +68,12 @@
 -->
 
 <!--
-★ Desenvolvedor BackEnd .NET. Fazendo o curso de Fundamentos da Linguagem C#. [Link](https://github.com/eduardodsr/fundamentos-csharp)
--->
-
-<!--
-★ Cursando no IGTI, o Bootcamp de Desenvolvedor Node.JS [Link](https://github.com/eduardodsr/dev-node-js) e o Bootcamp de Engenharia de Software Ágil. [Link](https://github.com/eduardodsr/bootcamp-eng-sw-agil)
--->
-
-<!--
 ★ Cursando Teste de Software & QA na Iterasys. [Link](https://github.com/eduardodsr/Teste-de-Software)
 -->
 
-★ Cursando FullCycle Development na Code Edu & School of Net. Atualmente, estou no módulo de Arquitetura de Software. [Link](https://github.com/eduardodsr/ArquiteturaSoftware). Para maiores informações sobre o curso de FullCycle Development consultar o PDF no [Link PDF do Curso](http://lancamento.fullcycle.com.br/Brochura-FullCycle-2.0.pdf).
+★ Cursando FullCycle Development na Code Edu & School of Net. <br>
+- Atualmente, estou no módulo de Arquitetura de Software. [Link](https://github.com/eduardodsr/ArquiteturaSoftware). <br>
+- Para maiores informações sobre o curso de FullCycle Development consultar o PDF no [Link PDF do Curso](http://lancamento.fullcycle.com.br/Brochura-FullCycle-2.0.pdf).
 -->
 
 <!-- :bow_and_arrow: -->
