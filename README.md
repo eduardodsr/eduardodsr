@@ -44,8 +44,8 @@ ES-ES 🇪🇸 &rarr; Hola, soy Eduardo, soy Desarrollador Full-Stack, siempre i
 ### :star: Desenvolvedor Full Stack:   :dart:
 <!-- :ballot_box_with_check:  -->  
 
-- Front end &rarr; HTML, CSS e JS; Bootstrap; Framework React.JS;
-- Back end &rarr; Node.JS; PHP; Java; C# e .NET;
+- Front end &rarr; HTML, CSS e JS; Bootstrap; Framework/Biblioteca React.JS;
+- Back end &rarr; Node.JS, PHP, Java, Python, C# e .NET;
 - Controle de Versão &rarr; Git e GitHub;
 - Domínio em desenvolvimento de orientação a objetos (POO);
 - Conhecimento em Metodologia Ágeis &rarr; Scrum e Kanban;
@@ -57,11 +57,14 @@ ES-ES 🇪🇸 &rarr; Hola, soy Eduardo, soy Desarrollador Full-Stack, siempre i
 ### :star: O que estou fazendo: 
 
 <!-- :ballot_box_with_check:  -->
+
 ★ Lendo os seguintes livros [Link](https://github.com/eduardodsr/MyBooks)
 
-★ Estou estudando atualmente no Curso em Video, Prof. Gustavo Guanabara [Link](https://github.com/eduardodsr/cursoemvideo)
+★ Estudando pelo Curso em Video, Prof. Gustavo Guanabara [Link](https://github.com/eduardodsr/cursoemvideo)
 
-★ Estou estudando atualmente na Alura, Oracle ONE | Oracle Next Education - 2022 [Link](https://github.com/eduardodsr/AluraOracleONE). Consultar o meu perfil na Alura [clique aqui](https://cursos.alura.com.br/user/edsr-dev)
+★ Cursando de JavaScript com Testes de Software, Prof. Fabio Vedovelli [Link](https://https://github.com/eduardodsr/curso-javascript-testes)
+
+★ Estudano pela plataforma da Alura | Oracle Next Education [Link](https://github.com/eduardodsr/AluraOracleONE) | Perfil na Alura [clique aqui](https://cursos.alura.com.br/user/edsr-dev)
 
 <!--
 ★ Estudando o framework React JS. Estudando e praticando pelo curso JavaScript Masterclass [Link](https://github.com/eduardodsr/javascript-masterclass)
@@ -71,10 +74,8 @@ ES-ES 🇪🇸 &rarr; Hola, soy Eduardo, soy Desarrollador Full-Stack, siempre i
 ★ Cursando Teste de Software & QA na Iterasys. [Link](https://github.com/eduardodsr/Teste-de-Software)
 -->
 
-★ Cursando FullCycle Development na Code Edu & School of Net. <br>
-- Atualmente, estou no módulo de Arquitetura de Software. [Link](https://github.com/eduardodsr/ArquiteturaSoftware). <br>
-- Para maiores informações sobre o curso de FullCycle Development consultar o PDF no [Link PDF do Curso](http://lancamento.fullcycle.com.br/Brochura-FullCycle-2.0.pdf).
--->
+★ Cursando FullCycle Development na Code Edu & School of Net [Link](https://fullcycle.com.br).
+
 
 <!-- :bow_and_arrow: -->
 <!--
