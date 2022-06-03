@@ -65,69 +65,10 @@ ES-ES 🇪🇸 &rarr; Hola, soy Eduardo, soy Desarrollador Full-Stack, siempre i
 
 ★ Cursando de JavaScript com Testes de Software, Prof. Fabio Vedovelli [Link](https://https://github.com/eduardodsr/curso-javascript-testes)
 
-★ Estudano pela plataforma da Alura | Oracle Next Education [Link](https://github.com/eduardodsr/AluraOracleONE) | Perfil na Alura [clique aqui](https://cursos.alura.com.br/user/edsr-dev)
-
-<!--
-★ Estudando o framework React JS. Estudando e praticando pelo curso JavaScript Masterclass [Link](https://github.com/eduardodsr/javascript-masterclass)
--->
-
-<!--
-★ Cursando Teste de Software & QA na Iterasys. [Link](https://github.com/eduardodsr/Teste-de-Software)
--->
+★ Estudando pela plataforma da Alura | Oracle Next Education [Link](https://github.com/eduardodsr/AluraOracleONE) | Perfil na Alura [clique aqui](https://cursos.alura.com.br/user/edsr-dev)
 
 ★ Cursando FullCycle Development na Code Edu & School of Net [Link](https://fullcycle.com.br).
 
-
-<!-- :bow_and_arrow: -->
-<!--
-:dart: [![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python&link=https://github.com/eduardodsr)](https://github.com/eduardodsr)
--->
-
-
-<!--
-
-<details class="HARD_SKILLS">
-<summary><strong> ✔️ HARD SKILLS (Habilidades Técnicas)  </strong></summary>
-
-### HARD SKILLS:  💬
-  
--	Desenvolvedor Front End (HTML, CSS e JavaScript); 
-  
--	Desenvolvedor React, biblioteca JavaScript.
-  
--	Controle de Versão (Git e GitHub); 
-  
--	Metodologia Ágil (Scrum e Kanban);
-  
--	OS – Microsoft Windows; MacOS e Linux;
-  
--	Office – Microsoft Office, Office 365; Libre Office;
-  
--	Redes – CISCO CCNA; Banco de Dados – SQL;
-  
--	Gestão de Serviços de TI – Frameworks ITIL e Cobit;
-  
-
-</details>
-
-<br>
-
-<details class="SOFT_SKILLS">  
-<summary><strong> ✔️ SOFT SKILLS (Habilidades Comportamentais) </strong></summary>
-
-### SOFT SKILLS:  💬
- 
--	Liderança; boa comunicação; bom planejamento;
-  
--	Trabalho em equipe; proatividade; persistência; 
-  
--	Ética; comprometimento; colaboração; empatia; 
-  
--	Criatividade; inovação; negociação de conflitos.
-  
-</details>
-
--->
 
 
 ### :dart: Projects (Kanban): 
@@ -229,35 +170,3 @@ if __name__ == '__main__':
 <code><a href="https://developer.mozilla.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/firefox/firefox-ar21.svg"></a></code>
 <code><a href="https://developers.google.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/google_chrome/google_chrome-ar21.svg"></a></code>
 </div>
-
-<!--
-
-## Bootcamp: :star:
-<div>
-<a href="https://github.com/eduardodsr/Bootcamp-Desenvolvimento-Full-Stack">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=eduardodsr&repo=Bootcamp-Desenvolvimento-Full-Stack&theme=radical" />
-</a> 
-<a href="https://github.com/eduardodsr/devreact">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=eduardodsr&repo=devreact&theme=radical" />
-</a>   
-<a href="https://github.com/eduardodsr/Desenvolvedor-Front-End">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app` 
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=eduardodsr&repo=Desenvolvedor-Front-End&theme=radical" />
-</a>   
-  <a href="https://github.com/eduardodsr/Desenvolvedor-Python">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=eduardodsr&repo=Desenvolvedor-Python&theme=radical" />
-</a>    
-  <a href="https://github.com/eduardodsr/bootcamp-IGTI">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=eduardodsr&repo=bootcamp-IGTI&theme=radical" />
-</a>    
-  <a href="https://github.com/eduardodsr/Python-Pro">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=eduardodsr&repo=Python-Pro&theme=radical" />
-</a>    
-</div> 
-
--->
