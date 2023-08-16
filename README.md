@@ -75,8 +75,9 @@ ES-ES 🇪🇸 &rarr; Hola, soy Eduardo, soy Desarrollador Full-Stack, siempre i
 
 ### :dart: Projects (Kanban): 
 
+<!--
  ``` link: ```  https://github.com/users/eduardodsr/projects/1
- 
+--> 
  
  
 ### 🛠️ 👨‍💻 Languages: 
