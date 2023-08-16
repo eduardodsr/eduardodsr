@@ -39,7 +39,11 @@ ES-ES 🇪🇸 &rarr; Hola, soy Eduardo, soy Desarrollador Full-Stack, siempre i
 ![Graduate](https://img.shields.io/badge/Graduate-Information%20Systems-blue)
 ![Job](https://img.shields.io/badge/Job-Developer-blue)
 ![Focus](https://img.shields.io/badge/Focus-FullStack%20%2F%20FullCycle-blue)
-![Visitor](https://visitor-badge.glitch.me/badge?page_id=eduardodsr.eduardodsr)
+![Visitors](https://visitor-badge.glitch.me/badge?page_id=66234125)
+
+![visitors1](https://visitor-badge.glitch.me/badge?page_id=eduardodsr.66234125)
+
+![visitors2](https://visitor-badge.glitch.me/badge?page_id=66234125.visitor)
 
 
 ### :star: Desenvolvedor Full Stack:   :dart:
