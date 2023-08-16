@@ -59,6 +59,8 @@ ES-ES 🇪🇸 &rarr; Hola, soy Eduardo, soy Desarrollador Full-Stack, siempre i
 
 <!-- :ballot_box_with_check:  -->
 
+<!--
+
 ★ Lendo os seguintes livros [Link](https://github.com/eduardodsr/MyBooks)
 
 ★ Estudando pelo Curso em Video, Prof. Gustavo Guanabara [Link](https://github.com/eduardodsr/cursoemvideo)
@@ -69,7 +71,7 @@ ES-ES 🇪🇸 &rarr; Hola, soy Eduardo, soy Desarrollador Full-Stack, siempre i
 
 ★ Cursando FullCycle Development na Code Edu & School of Net [Link](https://fullcycle.com.br).
 
-
+-->
 
 ### :dart: Projects (Kanban): 
 
