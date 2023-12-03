@@ -43,43 +43,7 @@ ES-ES 🇪🇸 &rarr; Hola, soy Eduardo, soy Desarrollador Full-Stack, siempre i
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=eduardodsr.visitor-badge) -->
 
 
-### :star: Desenvolvedor Full Stack:   :dart:
-<!-- :ballot_box_with_check:  -->  
 
-- Front end &rarr; HTML, CSS e JS; Bootstrap; Framework/Biblioteca React.JS;
-- Back end &rarr; Node.JS, PHP, Java, Python, C# e .NET;
-- Controle de Versão &rarr; Git e GitHub;
-- Domínio em desenvolvimento de orientação a objetos (POO);
-- Conhecimento em Metodologia Ágeis &rarr; Scrum e Kanban;
-- Conhecimento em Banco de Dados &rarr; SQL e MySQL;
-- Noções de boas práticas de qualidade e testes de softwares.
-- Noções de Engenharia de Software e Arquitetura de Software.
-
-
-### :star: O que estou fazendo: 
-
-<!-- :ballot_box_with_check:  -->
-
-<!--
-
-★ Lendo os seguintes livros [Link](https://github.com/eduardodsr/MyBooks)
-
-★ Estudando pelo Curso em Video, Prof. Gustavo Guanabara [Link](https://github.com/eduardodsr/cursoemvideo)
-
-★ Cursando de JavaScript com Testes de Software, Prof. Fabio Vedovelli [Link](https://https://github.com/eduardodsr/curso-javascript-testes)
-
-★ Estudando pela plataforma da Alura | Oracle Next Education [Link](https://github.com/eduardodsr/AluraOracleONE) | Perfil na Alura [clique aqui](https://cursos.alura.com.br/user/edsr-dev)
-
-★ Cursando FullCycle Development na Code Edu & School of Net [Link](https://fullcycle.com.br).
-
--->
-
-### :dart: Projects (Kanban): 
-
-<!--
- ``` link: ```  https://github.com/users/eduardodsr/projects/1
---> 
- 
  
 ### 🛠️ 👨‍💻 Languages: 
 
@@ -90,42 +54,12 @@ ES-ES 🇪🇸 &rarr; Hola, soy Eduardo, soy Desarrollador Full-Stack, siempre i
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eduardodsr&langs_count=10&hide=glsl,python,css&show_icons=true)](https://github.com/eduardodsr/github-readme-stats)
 
 
-### :mailbox_with_no_mail: Contato:  
+<!-- ### :mailbox_with_no_mail: Contato:  -->
 
 <!-- :email: : eduardodsr@gmail.com -->
 
 
-<!--
 
-###  [ Python 🐍] A little more about me...  👇
-
-[Link Code Python](https://github.com/eduardodsr/Python-Google-Colab/blob/master/eduardodsr.ipynb "Link Code Python - Google Colab")
-
-```python
-class eduardodsr:
-
-    def __init__(self):
-        self.username = 'eduardodsr'
-        self.name = 'Eduardo da Silva Rodrigues'
-        self.web = 'https://edsr.dev'
-        self.code = {
-            'frontend': ['HTML', 'CSS', 'JavaScript', 'React JS', 'Boostrap'],
-            'backend': ['Python', 'Node JS', 'Java'],
-            'database': ['SQL', 'Mongo DB', 'JSON'],
-            'devops': [' '],
-            'tools': ['GitHub', 'Jupyter Notebook'],
-            'misc': ['SCRUM', 'GNU/Linux']
-        }
-        self.architecture = [' ']
-
-    def __str__(self):
-        return self.name
-
-if __name__ == '__main__':
-    me = eduardodsr()
-```
-
--->
 
 <!--
 
