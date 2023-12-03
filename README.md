@@ -94,7 +94,6 @@ ES-ES 🇪🇸 &rarr; Hola, soy Eduardo, soy Desarrollador Full-Stack, siempre i
 
 <!-- :email: : eduardodsr@gmail.com -->
 
-:email: : eduardodsr@gmail.com
 
 <!--
 
