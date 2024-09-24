@@ -27,11 +27,13 @@
 <!-- <img style="margin: 0 auto" src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" height="25"> -->
 <!-- Bem vindo ao meu portfólio! -->
 
+<!-- 
 PT-BR 🇧🇷 &rarr; Olá, eu sou o Eduardo, sou Desenvolvedor Full-Stack, busco sempre aprender e quando possível ensinar para ajudar o próximo.
 
 EN-US 🇺🇸 &rarr; Hello, I am Eduardo, I am a Full-Stack Developer, and I am always looking to learn and when possible to teach in order to help others.
 
 ES-ES 🇪🇸 &rarr; Hola, soy Eduardo, soy Desarrollador Full-Stack, siempre intento aprender y cuando es posible enseñar para ayudar a los demás.
+-->
 
 ### ⚡ Sobre mim: 
 <!-- :open_book: -->
@@ -82,7 +84,9 @@ ES-ES 🇪🇸 &rarr; Hola, soy Eduardo, soy Desarrollador Full-Stack, siempre i
 ### 🛠️ 👨‍💻  Languages and Tools:  
 
 <div class="code" align="left">
-<code><a href="https://edsr.dev/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/devto/devto-ar21.svg"></a></code>  
+<code><a href="https://github.com/EDUARDODSR)" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/devto/devto-ar21.svg"></a></code>  
+
+<!--
 <code><a href="https://www.w3.org/html/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></a></code>
 <code><a href="https://www.w3.org/css/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-ar21.svg"></a></code>   
 <code><a href="https://getbootstrap.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-ar21.svg"></a></code> 
@@ -106,4 +110,6 @@ ES-ES 🇪🇸 &rarr; Hola, soy Eduardo, soy Desarrollador Full-Stack, siempre i
 <code><a href="https://www.mongodb.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"></a></code>
 <code><a href="https://developer.mozilla.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/firefox/firefox-ar21.svg"></a></code>
 <code><a href="https://developers.google.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/google_chrome/google_chrome-ar21.svg"></a></code>
+-->
+  
 </div>
