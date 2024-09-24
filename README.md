@@ -38,7 +38,7 @@ ES-ES 🇪🇸 &rarr; Hola, soy Eduardo, soy Desarrollador Full-Stack, siempre i
 ### ⚡ Sobre mim: 
 <!-- :open_book: -->
 
-![Graduate](https://img.shields.io/badge/Graduate-Information%20Systems-blue)
+![Graduate](https://img.shields.io/badge/Graduação-Sistemas%20de%20Informação-blue)
 <!--
 ![Job](https://img.shields.io/badge/Job-Developer-blue)
 ![Focus](https://img.shields.io/badge/Focus-FullStack%20%2F%20FullCycle-blue)
