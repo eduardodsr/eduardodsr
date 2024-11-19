@@ -7,7 +7,7 @@
 </p>
 <h1 align="center"> <img style="margin: 0 auto" src="https://github.com/eduardodsr/eduardodsr/blob/master/brazil.gif" height="25"> 
 <!-- :brazil: --> 
-  Eduardo D. S. R.  
+  Eduardo da Silva Rodrigues 
 </h1>
 
 <p align="center">     
@@ -27,13 +27,28 @@
 <!-- <img style="margin: 0 auto" src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" height="25"> -->
 <!-- Bem vindo ao meu portfólio! -->
 
-<!-- 
-PT-BR 🇧🇷 &rarr; Olá, eu sou o Eduardo, sou Desenvolvedor Full-Stack, busco sempre aprender e quando possível ensinar para ajudar o próximo.
 
-EN-US 🇺🇸 &rarr; Hello, I am Eduardo, I am a Full-Stack Developer, and I am always looking to learn and when possible to teach in order to help others.
+Portugues 🇧🇷 &rarr; 
+Olá, eu sou o Eduardo, busco sempre aprender e, quando possível, ensinar para ajudar o próximo.
 
-ES-ES 🇪🇸 &rarr; Hola, soy Eduardo, soy Desarrollador Full-Stack, siempre intento aprender y cuando es posible enseñar para ayudar a los demás.
--->
+Inglês 🇺🇸 &rarr; 
+Hello, I’m Eduardo. I always seek to learn and, when possible, to teach to help others.
+
+Espanhol 🇪🇸 &rarr; 
+Hola, soy Eduardo. Siempre intento aprender y, cuando es posible, enseñar para ayudar a los demás.
+
+Italiano 🇮🇹 &rarr; 
+Ciao, sono Eduardo, cerco sempre di imparare e, quando possibile, di insegnare per aiutare gli altri.
+
+Francês 🇫🇷 &rarr; 
+Bonjour, je suis Eduardo, je cherche toujours à apprendre et, quand c'est possible, à enseigner pour aider les autres.
+
+Alemão 🇩🇪 &rarr; 
+Hallo, ich bin Eduardo. Ich lerne immer gerne und helfe anderen, wenn es möglich ist.
+
+Japonês 🇯🇵 &rarr; 
+こんにちは、エドゥアルドです。いつも学び、可能なときには他の人を助けるために教えることを心がけています。
+
 
 ### ⚡ Sobre mim: 
 <!-- :open_book: -->
