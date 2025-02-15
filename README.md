@@ -96,47 +96,52 @@ Japonês 🇯🇵 &rarr;
 
 
 
-### 🛠️ 👨‍💻  Languages and Tools:  
-
 <div class="code" align="left">
+  <h3>🛠️👨‍💻 Languages and Tools:</h3>
+
   <!-- Links de Tecnologias Web -->
+  <h4>🌐 Web Technologies</h4>
   <code><a href="https://www.w3.org/html/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></a></code>
   <code><a href="https://www.w3.org/css/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-ar21.svg"></a></code>
   <code><a href="https://getbootstrap.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-ar21.svg"></a></code>
   <code><a href="https://www.javascript.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></a></code>
   <code><a href="https://www.json.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/json/json-ar21.svg"></a></code>
-  
-  <!-- Links de Linguagens de Programação -->
+
+  <!-- Links de Linguagens de Programação --> </br>
+  <h4>💻 Programming Languages</h4>
   <code><a href="https://www.php.net/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/php/php-ar21.svg"></a></code>
   <code><a href="https://www.java.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></a></code>
-  <code><a href="[https://spring.io/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/springio/springio-ar21.svg"></a></code>
   <code><a href="https://dotnet.microsoft.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/dotnet/dotnet-ar21.svg"></a></code>
   <code><a href="https://www.python.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></a></code>
 
-  
-
-  <!-- Links de Ferramentas e Repositórios -->
+  <!-- Links de Ferramentas e Repositórios --> </br>
+  <h4>🛠️ Tools & Repositories</h4>
   <code><a href="https://git-scm.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></a></code>
   <code><a href="https://github.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"></a></code>
   <code><a href="https://www.markdownguide.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/commonmark/commonmark-ar21.svg"></a></code>
 
-  <!-- Links de Sistemas Operacionais -->
+  <!-- Links de Sistemas Operacionais --> </br>
+  <h4>🖥️ Operating Systems</h4>
   <code><a href="https://www.apple.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/apple/apple-ar21.svg"></a></code>
   <code><a href="https://www.linux.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg"></a></code>
   <code><a href="https://www.microsoft.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/microsoft/microsoft-ar21.svg"></a></code>
 
   <!-- Links de IDEs e Ferramentas de Desenvolvimento -->
+  <h4>💻 IDEs & Development Tools</h4>
   <code><a href="https://code.visualstudio.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg"></a></code>
   <code><a href="https://www.jetbrains.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/jetbrains/jetbrains-ar21.svg"></a></code>
 
-  <!-- Links de Navegadores -->
+  <!-- Links de Navegadores --> </br>
+  <h4>🌐 Browsers</h4>
   <code><a href="https://developer.mozilla.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/firefox/firefox-ar21.svg"></a></code>
   <code><a href="https://developers.google.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/google_chrome/google_chrome-ar21.svg"></a></code>
 
-  <!-- Links de Bancos de Dados -->
+  <!-- Links de Bancos de Dados --> </br>
+  <h4>💾 Databases</h4>
   <code><a href="https://www.mysql.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></a></code>
 
-  <!-- Links de Outras Plataformas -->
+  <!-- Links de Outras Plataformas --> </br>
+  <h4>🔗 Other Platforms</h4>
   <code><a href="https://github.com/EDUARDODSR" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/devto/devto-ar21.svg"></a></code>
 </div>
 
