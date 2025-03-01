@@ -7,7 +7,7 @@
 </p>
 <h1 align="center"> <img style="margin: 0 auto" src="https://github.com/eduardodsr/eduardodsr/blob/master/brazil.gif" height="25"> 
 <!-- :brazil: --> 
-  Eduardo da Silva Rodrigues 
+  Eduardo S. Rodrigues 
 </h1>
 
 <p align="center">     
