@@ -48,7 +48,7 @@ Hallo, ich bin Eduardo. Ich lerne immer gerne und helfe anderen, wenn es möglic
 ### ⚡ Sobre mim: 
 <!-- :open_book: -->
 
-![Graduate](https://img.shields.io/badge/Graduate-Sistemas%20de%20Informação-blue)
+![Graduate](https://img.shields.io/badge/Graduate-Information%20Systems%20(Bachelor´s%20%20degree)-blue)
 ![Pos-Graduate](https://img.shields.io/badge/PosGraduate-Project%20Management-blue)
 ![Occupation](https://img.shields.io/badge/Occupation-Developer-blue)
 ![Job](https://img.shields.io/badge/Job-CAIXA-blue)
