@@ -17,7 +17,7 @@
   </p>
 
 
-### :thumbsup: Hello! 
+### :thumbsup: Hello!  | about me: 
 <!-- <img style="margin: 0 auto" src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" height="25"> -->
 <!-- Bem vindo ao meu portfólio! -->
 
@@ -45,7 +45,7 @@ Hallo, ich bin Eduardo. Ich lerne immer gerne und helfe anderen, wenn es möglic
 
 </br>
 
-### ⚡ Sobre mim: 
+### ⚡ Summary
 <!-- :open_book: -->
 
 ![Graduate](https://img.shields.io/badge/Graduate-Information%20Systems%20(Bachelor´s%20%20degree)-blue)
