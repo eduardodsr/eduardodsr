@@ -5,10 +5,15 @@
 -->
 
 </p>
-<h1 align="center"> <img style="margin: 0 auto" src="https://github.com/eduardodsr/eduardodsr/blob/master/brazil.gif" height="25"> 
-<!-- :brazil: --> 
+
+
+<h1 align="center">
+  <img src="https://github.com/eduardodsr/eduardodsr/blob/master/brazil.gif" style="margin: 0 auto; height: 25px; max-width: 100%; display: block;">
+  <!-- :brazil: --> 
   Eduardo S. Rodrigues 
 </h1>
+
+
 
 <p align="center">     
   <a href="https://github.com/eduardodsr" alt="github.com/eduardodsr" target="_blank"><img src="https://img.shields.io/badge/-github.com/eduardodsr-0e2c54?style=flat-square&logo=chrome&logoColor=black" /></a>
