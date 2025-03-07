@@ -154,7 +154,9 @@ Hallo, ich bin Eduardo. Ich lerne immer gerne und helfe anderen, wenn es möglic
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eduardodsr&count_private=true)
 -->
 
+<!--
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eduardodsr&show_icons=true)
+-->
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eduardodsr&show_icons=true&theme=dark)
 
