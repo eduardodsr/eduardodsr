@@ -7,9 +7,12 @@
 </p>
 
 
-<h1 align="center">
+<p align="center">
   <img src="https://github.com/eduardodsr/eduardodsr/blob/master/brazil.gif" style="margin: 0 auto; height: 25px; max-width: 100%; display: block;">
   <!-- :brazil: --> 
+</p>
+
+<h1 align="center">
   Eduardo S. Rodrigues 
 </h1>
 
