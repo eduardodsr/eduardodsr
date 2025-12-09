@@ -62,16 +62,15 @@ Hallo, ich bin Eduardo. Ich lerne immer gerne und helfe anderen, wenn es möglic
 ![Job](https://img.shields.io/badge/Job-CAIXA-blue)
 
 
-</br>
-
+<!--
 ### 🛠️ 👨‍💻 Languages: 
-
+-->
 <!--
 ![Github stats](https://github-readme-stats.vercel.app/api?username=eduardodsr&show_icons=true)
 -->
-
+<!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eduardodsr&langs_count=10&hide=glsl,python,css&show_icons=true)](https://github.com/eduardodsr/github-readme-stats)
-
+-->
 
 <!-- ### :mailbox_with_no_mail: Contato:  -->
 
@@ -166,13 +165,13 @@ Hallo, ich bin Eduardo. Ich lerne immer gerne und helfe anderen, wenn es möglic
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eduardodsr&show_icons=true)
 -->
 
+<!-- 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eduardodsr&show_icons=true&theme=dark)
+-->
 
 <!-- 
 dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula
 -->
-
-
 
 
 </div>
